@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 # from: https://github.com/pengx17/knowledge-garden/blob/c2b7dc04ceef299e3dd0a238630a82af11cff858/.github/workflows/main.yml
 
-name: CI
+name: Publish Graph
 
 # Controls when the workflow will run
 on:
