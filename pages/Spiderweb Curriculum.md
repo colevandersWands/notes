@@ -1,2 +1,9 @@
-- [4CID]([[Ten Steps to Complex Learning: A New Approach to Instruction and Instructional Design]])
-- [[SOLO Taxonomy]]
+- references
+	- [4CID]([[Ten Steps to Complex Learning: A New Approach to Instruction and Instructional Design]])
+	- [[SOLO Taxonomy]]
+	- [[Block Model]]
+	- [[Context is Content]]
+- helps to give an implicit need/motivation for each learning objective
+	- from the designer's end: a helpful tool for deciding what to include and exclude
+	- from the learner's perspective: meaning and anchoring for LOs, even seemingly useless ones ([[Learner Trust]])
+- in contrast to more common curriculum models such as purely linear lists, https://roadmap.sh/frontend or https://exercism.org/tracks/javascript/concepts

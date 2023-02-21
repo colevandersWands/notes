@@ -1,0 +1,6 @@
+tags:: bibliography
+
+- **Abstract:** Coupling the recently proposed syntactic/semantic model of programmer behavior [1] with classic educational psychological theories yields new insights to teaching programming to novices. These new insights should make programming education more natural to students. alleviate “computer shock” (the analog of “math anxiety”[2]) and promote the development of widespread “computer literacy”. 
+  The spiral approach is the parallel acquisition of syntactic and semantic knowledge in a sequence which provokes student interest by using meaningful examples, builds on previous knowledge. is in harmony with the student’s cognitive skills, provides reinforcement of recently acquired material and develops confidence through successful accomplishment of increasingly difficult tasks. The relationship of structured programming and flowcharts to the spiral approach is discussed.
+- ![full paper (PDF)](../assets/shneiderman1977_1676979189264_0.pdf)
+- SHNEIDERMAN, Ben. Teaching programming: A spiral approach to syntax and semantics. *Computers & Education*, 1977, 1.4: 193-197.

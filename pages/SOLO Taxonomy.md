@@ -1,6 +1,4 @@
-- Programming is complicated, there are many concepts to learn and all of the concepts are related in different ways. This means you actually have two kinds of knowledge to build:
-	- **Concepts**: The individual concepts of programming, things like *_variables_* and *_APIs_* and *_repositories_*. Studying each of these concepts separately will be important before moving on to ...
-	- **Connections**: How the individual concepts are related, each relationship is a new thing to learn! For example once you understand variables and arrays separately, you will still need to study *_reference vs. value_* (how *_variables_* store *_arrays_* in memory).
+- [[Connections are Concepts]]
 - **Self-Assessment**: A helpful way to assess your own understanding is to use the *_SOLO Taxonomy_*. From top to bottom, each row in the table below represents the next step in your learning. The first levels of the SOLO Taxonomy (*_Prestructural_*, *_Unistructural_*, *_Multistructural_*) are about understanding **concepts**. The last levels (*_Relational_*, *_Extended Abstract_*) are about understanding and
   mastering **connections**.
 - ![solo-and-questions.png](../assets/solo-and-questions_1676715074595_0.png){:height 590, :width 776} - [Stuff and Nonsense](https://bobthedog3.blogspot.com/2015/11/using-solo-taxonomy-to-help-to.html)

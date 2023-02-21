@@ -1,0 +1,17 @@
+- Often empirically effective exercises/activities are not the most exciting, and can be counter to what a learner expects when they start learning to program (ie. reading, tracing, summarizing, ...). And the pay-offs for these methods are not as immediately tangible as "just building stuff".
+- Gaining and keeping your learner's trust is (at least) doubly important: #.ol-nested
+	- **Immediate Buy-In**: tapping into a learner's trust will help you teach more effectively when asking the learner to practice a skill who's relevance cannot be felt until later. #.ol-nested
+	- **Opportunity Cost (2-part)**: If a learner trusts your method they will spend less time seeking out alternative materials. This will help:
+		- By not "losing" time with other materials that may be more rewarding but less effective
+		- By not learning in a way that is inconsistent with or counter to the prescribed curriculum
+- No matter what methods you use, learning to program requires perseverance and frustration. One way to overcome this obstacle is fun or motivating assignments.
+	- but what happens when immediately motivating assignments are not the most effective (or even counterproductive) in the long term? Can a learner's trust in the teacher and the curriculum take the place of immediately gratifying assignments to motivate learners? #question
+- How do you build and maintain a learner's trust? #question
+	- as a teacher? as a curriculum designer? as a peer?
+	- what role does setting and maintaining clear expectations play, especially if those expectations are not what the learner expected when joining the course?
+- What effect does learner trust have on learning outcomes? #question
+- Is there a relationship between learner trust and intrinsic motivation? #question
+	- perhaps a more motivated learner is less impacted by broken trust?
+-
+-
+-

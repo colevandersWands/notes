@@ -1,0 +1,10 @@
+- Here are a few suggestions for assessment:
+	- The [[SOLO Taxonomy]] for general mastery of programming
+	- The [[Block Model]] for mastery of specific programs
+- Self-Assessment
+	- Learning to assess your own knowledge and performance are important skills for a software developer. Here we'll introduce you to a few concepts and techniques you can use to assess your understanding of programming languages and more generally, software development.
+	- Assessing your own programming skills is naturally hard:
+		- You're brand new to this, you don't even know what you don't know yet! So how can you be expected to assess yourself?
+		- Programming is very complicated. Knowing where you stand is challenging when there are so many different concepts, and all the concepts are related.
+	- You can't expect perfect results, but even trying to self-assess will speed up your progress by leaps and bounds. You'll learn to notice when you don't understand something, how to identify & isolate that concept, and how to redirect your study.
+- Peer-Assessment

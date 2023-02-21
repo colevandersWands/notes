@@ -1,0 +1,1 @@
+- [Side By Side](https://blocks-to-text.github.io/side-by-side/) is a proof-of-concept block-based editor that supports writing Python with blocks and studying the generated text-based code side by side.  It also features a very early web-based prototype of the [[Study Lenses]] concept, and basic not-taking.
