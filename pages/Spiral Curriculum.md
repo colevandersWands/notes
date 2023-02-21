@@ -1,3 +1,5 @@
 - [nelson '21]([[Teaching and Assessing Programming Language Tracing]])
+- [[nelson '21]]
 - Special case of the [[Spiderweb Curriculum]]
+-
 -
