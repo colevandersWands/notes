@@ -1,0 +1,3 @@
+- [[Spiderweb Curriculum]] - identify your "core competency" as planning and collaborating, elaborate based on field specifics such as technologies or methodologies
+- [[4CID]] -
+-
