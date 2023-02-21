@@ -1,3 +1,5 @@
 - [[Spiderweb Curriculum]] - identify your "core competency" as planning and collaborating, elaborate based on field specifics such as technologies or methodologies
-- [[4CID]] -
+- [[4CID]] - initial task classes should limit everything not strictly necessary to plan an collaborate
+- a new take on the "* first" debate
+- merges discussions of curriculum design, learning objective sequencing and fostering a sense of belonging
 -
