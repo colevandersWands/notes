@@ -1,4 +1,6 @@
-- [unask](https://wiki.c2.com/?UnaskTheQuestion) which paradigm(s) are best first.
+tags:: design
+
+- [[Unask]] which paradigm(s) are best first.
 	- instead, first set the scene:
 		- [[Rhetorics of Programming]]: where and how does what you're teaching happen?
 		- identify your "core competency" such as planning and collaborating
@@ -10,6 +12,6 @@
 - must make distinction between "CS" classes and "programming" classes
 - merges discussions of curriculum design, learning objective sequencing and inclusion
 - examples
-	- [[DeNepo Web Dev]]: modules 1-3
+	- [[De Nepo Web Dev]]: modules 1-3
 	- [[Welcome to JS]]: What is programming?
 -

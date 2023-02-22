@@ -1,0 +1,4 @@
+- [dijkstra '89]([[On the Cruelty of Really Teaching Computing Science]]) -> [partridge '95]([[On the Difficulty of Really Considering a Radical Novelty]]) (an [[Unask]] )
+- [rotolo et al. 2015]([[What is an Emerging Technology?]])
+- [There is no "First" in CS1](https://computinged.wordpress.com/2010/11/27/there-is-no-first-in-cs1/) - Mark Guzdial
+-

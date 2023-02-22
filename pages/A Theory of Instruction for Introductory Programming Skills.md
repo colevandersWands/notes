@@ -1,4 +1,4 @@
-tags:: bibliography
+tags:: bibliography, theory, phase1b
 
 - **Abstract:**
   *Background and Context*: Current introductory instruction fails to identify, structure, and sequence the many skills involved in programming.
@@ -6,7 +6,7 @@ tags:: bibliography
   *Method*: We conducted an exploratory mixed-methods study and compared students’ exercise completion rates, error rates, ability to explain code, and engagement when learning to program. We compared material that reflects this theory to more traditional material that does not distinguish between skills.
   *Findings*: Teaching skills incrementally resulted in improved completion rate on practice exercises, and decreased error rate and improved understanding of the post-test.
   *Implications*: By structuring programming skills such that they can be taught explicitly and incrementally, we can inform instructional design and improve future research on under- standing how novice programmers develop understanding.
-- ![full paper (PDF)](../assets/IntroCSTheoryOfInstruction_1676979416173_0.pdf)
+- full paper: ![local copy](../assets/IntroCSTheoryOfInstruction_1676979416173_0.pdf), [online](https://par.nsf.gov/servlets/purl/10107744)
 - XIE, Benjamin, et al. A theory of instruction for introductory programming skills. *Computer Science Education*, 2019, 29.2-3: 205-253.
 - ```
   @article{xie2019theory,

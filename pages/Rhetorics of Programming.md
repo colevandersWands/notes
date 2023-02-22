@@ -1,7 +1,5 @@
 -
 - [[Spiderweb Curriculum]]
-- developers vs. programmers:
-	- https://computinged.wordpress.com/2012/05/21/we-need-to-produce-far-more-software-developers-than-programmers-how-do-we-change/
 -
 - ## Web Development
 	- (make, then link to DeNepo template repo)
@@ -18,3 +16,6 @@
 	- The group projects you will work on will help you understand investigative data science projects from beginning to end. The main focus is collaboration, project planning/scoping, and communicating your results effectively.
 	- You should keep the technical aspects of your project as simple as possible so you can finish your projects on schedule, and so you are free to focus on _the big picture_:
 	- ![the-big-picture.svg](../assets/the-big-picture_1676716610349_0.svg)
+- developers vs. programmers:
+	- https://computinged.wordpress.com/2012/05/21/we-need-to-produce-far-more-software-developers-than-programmers-how-do-we-change/
+- [[Full Complexity, Max Simplicity]]

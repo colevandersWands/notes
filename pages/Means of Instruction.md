@@ -1,0 +1,5 @@
+- > The **means of instruction** is a term which describes *technology*, *labor* and *capital* that can be used to design and deliver education (such as content or curriculum hosting); however, the term can also refer to anything that is used to deliver education. It can also be used as an abbreviation of the "means of instruction and distribution" which additionally includes the *logistical* distribution and delivery of instruction, generally through existing education systems.
+	- adapted from https://en.wikipedia.org/wiki/Means_of_production
+- true [[Open Source]] and [[Open Education]] liberates the means of instruction
+	- open source !== open education
+	- [[Study Lenses]]

@@ -1,3 +1,5 @@
+tags:: design
+
 - Special case of the [[Spiderweb Curriculum]]
 	- the rings of the web represents a progression of [[Language Level]]s
 	- the progression of language levels can be defined by [[Task Class]]es, though several language levels may fit within the same task class

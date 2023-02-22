@@ -1,0 +1,7 @@
+- participatory research methodologies
+	- [[Action-Design Research]]
+	- [[Agile Research]]
+	- [[Translational Sprint]]
+- related
+	- [[Research-Practice Partnership]]
+	-

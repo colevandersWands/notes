@@ -1,4 +1,5 @@
-- [4CID]([[Ten Steps to Complex Learning: A New Approach to Instruction and Instructional Design]])
+- [4CID]([[Four Component Instructional Design]])
+  id:: 63f4bbe3-812a-4421-aaf3-0428228a6208
 - If a task class is well defined:
 	- learners can use the task class to focus and measure their own study
 	- teachers can use a task class to informally asses and guide students

@@ -1,1 +1,4 @@
+- **Open, Useful, Usable, Used:**
+	- "Open knowledge is what open data becomes when it’s useful, usable and used" - [Open Knowledge Foundation](https://okfn.org/opendata/)
+	- "Open education is what happens when open educational resources are useful, usable and used" - me
 - [[Reusability Paradox]]

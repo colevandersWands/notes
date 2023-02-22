@@ -1,1 +1,1 @@
--
+- Some principles behind Study Lenses: [[Context is Content]], [[Means of Instruction]], [[Open Education]], [[Open Source]], [[PRIMM]], [[Explicitly Teach the Implicit]], [[Notional Machine]]

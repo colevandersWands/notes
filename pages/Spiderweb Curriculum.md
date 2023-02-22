@@ -1,5 +1,8 @@
+tags:: design
+
 - references
-	- [4CID]([[Ten Steps to Complex Learning: A New Approach to Instruction and Instructional Design]])
+	- [4CID]([[Four Component Instructional Design]])
+	  id:: 63f09f7a-6e37-4261-8ef9-82be7e2accf2
 	- [[SOLO Taxonomy]]
 	- [[Block Model]]
 	- [[Context is Content]]

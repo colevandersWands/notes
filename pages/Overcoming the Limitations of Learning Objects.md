@@ -8,7 +8,7 @@ tags:: bibliography
   learning objects that is grounded in a project-based paradigm. In the third section, we
   describe the manner in which we believe the new model overcomes the problems
   outlined in the first section.
-- ![full paper (PDF)](../assets/Overcoming_the_Limitations_of_Learning_Objects_1676988508613_0.pdf)
+- full paper: ![local copy](../assets/Overcoming_the_Limitations_of_Learning_Objects_1676988508613_0.pdf), [online](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2013&context=facpub)
 - WILEY, David, et al. Overcoming the limitations of learning objects. *Journal of Educational Multimedia and Hypermedia*, 2004, 13.4: 507-521.
 - ```
   @article{wiley2004overcoming,
