@@ -4,7 +4,9 @@
 	- [Scroll the list of all pages](https://evancole.be/#/all-pages)
 	- Use the search icon in the upper left
 	- Pick a #narrative and follow it's thread
+	- Explore open #question's
 - Don't look for a master plan (just yet at least). For now I'm starting with the first thing that comes to mind then following that train of thought. When that train comes reaches its terminus I open a random file (notes, code, PDF, anything) and start from there.
+	- Got several years' worth of notes, designs, experience, ideas ... to organize. i'm figuring this out as I go in [[Metanotes]]
 -
 -
 - [GitHub: @colevandersWands](https://github.com/colevandersWands)

@@ -1,0 +1,27 @@
+tags:: meta
+
+- Metatags: tags applied to notes or blocks that describe their role in the graph, not their content
+	- #bibliography
+	- #narrative
+	- #question
+	- #claim
+	- #evidence
+	- #context?
+	- #audience?
+-
+- better ways to do literature review
+	- [Beyond iTunes for Papers]([[Beyond iTunes for Papers: Redefining the Unit of Interaction in Literature Review Tools]])
+	- [[Metanotes/Discourse Graphs]]
+	- existing tools: https://elicit.org/ (https://ought.org/), https://www.researchrabbit.ai/
+-
+-
+- targeting audience
+	- https://maggieappleton.com/assumed-audience
+	- use some sort of #audience tag to clarify what is written with who in mind?
+-
+- to read
+	- https://maggieappleton.com/tools-for-thought
+	- https://maggieappleton.com/programmatic-notes
+-
+- [[Metametanotes]]: why I think I'm even doing this in the first place
+-

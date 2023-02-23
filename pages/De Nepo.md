@@ -11,7 +11,7 @@
 - some possible first principles for De Nepo, in no order with lots of room for improvement:
 	- best practice should be common practice: make it easiest to do things right
 	- agency & ownership: managing, adapting, and creating educational resources should be within the capabilities of the home community. (it's our responsibility to design with them, not their responsibility to figure out what we made).
-	- work with who learners already trust to build what they need, one small step at a time ([[Translational Sprint]]): overly general & reusable open resources are doomed, trying to start new organizations is (often) doomed, broader institutional change is slow and an uphill battle
+	- work with who learners already trust to build what they need, one small step at a time ([[Translational Sprints]]): overly general & reusable open resources are doomed, trying to start new organizations is (often) doomed, broader institutional change is slow and an uphill battle
 	- [[Open Source]] !== [[Open Education]] : open, useful, usable & used -> make sure adapting/adopting your resources is within technical abilities of your target audience
 	- participation, humility and empathy are key to successful design
 	- meet your learners where they are to accompany them where they want to go (culturally, intellectually, personally. in teaching, in curriculum design, in independent study).

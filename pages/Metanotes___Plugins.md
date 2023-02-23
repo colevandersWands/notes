@@ -1,0 +1,13 @@
+- using
+	- bionic
+	- graph analysis
+	- grammarly
+	- random note
+	- ... later
+- look for/into
+	- [Longform](https://discuss.logseq.com/t/longform-writing-in-logseq/3527/56)
+- coming soon
+	- [[Metanotes/Discourse Graphs]]: https://discuss.logseq.com/t/discourse-graph/2645/6
+	  id:: 63f75ed2-3292-42ca-8a46-9fa759f78485
+- ideas that don't exist (i think)
+	- [[Study Lenses]]

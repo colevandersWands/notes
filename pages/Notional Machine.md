@@ -1,0 +1,8 @@
+- https://notionalmachines.github.io/
+	- https://dl.acm.org/doi/10.1145/3437800.3439202
+- old me things
+	- https://github.com/colevandersWands/js-notional-machine
+	- https://github.com/colevandersWands/js-notional-machine-1
+	- https://github.com/colevandersWands/js-in-order
+		- led to -> https://github.com/DeNepo/debuggercises & https://denepo.github.io/debuggercises/ -- > content + [[Forkable]] learning environment
+			- led to -> [[Inside JS]] + [[Study Lenses]]

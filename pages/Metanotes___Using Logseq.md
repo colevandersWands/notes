@@ -1,0 +1,10 @@
+- for research
+	- https://www.youtube.com/watch?v=uogIrNSYy64
+		- separate author claims & data
+		- claims should be contextualized and qualified
+		-
+- namespaces, largely avoid them.  exceptions:
+	- [[Metanotes]]
+	- ? when the concept(s) explicitly contain a folder-like hierarchy, à la [[Welcome to JS]]
+-
+- aliases - [awaiting this](https://discuss.logseq.com/t/hide-aliases-circles-in-graph-view/5455/6)
