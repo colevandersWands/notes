@@ -14,6 +14,11 @@ tags:: meta
 	- [[Metanotes/Discourse Graphs]]
 	- existing tools: https://elicit.org/ (https://ought.org/), https://www.researchrabbit.ai/
 -
+- using tags
+	- authors, topics, ... ?
+	- in templates? (eg. for bibliography)
+	- ? status
+	- [with PDFs](https://www.youtube.com/watch?v=vIDyXyEj_FI)
 -
 - targeting audience
 	- https://maggieappleton.com/assumed-audience

@@ -1,0 +1,5 @@
+- I love this term, but am not sure of its usual context or users.  i see it popping up in organizing, corporate and social settings.
+	- what connotations does it have with different groups?
+	- where and how do i use it to best effect?
+- references
+	- https://medium.com/together-institute/what-does-it-mean-to-build-community-at-the-speed-of-trust-97fa036de6c3

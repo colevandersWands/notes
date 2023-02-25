@@ -1,0 +1,2 @@
+- in contrast the [[Speed of Trust]], the Speed of Funding is when projects are forced to move at the speed of funding proposal deadlines and the end of funding.
+	- the next level badness is when organizations need to "storytell" their way into and out of funding rounds as the demands from funding sources shift in a different direction than the needs of the real world

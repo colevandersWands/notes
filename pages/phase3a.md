@@ -1,1 +1,1 @@
-- from [[Computing Education Research as a Translational Transdiscipline]]
+- as defined in [[Computing Education Research as a Translational Transdiscipline]]

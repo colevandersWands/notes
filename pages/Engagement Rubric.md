@@ -1,0 +1,6 @@
+- PCORI's Engagement Rubric, developed collaboratively with our Advisory Panel on Patient Engagement, provides guidance on methods for engaging stakeholder partners throughout each phase of a research study.
+- The Engagement Rubric identifies opportunities for stakeholder engagement in the three phases of the research project—planning, conduct, and the dissemination of results—and is grounded in a set of principles that lay a foundation for equitable partnerships. It includes real-world examples of engagement strategies and activities drawn from our research portfolio. While not prescriptive, the Engagement Rubric provides guidance to applicants for PCORI funding about potential engagement approaches to consider.
+- Learn more about the Engagement Rubric and watch a video about it [here](https://www.pcori.org/video/pcori-engagement-rubric).
+- full document: ![local copy](../assets/Engagement-Rubric_1677254999357_0.pdf), [online](https://www.pcori.org/resources/engagement-rubric)
+	-
+-

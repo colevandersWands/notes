@@ -1,6 +1,6 @@
 - [JS for Open Computing Education](https://github.com/colevandersWands/fosdem-2019) is something I made in 2019 with big ideas about accessibly open-sourced computing education.  It is many things:
 	- a conference presentation: [slides](https://github.com/colevandersWands/fosdem-2019), [video](https://video.fosdem.org/2019/H.1308/js_teaching_tool.mp4)
-	- an exploration form and medium.  How could I use a github repository and gh-pages hosting to publish and essay, examples and slides in one place?  Besides curiosity, this was practice for organizing open research and education
+	- an exploration form and medium.  How could I use a github repository and gh-pages hosting to publish and essay, examples and slides in one place?  Besides curiosity, this was practice for organizing [open research]([[Open Science]]) and [education]([[Open Education]])
 	- a public statement of what I wanted to work towards over the next several years.  that future is now
 - *disclaimers*:
 	- I wrote this before having a more realistic idea how to program, teach, or manage a school.  The big ideas are there but many of the details (especially the code) are off-kilter
@@ -19,7 +19,7 @@
 	- **[[Context is Content]]:** Where and how a learner studies something should also be a learning objective.  Do your best to align your learner's study workflows with realistic workflows (whatever that means in your setting), this can help learners avoid challenges with [[Skill Transfer]] and save time in the long run.
 	- **[[Full Complexity, Max Simplicity]]:** Instead of introducing a whole bunch of concepts then expecting learners to [piece them together]([[Connections are Concepts]]) in a final project, it is better to start with projects that already resemble the workflows and structure of a final project but with the simplest possible technical details. This was heavily inspired by [4CID]([[Four Component Instructional Design]])
 	  id:: 63f61857-0ce6-46eb-b3c1-cb781ad2b71d
-	- **[[Open Source]] !== [[Open Education]]:** Resources can have an open license but not support open education if it's *unrealistic* for a learner or educator to adapt the resources to their needs.  On the flip side, resources with closed source or licenses can support open education if a learner or educator *can* adapt them to their needs. The gold standard for computing education should be resources that fully satisfy both definitions of "open".
+	- **[[Open Source]] !== [[Open Education]]:** Resources can have an open license but not support open education if it's *unrealistic* for a learner or educator to adapt the resources to their needs.  On the flip side, resources with closed source or licenses can support open education if a learner or educator *can* adapt them to their needs. The gold standard for computing education should be resources that fully satisfy both definitions of "open" - Accessibly Open Sourced Educational Resources.
 	  id:: 63f61887-d67b-4632-91d9-9b7ed2f1c0ff
 	-
 -

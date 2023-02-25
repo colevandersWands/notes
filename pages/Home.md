@@ -1,4 +1,4 @@
-- What you're reading is a big work in-progress; I'm trying to organize everything I've learned while teaching programming in the last few years into something you might find helpful.
+- What you're reading is a big work in-progress; I'm trying to organize everything I've learned, experienced and designed while teaching programming into something you might find helpful.
 - There are a few ways to find your way through all these notes:
 	- [Explore the graph](https://evancole.be/#/graph)
 	- [Scroll the list of all pages](https://evancole.be/#/all-pages)
@@ -6,9 +6,8 @@
 	- Pick a #narrative and follow it's thread
 	- Explore open #question's
 - Don't look for a master plan (just yet at least). For now I'm starting with the first thing that comes to mind then following that train of thought. When that train comes reaches its terminus I open a random file (notes, code, PDF, anything) and start from there.
-	- Got several years' worth of notes, designs, experience, ideas ... to organize. i'm figuring this out as I go in [[Metanotes]]
+	- I'm figuring this out as I go in [[Metanotes]]
 -
 -
 - [GitHub: @colevandersWands](https://github.com/colevandersWands)
 - [Graph Source](https://github.com/pengx17/knowledge-garden/blob/c2b7dc04ceef299e3dd0a238630a82af11cff858/.github/workflows/main.yml)
--
