@@ -1,0 +1,4 @@
+- highlights the code an enables annotation
+	- can select a random line for discussion
+- ![study-lenses-highlight.gif](../assets/study-lenses-highlight_1677425716408_0.gif)
+- would be cool to integrate some features from [this code annotation tool](https://annotate.codereading.club/#/file/CIUwciAOD2D0DuIA2BjaBbEBaALtLAVgM6wBGS0psATCCAAwAsAJowGz0CcAHAGZ8oUAVmbUUbAIZCJvakKacAjAGYQvAOxtqzEG1jKsAVwB2OgE5EcE0wEtjAcyyQz0e2YnoS1LGZATmdo7Oru6esCAAHiBmKDZEICS+kH44WNBmPiDo0ABuIAB0xEA)

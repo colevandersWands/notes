@@ -1,0 +1,3 @@
+- each code snippet in a markdown file can be explored with different lenses
+- ![study-lenses-markdown-files.gif](../assets/study-lenses-markdown-files_1677426299563_0.gif)
+	-

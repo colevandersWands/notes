@@ -21,8 +21,8 @@
 		- ![traditional research stakeholders](../assets/sigcse_presentation_tcer_-_beat.044_1677259672770_0.jpg)
 	- In contrast stands Participatory Research. A very simplistic way I understand Participatory Research is to reconsider the representative sample of Learners and Educators' role in the research process, “upgrading” them from objects of study to [intrinsic](((63f9dca1-560c-458a-b8ad-66c50bc61452))) research collaborators who help to select research questions and steer the TRP.
 		- ![participatory research stakeholders](../assets/sigcse_presentation_tcer_-_beat.045_1677259748234_0.jpg)
-		- d
-			-
+-
+	-
 	-
 - participatory research methodologies
 	- [[Action-Design Research]]
@@ -30,6 +30,7 @@
 	- [[Translational Sprints]]
 - related
 	- [[Research-Practice Partnership]]
+	- [[Trading Zones]]
 	- Medicine has some done some solid thinking on participatory research
 		- [[Engagement Rubric]] from [PCORI]([[Patient-Centered Outcomes Research Institute]])
 	-

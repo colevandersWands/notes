@@ -1,1 +1,4 @@
-- Some principles behind Study Lenses: [[Context is Content]], [[Means of Instruction]], [[Open Education]], [[Open Source]], [[PRIMM]], [[Explicitly Teach the Implicit]], [[Notional Machine]]
+- Some principles behind Study Lenses: [[Context is Content]], [[Means of Instruction]], [[Open Education]], [[Open Source]], [[PRIMM]], [[Explicitly Teach the Implicit]], [[Notional Machine]], [[Expertise Reversal Effect]], [[Skill Transfer]]
+- Study Lenses is a concept, not a specific tool.  You could integrate study lenses into an existing learning environment, develop them as IDE plugins for learners or professionals, or create mobile-friendly lenses for studying on the go.
+	- currently, the most complete implementation is [this one](https://github.com/colevandersWands/study-lenses).  it's designed for learning web development and is built around a static server
+- See the "Hierarchy" below "Linked References" to explore some Study Lenses features

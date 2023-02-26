@@ -1,0 +1,8 @@
+- the `?study` lens is "home base"
+- from here you can edit a file, save changes, and use other study features
+	- ![study-lenses-study-intro.gif](../assets/study-lenses-study-intro_1677426992853_0.gif)
+		-
+- you can focus on one section of a program by highlighting those lines
+	- ![study-lenses-study-selection.gif](../assets/study-lenses-study-selection_1677427303987_0.gif)
+- the content creator can decide which study options appear by default, but a learner can always override those configurations.  This is to accommodate the [[Expertise Reversal Effect]], and to allow learners to study any code they choose, not just code prepared by an educator
+	- ![study-lenses-options.gif](../assets/study-lenses-options_1677427449575_0.gif)

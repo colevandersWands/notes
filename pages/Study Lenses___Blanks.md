@@ -1,0 +1,5 @@
+- replaces different parts of a program with blanks according to the user's configuration
+	- learners must recreate the missing code
+	- they can use a diff editor to check their work
+- ![study-lenses-blanks.gif](../assets/study-lenses-blanks_1677424157508_0.gif)
+	-

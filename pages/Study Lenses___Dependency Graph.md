@@ -1,0 +1,3 @@
+- you can visualize the dependency graph for any folder in your project
+- ![study-lenses-dependency-graph.gif](../assets/study-lenses-dependency-graph_1677428828574_0.gif)
+-

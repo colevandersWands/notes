@@ -1,0 +1,4 @@
+- highlights all variables in code with different colors depending on how they're used
+- learning objectives: variables syntax & semantics, patterns of use in a program
+- ![study-lenses-variables.gif](../assets/study-lenses-variables_1677423757537_0.gif)
+	-

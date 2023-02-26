@@ -1,0 +1,8 @@
+- Study lenses has different trace tables for studying different aspects of program behavior.  Each trace table can be checked using the [Trace Button]([[Study Lenses/Trace Button]]) to support self-study
+	- this collection of tables has been adapted into a stand-alone [TraceTable Application](https://wise.vub.ac.be/project/personalised-technology-enhanced-learning-environments) by Yoshi.  the TraceTable app allows learners to export their trace tables as a data structure for automated grading
+- tracing + checking variable steps
+	- ![study-lenses-trace-table-steps.gif](../assets/study-lenses-trace-table-steps_1677430118339_0.gif)
+- tracing + checking variable assignments (traditional trace table)
+	- ![study-lenses-trace-table-values.gif](../assets/study-lenses-trace-table-values_1677430440395_0.gif)
+- tracing + checking operators
+	- ![study-lenses-trace-operators.gif](../assets/study-lenses-trace-operators_1677430847555_0.gif)
