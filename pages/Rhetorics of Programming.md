@@ -1,8 +1,11 @@
--
+- i wonder about the [[Rhetorics of Programming]]
+	- how can you define useful rhetorical situations for different types of programming? #question
 - [[Spiderweb Curriculum]]
 -
 - ## Web Development
-	- (make, then link to DeNepo template repo)
+  id:: 63f0a9b9-1292-474c-9127-4000aae19e14
+	- (from [[De Nepo]] web dev course)
+	  id:: 63f0aae2-9f6e-4aa3-b669-a84339d29a94
 	- Programming is communication. It's also a lot of other things, but this curriculum will focus on the different ways you communicate with your code.
 	  When you write code you are really just writing a text document, exactly like you might write an email or a note. The biggest difference between an email and a computer program is ***who you are writing for***.
 	  When you write an email you're writing for the person who will be reading it. When you write a computer program you are writing for 3 very different audiences at the same time! One single document (your code) needs to be understandable to:
@@ -11,8 +14,42 @@
 		- **Users**: The instructions you give to the computer must create an intuitive and pleasant experience for the user.
 	- Being a developer means understanding how all these characters interact, then communicating with everyone involved to deliver quality software within your project's constraints. This diagram shows the different channels of communication in a software project:
 	- ![rhetorical-situation.svg](../assets/rhetorical-situation_1676716515416_0.svg)
+	- **## Layers of Skills**
+		- Software Development is a many layered skill. One way to break it down is to think of these layers, from the inside out. Like a [Spider Web]([[Spiderweb Curriculum]]):
+		- 1. **Source Code**: *_The basic literacy of programming_*
+			- Learning the key words (*vocabulary*) and syntax (*grammar*) for your programming language
+			- Being able to read your code out loud, tracing it's execution as a computer would
+			- Understanding what the developer wanted to say with their code
+			- > **Welcome to JS** will focus on these skills\_
+		- 2. **Machine Instructions**: *_The basic mechanics of programming_*
+			- Understanding the life-cycle of your program
+			- Understand how the computer will interpret your source code to create a running program
+			- Understand what about your code matters to the computer, and what matters to people
+			- Fixing syntax errors that occur when you try to run your code
+			- Predicting which lines of code will be executed in which order
+			- Predicting how each line of code will change what is stored in program memory
+			- Reading error messages & callstacks to fix fix semantic errors that occur when you run your code
+			- > **[[Welcome to JS]] and [[Inside JS]]** will focus on these skills
+		- 3. **Problem Solving & Algorithms**: *_Breaking down large problems to be solved in small steps_*
+			- Understanding a coding challenge and being able to break it down in different ways
+			- Determining which solution strategies are correct for which types of problems
+			- Understanding how test cases are used to describe your solution strategy
+			- Identifying the best language feature to use with your strategy
+			- Reading test cases to understand how code is *_supposed to_* behave
+			- Using Test Cases to structure your solution design process \(Test Driven Development\)
+			- Identifying and isolating mistakes in your code by reading failing test cases
+			- Demonstrating your code does what you think it does by passing test cases
+			- > *[[Behavior, Strategy Implementation]] will focus on these skills*
+		- 4. **Software Design**: *_Organizing smaller pieces of code into full software solutions_*
+			- > *_Every module starting with [[Separation of Concerns]] will focus on these skills_*
+		- 5. **Planning and Collaborating**: *Breaking down large problems into tasks that can be shared*
+			- > *This is introduced in the [[Workflows]] module and practiced in every other module*
+		- 6. **Context**: *Who uses a program, what is it's impact, and where did it come from?*
+			- Real people will use your software, is it accessible to them?
+			- Your software exists in a society, what it's impact on others?
+			- Someone planned and build your software, what were their motivations?
 - ## Data Science
-	- (link to ReACT template repo)
+	- (from [ReACT digital projects '22](https://github.com/MIT-ReACT/digital-projects-2022/tree/main/guides) -> accompanying [workshops](https://github.com/MIT-ReACT/digital-projects-workshops-2022/))
 	- The group projects you will work on will help you understand investigative data science projects from beginning to end. The main focus is collaboration, project planning/scoping, and communicating your results effectively.
 	- You should keep the technical aspects of your project as simple as possible so you can finish your projects on schedule, and so you are free to focus on _the big picture_:
 	- ![the-big-picture.svg](../assets/the-big-picture_1676716610349_0.svg)

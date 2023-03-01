@@ -4,6 +4,7 @@ tags:: bibliography
 - full paper: ![local copy](../assets/impact-immediacy-criteria_1677259955203_0.pdf), [online](https://academic.oup.com/spp/article/49/2/168/6430224?login=false)
 - **Notes:**
 	- my take on their table: ![inclusion-immediacy criterion table](../assets/inclusion-immediacy-criterion-table.png)
+	  id:: 63f8f9c4-8b30-47a7-9710-bfa3f69efcaa
 		-
 - WOODSON, Thomas; BOUTILIER, Sophia. Impacts for whom? Assessing inequalities in NSF-funded broader impacts using the Inclusion-Immediacy Criterion. *Science and Public Policy*, 2022, 49.2: 168-178.
 - ```

@@ -1,0 +1,61 @@
+- old stuff to rework
+	- This curriculum is broken up into modules of 2-5 weeks. Each of the modules introduces a new principle of software development, building on the last module to give you a 360 view what it takes to become a developer your colleagues can rely on.
+	- Each module has it's own learning objectives determined by the sub-skills required to complete the module's projects. You can prioritize your study time and assess yourself based on each objective's priority:
+		- 🥚: You can apply this skill comfortably within the module's learning task with access to references. A learning task submitted at the end of the module should demonstrate proficiency in these objectives.
+		- 🐣: You can apply this skill with effort and frequent support from references. A learning task submitted at the end of the module should demonstrate partial application of these skills.
+		- 🐥: You understands the basic zoomed-out idea of this skill but may not be comfortable or proficient applying it. A learning task submitted at the end of the module may include attempts at applying these skills.
+		- 🐔: learning this skill is not required for the module's learning task but is relevant, if you are 🥚, 🐣 and 🐥 objectives. A learning task submitted at the end of the module should not demonstrate these skills if the higher priorities are not accounted for.
+	- ## Modules Overview
+		- {{embed ((63f0a9b9-1292-474c-9127-4000aae19e14))}}
+		- [Application](application/) and [Precourse](precourse/):
+			- First steps into HTML, CSS & JS.
+			- What is the internet andd web development.
+			- Set up your computer for the rest of the course.
+		- [Workflows](workflows/), [Agile Development](agile-development/) and [UX/UI Design](ux-ui-design/)
+			- Master your computer and development workflows
+			- Design, plan and develop accessible web pages
+			- Learn about collaboration and Open Source software
+		- [Welcome to JS](welcome-to-js/), [Debugging](debugging.md) and [Behavior, Strategy, Implementation](behavior-strategy-implementation/)
+			- Reading, describing, modifying and writing small JS programs.
+			- Understanding how the JavaScript engine reads and executes your instructions.
+			- Documenting and testing JS functions.
+			- Collaborating on a JS code base: code review and consistent code quality.
+		- [Trees]() and [Separation of Concerns](separation-of-concerns/)
+			- Event-Driven programming in the browser.
+			- Function Roles: organizing code based on the role it plays in your program.
+			- Planning and collaborating on interactive JS web pages.
+			- Code splitting, architecture and abstraction.
+			- Program state
+		- [Asynchronous Programming](asynchronous-programming.md), [CMS](), [Component-Based Design]()
+			- The JavaScript Event Loop.
+			- Different JS runtime environments: Browser and Node.js
+			- APIs, client/server, HTTP & persistence
+			- authentication vs. authorization
+			- frontend frameworks
+		- [Individual Project]()
+			- ...
+		- [Final Project](final-project/)
+			- Developing a digital product from ideation to delivery.
+			- Practicing the agile/scrum methodology.
+			- Continuous deployment, cloud hosting and site reliability
+			- Branding and pitching.
+	- ## Project Templates
+		- All projects at HackYourFuture Belgium use a series of progressive template repositories, each one adding l. These templates will gently lower you into the deep end of collaborative software development. The goal is to introduce you to the _full complexity_ of collaborative development from day 1, while keeping the code you develop as _simple as possible_ -> **Full Complexity, Maximum Simplicity**.
+		- Why use template repositories? Because you will be learning to build _your own_ projects, not just the projects we assign! By learning to plan, collaborate, and use a template repository you will learn transferable skills to help _your own_ communities build the software _you need_ - not what someone else tells you to build.
+			- 1. **[Markdown](https://github.com/HackYourFutureBelgium/template-markdown/)**: Focus on collaboration workflows, code quality, code review, group conventions and clear writing without the distraction of code and errors:
+				- Linting for Markdown and folder/file names
+				- A script to format all files in the repository.
+				- A script for spell-checking.
+				- GitHub Action for linting check on Pull Requests.
+				- Template issues for questions and asking for help.
+				- Pull Request template with a code review checklist.
+				- _used in the **Workflows** module_
+			- 2. **[HTML & CSS](https://github.com/HackYourFutureBelgium/template-html-css/)**: Planning, design, and develop a user-facing web page written with HTML & CSS. This repository has all the features from the _Markdown_ repository, and then some more:
+				- A directory for group planning documents (_see [Planning & Collaborating](https://home.hackyourfuture.be/students/planning-and-collaborating)_).
+				- Linting for CSS, validation for HTML.
+				- Accessibility reporting.
+				- An `index.html` for static deployment.
+				- Folder structure for HTML pages, CSS styles and public assets.
+				- _used in the **Workflows**, **Agile Development** and **UX/UI Design** modules_
+			- ... describe the rest of the templates
+-

@@ -1,0 +1,19 @@
+- A micromaterial is an [[Open Educational Resource]] that with a few special characteristics:
+	- it is tightly focused on one learning objectives
+	- it gives automatic feedback (if relevant) so learners can study with minimal guidance
+	- ideally it is has some level of [content generation]([[as Code/Content]]) so learners can practice continually without creating hours of extra work for content creators
+	- it is (ideally) freely available on the web, and preferably [[Open Source]]
+- The term "Micromaterial" was coined by [Adam Leskis](https://adamleskis.com/), and he has [a blog](https://micromaterialsblog.wordpress.com/about/) about them
+- Micromaterials in the wild:
+	- [a curated list of micromaterials from around the web](https://github.com/lpmi-13/micromaterials-list)
+	- #yoshi [at the WISE lab](https://wise.vub.ac.be/project/personalised-technology-enhanced-learning-environments)
+	- [mumtaz: Micromaterials for learning Sanskrit](https://github.com/richdouglasevans/mumtaz)
+- Presentations, publications and such
+	- [[Breaking the Code of Inclusion]]
+	- [[King's Scroll: An Educational Game to Practise Code Prediction]]
+- open questions
+	- #question: what information would someone need to:
+		- know if a micromaterial is relevant for them
+		- know how the micromaterial can be fit in sequence with their course
+		- know what adjustments might be needed for them to use it
+	- is using github tags/topics a good first way to discover micromaterials?  later would some sort of stand-alone registry be better?  #question

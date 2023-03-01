@@ -11,9 +11,11 @@ tags:: design
 	- After you have practiced working on full group projects written in markdown, you will expand to the second circle with the *Agile Development* module. This is when you learn how to collaboratively plan and develop web pages written with HTML and CSS. You will continue practicing all of the skills you learned in *Workflows*, only now the programming languages will be more complex.
 	- ... and so on, forever! This curriculum is just the beginning. Your web will continue to grow after you finish this course and add your own threads of new skills, languages and technologies.
 	- ![web dev curriculum spider web](../assets/curriculum-spider-web_1677357291916_0.svg)
+	  id:: 63fa70e7-1423-4fd0-9a9c-bc1ce696f2cd
 - in contrast to more common curriculum models such as purely linear lists, https://roadmap.sh/frontend or high-level directed graphs https://exercism.org/tracks/javascript/concepts
 - references
 	- [4CID]([[Four Component Instructional Design]])
 	- [[SOLO Taxonomy]]
 	- [[Block Model]]
 	- [[Context is Content]]
+	- [[Full Complexity, Max Simplicity]]

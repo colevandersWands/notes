@@ -1,0 +1,36 @@
+- ## Overview
+  id:: 63ff047d-c39a-46f1-bd34-2cfc4b036743
+	- As more people get interested in learning to code/program/hack/etc, and more of the collaboration moves to remote/distributed teams and schools, we want to give people a ready-made scaffold for setting up their own learning infrastructure.
+	- Basically, if there's somebody who wants to learn, you've got a study group. If there are multiple people who want to learn, all the better. In the interest of making such ad-hoc groupings fast and easy to set up, we decided to try and create a very basic School-As-Code (SaC).
+	- Given that GitHub repos and organizations are free and a natural place for new learners to actually practice both source control and code review, setting up that infrastructure in GitHub is an obvious choice.
+	- We want somebody to be able to press one button (after setting their own personal GitHub token), and have a fully set up curriculum ready to go. At the moment, this is going to incorporate some ready-made materials, but in the future, it's very likely that it could incorporate any number of different dynamically generated materials, as well as context, assessments, or anything else that somebody thinks would be useful to have in the process of teaching/learning.
+	- (to our knowledge) there is no easy and flexible solution available that ...
+		- does not require extraneous technical knowledge
+		- does not require learning workflows irrelevant to basic collaboration
+		- does implicitly prepare learners for collaborating in the "real world"
+		- can be flexibly adapted to different materials
+		- is suitable for different levels
+	- The purpose of the School as Code project is to allow for distributed educational materials to be collected from across the internet and expressed in a very simple configuration file (like a helm chart). The system also sets up a schedule of practicing the exercises for you, acting as a schedule on top of the activities themselves. The only thing you need to do to update the “curriculum” is to update the config and regenerate your schedule via automation.
+	- Nothing being proposed here is incredibly new or revolutionary, our proposal is a way of doing things not any specific implementation. We’re just expressing a particular learning pathway in a machine-readable format (as code). That allows them to be shared, updated, and combined in any way the learners want. Eventually, this initiative will also expand to include automatic generation of these materials, but that’s outside of the scope of the current project.
+	- It also fundamentally reimagines what's possible utilizing the full power of the medium (the internet), focusing on learning by doing, and maximizing time-on-task. Beyond the study materials themselves, this approach is demonstrated by using industry-relevant technologies and workflows for students to manage their learning (GitHub, issues, project boards). The context where a student studies is an attainable learning objective.
+- Some examples
+	- A general Learning Space for 1 learner: [template repo](https://github.com/DeNepo/learning-space-template), [github action](https://github.com/DeNepo/learning-space-single-setup)
+	- HYF Lab Brussels 1 (web dev): [class repo](https://github.com/lab-brussels-1/home), [admin config](https://github.com/lab-brussels-1/home/tree/main/admin)
+	- ReACT digital projects '22 (data science): [class repo](https://github.com/MIT-ReACT/digital-projects-2022), [admin config](https://github.com/MIT-ReACT/digital-projects-2022/tree/main/admin)
+	- A general class repository: [template repo](https://github.com/DeNepo/school-as-code), [github action](https://github.com/DeNepo/school-as-code-package)
+- ## Is and Isn't
+	- ### What this is not
+		- an LMS
+		- a CMS
+		- a competitor to github classroom (or similar things)
+		- a competitor with repl.it (or similar things)
+		- a highly centralized school infrastructure
+		- a new open education protocol
+	- ### What this is
+	- starting from the premise of solo & peer learning
+	- providing optional layers of coordination on top of the individual and small group
+	- proposing a *_way_* of doing things, within existing technologies and conventions
+		- how to manage assignments with issues/labels/milestones/project boards
+		- how to organize a study path with a README and github project management features
+		- organize learning materials
+		- ...

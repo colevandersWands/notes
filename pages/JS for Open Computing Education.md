@@ -17,17 +17,17 @@
 	- **[[Explicitly Teach the Implicit]]**: Take the space in your learning objectives and the time in your class to explicitly teach skills that experienced developers take for granted, or don't even notice.  Such as knowing where to start reading in a file of code, or how to write a good internet search. Don't leave these skills to be (maybe) learned correctly by trial and error.
 	- **[[Process Over Product]]**: Focus your teaching and assessment on the steps a learner takes to complete an assignment, not the final product.  This principle should be applied at every level of curriculum design from the overall course objectives, to assessment, to every granular exercise and reference.
 	- **[[Context is Content]]:** Where and how a learner studies something should also be a learning objective.  Do your best to align your learner's study workflows with realistic workflows (whatever that means in your setting), this can help learners avoid challenges with [[Skill Transfer]] and save time in the long run.
-	- **[[Full Complexity, Max Simplicity]]:** Instead of introducing a whole bunch of concepts then expecting learners to [piece them together]([[Connections are Concepts]]) in a final project, it is better to start with projects that already resemble the workflows and structure of a final project but with the simplest possible technical details. This was heavily inspired by [4CID]([[Four Component Instructional Design]])
+	- **[[Full Complexity, Max Simplicity]]:** Instead of introducing a whole bunch of concepts then expecting learners to [piece them together]([[Connections are Concepts]]) in a final project, it is better to start with projects that has all the large moving parts ([[Rhetorics of Programming]]) with the simplest possible technical details. This was heavily inspired by [4CID]([[Four Component Instructional Design]])
 	  id:: 63f61857-0ce6-46eb-b3c1-cb781ad2b71d
-	- **[[Open Source]] !== [[Open Education]]:** Resources can have an open license but not support open education if it's *unrealistic* for a learner or educator to adapt the resources to their needs.  On the flip side, resources with closed source or licenses can support open education if a learner or educator *can* adapt them to their needs. The gold standard for computing education should be resources that fully satisfy both definitions of "open" - Accessibly Open Sourced Educational Resources.
+	- **[[Open Source]] !== [[Open Education]]:** Resources can have an [[Open License]] but not support open education if it's *unrealistic* for a learner or educator to adapt the resources to their needs.  On the flip side, resources with closed source or licenses can support open education if a learner or educator *can* adapt them to their needs. The gold standard for computing education should be resources that fully satisfy both definitions of "open" - Accessibly Open Sourced Educational Resources.
 	  id:: 63f61887-d67b-4632-91d9-9b7ed2f1c0ff
 	-
 -
 - JS for Open CE is the seed for much of my current work including:
 	- an [early diagram](https://github.com/colevandersWands/fosdem-2019/blob/master/rhetorical-situation.png) of the [[Rhetorics of Programming]]
 	- [[Context First]] curriculum design can be traced back to [[Process Over Product]]
-	- [[Full Complexity, Max Simplicity]] let to the [[Rhetorics of Programming]], the [[Spiderweb Curriculum]], and [[De Nepo Web Dev]]
-	- [[Context is Content]] is one of the core design principles behind [[Study Lenses]] and [[Learning as Code]]
+	- [[Full Complexity, Max Simplicity]] let to the [[Rhetorics of Programming]], the [[Spiderweb Curriculum]], and [[De Nepo Web Dev -- very WIP]]
+	- [[Context is Content]] is one of the core design principles behind [[Study Lenses]] and [[as Code/Learning]]
 	- *(Intellectual) Honesty* eventually led to a style of example code designed to isolate [language concepts]([[Connections are Concepts]]) and to be studied in the debugger.  It also led to many features in [[Study Lenses]] and [[Inside JS]]
 	- [[Process Over Product]] & [[Explicitly Teach the Implicit]] guided the high-level and low-level design of [[Welcome to JS]] and [[Inside JS]]
 	- ... more, if I come back to finish this list later

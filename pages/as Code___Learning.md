@@ -1,0 +1,3 @@
+- The goal behind "Learning as Code" is to provide high-level tools that allow [[Computing Education]] learners and teachers to easily manage their own education with no technical knowledge beyond what is covered in the class. This includes everything from setting up classroom support systems, to generating content based on [CER]([[Computing Education Research]]), and the documentation necessary to do this well.
+  title:: as Code/Learning
+	- [[De Nepo]] is a github organization dedicated to hosting LaC projects, including but not limited to[[Micromaterials]], [[as Code/School]], [[as Code/Content]], [[Study Lenses]]

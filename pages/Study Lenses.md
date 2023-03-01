@@ -1,4 +1,8 @@
 - Some principles behind Study Lenses: [[Context is Content]], [[Means of Instruction]], [[Open Education]], [[Open Source]], [[PRIMM]], [[Explicitly Teach the Implicit]], [[Notional Machine]], [[Expertise Reversal Effect]], [[Skill Transfer]]
 - Study Lenses is a concept, not a specific tool.  You could integrate study lenses into an existing learning environment, develop them as IDE plugins for learners or professionals, or create mobile-friendly lenses for studying on the go.
-	- currently, the most complete implementation is [this one](https://github.com/colevandersWands/study-lenses).  it's designed for learning web development and is built around a static server
-- See the "Hierarchy" below "Linked References" to explore some Study Lenses features
+- currently, the most complete implementation of Study Lenses is [this one](https://github.com/colevandersWands/study-lenses).  It's designed for learning web development and is built around a static server; Open any folder of code in the terminal, enter `$ study`, and the folder's content will open in your browser ready to study
+	- A Study Lenses video guide covering basic use and features: ![guide.mp4](../assets/guide_1677497948858_0.mp4)
+	- See the "Hierarchy" below "Linked References" to explore more Study Lenses features
+- Does a curriculum made of code, some small comments in english, and [[Study Lenses]] make programming more accessible to ESL learners?  they can then think, write, discuss, and find relevant tutorials in their own language while still focusing on the course's objectives.  anecdotally this is true.  #question
+	- Reading or listening to lots of english is not easy for everyone. Depending on your goals, you may need to eventually use english with programming. But that doesn't mean it's helpful to combine both objectives (english & programming) at the beginning.
+	- How does this relate to [[PRIMM]]?

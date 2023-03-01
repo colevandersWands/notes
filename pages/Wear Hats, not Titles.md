@@ -1,0 +1,5 @@
+- Working in a small organization there's usually more work than people, the focus of your work shifts throughout the year, there's tight deadlines, and "hurry up then wait".
+- In my experience it's easier to contribute in these settings if you think about taking on responsibilities based on your availability and relative strengths, not the job you're "supposed to" have.
+- So even if you're not the best at a specific task, or you might "better" use your time somewhere else, if no one else is free you'd better wear that hat for now.
+- There are of course limits.  If you always find yourself doing work you're not good at, or never using your strengths it's time to speak up - there's must a better way to share hats.
+-

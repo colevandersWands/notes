@@ -3,6 +3,7 @@
 	- how do [different types of trading zones]([[Trading Zones and Interactional Expertise]]) relate to different [disciplinary interactions]([[Multidisciplinarity, Interdisciplinarity, and Transdisciplinarity in Health Research, Services, Education and Policy: 1. Definitions, Objectives and Evidence of Effectiveness]])? #question
 - Visuals to understand trading zones
 	- ((63fb447c-8728-4484-aec1-73966bb81996))
+- [[The Learning Salon: Toward a new participatory science]]
 - trading zone ideas for [CER]([[Computing Education Research]])
 	- neural correlates
 	  id:: 63fb32c5-7312-4611-ba66-b4bc69296bc8

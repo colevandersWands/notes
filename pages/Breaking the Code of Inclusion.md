@@ -1,0 +1,8 @@
+- Designing Micromaterials Base on [[PRIMM]] Principles for Accessible [Programming Education]([[Computing Education]])
+- A [fosdem presentation](https://fosdem.org/2023/schedule/event/breaking_code_of_inclusion) by #yoshi
+- **Description:**
+	- Setting your first steps in the world of programming can be a daunting task. The tools used are unforgiving, and learning materials are too often based on rote learning and writing code from scratch. Many learners feel excluded and like they do not belong, this is especially true for learners that are from groups underrepresented in programming education. In recent years the Predict-Run-Investigate-Modify-Make (PRIMM) approach has been proposed to help students by focusing on learning how to read code before moving on to learning how to write it.
+	- In this lightning talk we will discuss how open source micromaterials can be created as small side or hobby projects, taking into consideration these concepts. We will do so by discussing some open source micro-materials we made, but we will also take a look on how to ensure that your contributions provide educational value.
+- ![slides](../assets/breaking-code-slides_1677681931421_0.pdf)
+- {{video https://mirror.cyberbits.eu/fosdem/2023/H.2215%20(Ferrer)/breaking_code_of_inclusion.webm}}
+	-

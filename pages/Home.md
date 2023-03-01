@@ -7,6 +7,7 @@
 	- Explore open #question's
 - Don't look for a master plan (just yet at least). For now I'm starting with the first thing that comes to mind then following that train of thought. When that train comes reaches its terminus I open a random file (notes, code, PDF, anything) and start from there.
 	- I'm figuring this out as I go in [[Metanotes]]
+- Special thanks all of my students whose patience and collaboration made this possible, all the developers who shared their experience and teaching advice, and my colleagues who made sure I had the time to focus on designing education.
 -
 - [GitHub: @colevandersWands](https://github.com/colevandersWands)
 - [Graph Source](https://github.com/pengx17/knowledge-garden/blob/c2b7dc04ceef299e3dd0a238630a82af11cff858/.github/workflows/main.yml)
