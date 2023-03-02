@@ -13,5 +13,5 @@ tags:: design
 - merges discussions of curriculum design, learning objective sequencing and inclusion
 - examples
 	- [[De Nepo Web Dev -- very WIP]]: modules 1-3
-	- [[Welcome to JS]]: What is programming?
+	- [[Module/Welcome to JS]]: What is programming?
 -

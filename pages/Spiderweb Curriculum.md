@@ -1,8 +1,10 @@
 tags:: design
 
-- helps to give an implicit need/motivation for each learning objective
+- helps to give an implicit need/motivation for [[Learning Objectives]]
 	- from the designer's end: a helpful tool for deciding what to include and exclude
-	- from the learner's perspective: gives meaning and anchoring for LOs, even seemingly useless ones ([[Learner Trust]])
+	- from the learner's perspective: gives meaning and anchoring for [[Learning Objectives]] , even seemingly useless ones ([[Learner Trust]])
+	- places collaboration, communication and other "soft skills" unavoidably at the center of everything
+	- when used alongside the [[Rhetorics of Programming]], it also places social and ethical questions center stage.
 - An example of a "table of contents" for a [[Web Development]] spiderweb curriculum
 	- It's helpful to imagine this curriculum as a spider web with two types of thread:
 		- **Skills**: The lines going out from the center represent the skills you will practice each and every week.
@@ -19,3 +21,7 @@ tags:: design
 	- [[Block Model]]
 	- [[Context is Content]]
 	- [[Full Complexity, Max Simplicity]]
+- i wonder about [[Spiderweb Curriculum]]
+	- does it help learners feel that they belong in computing? #question
+		- feedback and my experience says yes, because it shows that the primary interest of computing is not only writing code. and that executive and interpersonal skills are top priority
+		- {{embed ((640089ea-9212-438d-8ead-4b2328529d18))}}

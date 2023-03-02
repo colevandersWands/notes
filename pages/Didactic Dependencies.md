@@ -1,0 +1,5 @@
+- different types
+	- light abstractions
+	- mocks
+- also pull from: web apps, soc
+-

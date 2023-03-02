@@ -13,7 +13,7 @@
 	- *_Technologies_*: (the language, any libraries, build tools, quality scripts, ...)
 	- *_Starter_*: (describe what a learner has to bootstrap a deliverable)
 	- *_[[Assessment]] Criteria_*: (how will a task-class deliverable be evaluated)
-- An example task class (rewrite to align with [[Welcome to JS]] )
+- An example task class (rewrite to align with [[Module/Welcome to JS]] )
 	- Given a buggy program that processes user input, uses an array, uses a function, 1 error, has 1-2 bugs, and 1-2 unnamed variables, a student can complete, fix and describe the program.
 	- *_Language Level_*: what is covered in the /isolate folder
 	- *_Environment_*: a modern browser's console + debugger, an editor with helpful suggestions and auto-complete, a way to get the code from the editor to the devtools

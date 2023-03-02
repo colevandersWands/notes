@@ -5,6 +5,6 @@
 		-
 - namespaces, largely avoid them.  exceptions:
 	- [[Metanotes]]
-	- ? when the concept(s) explicitly contain a folder-like hierarchy, à la [[Welcome to JS]]
+	- ? when the concept(s) explicitly contain a folder-like hierarchy, à la [[Module/Welcome to JS]]
 -
 - aliases - [awaiting this](https://discuss.logseq.com/t/hide-aliases-circles-in-graph-view/5455/6)

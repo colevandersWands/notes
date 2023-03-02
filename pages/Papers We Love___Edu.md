@@ -1,0 +1,2 @@
+- https://github.com/papers-we-love/edu: This Papers We Love chapter is dedicated to academic and research papers around **Computer Science education**. We are a group of individuals interested in the learning and teaching of computer science.
+-

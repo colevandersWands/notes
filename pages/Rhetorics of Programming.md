@@ -1,5 +1,11 @@
 - i wonder about the [[Rhetorics of Programming]]
 	- how can you define useful rhetorical situations for different types of programming? #question
+	- can [[Rhetorics of Programming]] & the [[Spiderweb Curriculum]] provide the basis for methodically integrating ethics with introductory programming?  #question
+		- My experience says yes, and that introducing [[Design Thinking]] early on is part of this
+		  id:: 640089ea-9212-438d-8ead-4b2328529d18
+		- [[Integrating Ethics into Introductory Programming Classes]]
+		-
+		-
 - [[Spiderweb Curriculum]]
 -
 - ## Web Development
@@ -29,7 +35,7 @@
 			- Predicting which lines of code will be executed in which order
 			- Predicting how each line of code will change what is stored in program memory
 			- Reading error messages & callstacks to fix fix semantic errors that occur when you run your code
-			- > **[[Welcome to JS]] and [[Inside JS]]** will focus on these skills
+			- > **[[Module/Welcome to JS]] and [[Module/Inside JS]]** will focus on these skills
 		- 3. **Problem Solving & Algorithms**: *_Breaking down large problems to be solved in small steps_*
 			- Understanding a coding challenge and being able to break it down in different ways
 			- Determining which solution strategies are correct for which types of problems
@@ -39,9 +45,9 @@
 			- Using Test Cases to structure your solution design process \(Test Driven Development\)
 			- Identifying and isolating mistakes in your code by reading failing test cases
 			- Demonstrating your code does what you think it does by passing test cases
-			- > *[[Behavior, Strategy Implementation]] will focus on these skills*
+			- > *[[Module/Behavior, Strategy, Implementation]] will focus on these skills*
 		- 4. **Software Design**: *_Organizing smaller pieces of code into full software solutions_*
-			- > *_Every module starting with [[Separation of Concerns]] will focus on these skills_*
+			- > *_Every module starting with [[Module/Separation of Concerns]] will focus on these skills_*
 		- 5. **Planning and Collaborating**: *Breaking down large problems into tasks that can be shared*
 			- > *This is introduced in the [[Workflows]] module and practiced in every other module*
 		- 6. **Context**: *Who uses a program, what is it's impact, and where did it come from?*

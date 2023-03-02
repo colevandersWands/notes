@@ -1,15 +1,15 @@
 tags:: design
 
-- a [[Spiral Curriculum]] is a special case of the [[Spiderweb Curriculum]]
+- i see the [[Spiral Curriculum]] as a special case of the [[Spiderweb Curriculum]]
 	- the rings of the web represents a progression of [[Language Level]]s.  The progression of language levels can be defined by [[Task Class]]es, though several language levels may fit within the same task class. Language features covered in each ring (language level) are defined by a minimal subset of features required to build projects in this task class. A separate [[Notional Machine]] can be defined for each language level to help teaching and learning
 	- each spoke of the spiral represents a progression of skills inspired by the [[Block Model]], [[SOLO Taxonomy]], [[PRIMM]], feedback + experience, ...
 	- the curriculum (and so the learner's path) spirals outwards, rehearsing each skill in progressively larger language levels
-	- ![spiral-curriculum.png](../assets/spiral-curriculum_1677359473318_0.png)
+	- an example spiral curriculum diagram: ![spiral-curriculum.png](../assets/spiral-curriculum_1677359473318_0.png){:height 632, :width 747}
 - the role of [[Study Lenses]] in implementing a spiral curriculum
 	- makes content authorship more efficient
 	- supports learners as they explore many learning objectives with a small amount of code
 	- enables the curriculum designer to guide learners through specific skill sequences while traversing the spiral
-- Proof of Concept: [Just Enough JavaScript]([[Welcome to JS/Just Enough JavaScript]])
+- Proof of Concept: [Just Enough JavaScript]([[Module/Welcome to JS/Just Enough JavaScript]])
   collapsed:: true
 	- actual chapters
 	  collapsed:: true

@@ -15,3 +15,7 @@
 - [[Breaking the Code of Inclusion]]
 - i wonder about [[PRIMM]]
 	- what aspects of code make it "easy" or "difficult" to read? to what extent is it possible to create a "graded reader" for code ... either via taking authentic code and "simplifying it", or grouping different code examples into classes differentiated along the (many?) axes of simply to complexity. #question #adam
+	- can [[PRIMM]] + [[Study Lenses]] help [[Computing Education]] adjust to AI code generation? #question
+		- i think so because with PRIMM code is content, not the final deliverable.  with proper configuration you can generate code of any level with different mixes of language features then have learners examine the code.
+		- even "bad" generated code is good content since it's a point of discussion. readability, efficiency, ...
+		- and code plagiarized by AI is also a good entry point into intellectual property rights, attribution, ...

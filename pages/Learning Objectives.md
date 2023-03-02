@@ -1,0 +1,17 @@
+- Priority emojis:  I put use these 4 emojis (🥚,🐣,🐥,🐔) to classify learning objectives. This has helped learners budget their time & expectations, and has helped design courses for learners at different levels.
+	- There is a lot to learn in this module. If you can't master all the material at once, that's expected! Anything you don't master now will always be waiting for you to review when you need it. These 4 emoji's will help you prioritize your study time and to measure your progress:
+	  id:: 64006bef-9006-4bbb-9b70-c38ab018a2fd
+		- 🥚: Understanding this material is required, it covers the base skills you'll need for this module and the next. You do not need to finish all of them but should feel comfortable that you could do them with enough time.
+		- 🐣: You have started all of these exercises and feel you could complete them all if you just had more time. It may not be easy for you but with effort you can make it through.
+		- 🐥: You have studied the examples and started some exercises if you had time. You should have a big-picture understanding of these concepts/skills, but may not be confident completing the exercises.
+		- 🐔: These concepts or skills are not necessary but are related to this module. If you are finished with 🥚, 🐣 and 🐥 you can use the 🐔 exercises to push yourself without getting distracted from the module's main objectives.
+- SMARTA #adam
+	- **Specific:** is it one particular skill that can be assessed in isolation, rather than something that is a combination of multiple skills
+	- **Measurable:** is it something that we can have a clear outcome for, in terms of whether the learner demonstrated the correct behavior or not
+	- **Achievable:** is it graded for the particular skills/abilities of the learner rather than being much too difficult
+	- **Relevant:** is it something that the learner actually needs to know how to do, particularly in terms of being included in summative assessment
+	- **Time-Bound:** is there a clear time-frame within which the behavior is going to be observed and assessed
+	- **Authentic:** a lot of sources don't include this one...is it actually similar to target use tasks in the real world...ie, realistic source code instead of a bunch of foo's and bar's. [[Context is Content]]
+- Knowledge Graphs for modeling learning objective relations, [[Assessment]], content generation & recommendation, and self-guided learning
+	- [[Personalized Learning Environments Based on Knowledge Graphs and The Zone of Proximal Development]]
+	-

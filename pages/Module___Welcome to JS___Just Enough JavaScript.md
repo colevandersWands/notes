@@ -1,4 +1,4 @@
-- **Just Enough JavaScript** is a chapter from [[Welcome to JS]].  it is a proof of concept for a [[Spiral Curriculum]]
+- **Just Enough JavaScript** is a chapter from [[Module/Welcome to JS]].  it is a proof of concept for a [[Spiral Curriculum]]
 - sub-chapters
   collapsed:: true
 	- 0. errors  

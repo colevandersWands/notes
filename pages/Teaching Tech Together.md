@@ -1,6 +1,7 @@
 - https://teachtogether.tech/en/
 -
 - [**The Rules**](https://teachtogether.tech/en/#the-rules)
+  id:: 63f60a08-ba63-4f7f-9937-deb198110012
 	- 1. Be kind: all else is details. tags:: Rule 1
 	- 2. Remember that you are not your learners…
 	- 3. …that most people would rather fail than change…

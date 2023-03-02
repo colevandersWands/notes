@@ -1,0 +1,8 @@
+- http://matt-koehler.com/tpack2/tpack-explained/
+	- ![TPACK-new.png](../assets/TPACK-new_1677768216027_0.png)
+- TPACK in [[De Nepo Web Dev -- very WIP]]
+	-
+- counterpoints
+	- https://www.matt-koehler.com/publications/Rosenberg_Koehler_JRTE_2015.pdf
+	- https://www.researchgate.net/profile/Peggy-Ertmer/publication/261331689_Goldilocks_and_TPACK/links/0046353760145ae4d4000000/Goldilocks-and-TPACK.pdf
+-
