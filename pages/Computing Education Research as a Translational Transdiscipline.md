@@ -9,6 +9,7 @@ tags:: bibliography
 	- ((63fa2ab8-c8f0-4be2-9f55-70699bc26297))
 	- ((63fb2da1-a029-4ede-b63d-1f80d4674be4))
 	- ((63fb69db-5e9f-45c8-962a-888acbb07b4e))
+	- ((6401cecd-93cf-4790-a11e-b4af3af67eb4))
 - COLE, Evan; MALAISE, Yoshi; SIGNER, Beat. Computing Education Research as a Translational Transdiscipline. In: *54th ACM Technical Symposium on Computer Science Education*. 2023.
 - ```
   @inproceedings{cole2023computing,

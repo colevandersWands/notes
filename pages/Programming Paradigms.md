@@ -1,1 +1,1 @@
--
+- [OOP is a conspiracy!](https://dev.to/kushalj/18-factors-powering-the-rust-revolution-part-1-of-3-3imc#separation-of-code-and-data)

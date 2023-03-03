@@ -1,0 +1,10 @@
+- Discourse Graphs: to use them? how?  (#question, #claim, #evidence, #context? )
+- [what is](https://github.com/oasisresearchlab/discourse-graph-docs/blob/main/fundamentals/what-is-a-discourse-graph.md)? a quick gist
+- [[Discourse Graphs for Augmented Knowledge Synthesis: What and Why]]
+- [conceptual model and practical guide](https://oasislab.pubpub.org/pub/54t0y9mk/release/3)
+- {{embed ((63f75ed2-3292-42ca-8a46-9fa759f78485))}}
+- [network goods starter pack](https://network-goods.notion.site/The-Discourse-Graph-starter-pack-312374c813b24ec6b4d53a054371ee5a)
+	-
+- how to integrate DGs info with #bibliography entries
+	- include my own notes on each, liberally using DG tags in note blocks?
+	-

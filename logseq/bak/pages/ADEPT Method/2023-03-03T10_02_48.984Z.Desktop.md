@@ -1,0 +1,6 @@
+- https://betterexplained.com/articles/adept-method/
+	- ![adept-method.png.webp](../assets/adept-method.png_1677755003698_0.webp){:height 295, :width 418}
+- [[Teaching Tech Together]]
+	- {{embed ((31d213a3-c0b5-42a0-8a14-4c7fee04a285))}}
+- i wonder about the [[ADEPT Method]]
+	- this seems to be all about explanation, how do exercises and practice fit in? #question

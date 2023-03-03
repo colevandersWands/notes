@@ -1,6 +1,6 @@
 tags:: design
 
-- [[Unask]] which paradigm(s) are best first.
+- #unask which paradigm(s) are best first.
 	- instead, first set the scene:
 		- [[Rhetorics of Programming]]: where and how does what you're teaching happen?
 		- identify your "core competency" such as planning and collaborating

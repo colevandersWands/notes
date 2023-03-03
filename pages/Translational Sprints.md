@@ -9,7 +9,7 @@
 		  4. Integration Design: integrate validated interventions into the curriculum. #phase4a #phase4b
 		  5. Intervention Packaging: document and publish interventions for educators facing similar constraints, and share your research methods for replication. #phase5a
 	- Progress through the stages is cyclical; it is necessary to return to previous stages when you reach a dead end. Based on experience, working with limited resources, predecessors to this model have proven effective which encourages us to share our model as a blueprint. We are looking for research collaborators and for educators interested in testing Translational Sprints in their class. As a first step we intend to target affordable, short-term professional trainings as they can improve a learner’s career prospects, their shorter time frame enables rapid iteration, and they are generally free to innovate.
-	- Each sprint can be written up as an academic publication regardless of whether or not a successful intervention was found.  Share your failures!
+	- Each sprint can be written up as an academic publication regardless of whether or not a successful intervention was found. Share your failures!
 - ## Translational Sprint Diagram
 	- ![translational-research-sprint.svg](../assets/translational-research-sprint_1677098402267_0.svg)
 - ## Motivations
@@ -21,5 +21,5 @@
 - ## References
 	- [^1]: [[The Different Types of Contributions to Knowledge (in CER): All Needed, but Not All Recognised]]
 	- [^2]: [[Negotiating Trust, Power and Culture in a Research-Practice Partnership]]
-	- [^3]: [[Development and Use of Domain-specific Learning Theories, Models and Instruments in Computing Education ]]
+	- [^3]: [[Development and Use of Domain-specific Learning Theories, Models and Instruments in Computing Education]]
 	- [[Computing Education Research as a Translational Transdiscipline]]

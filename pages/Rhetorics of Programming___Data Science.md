@@ -1,0 +1,4 @@
+- (from [ReACT digital projects '22](https://github.com/MIT-ReACT/digital-projects-2022/tree/main/guides) -> accompanying [workshops](https://github.com/MIT-ReACT/digital-projects-workshops-2022/))
+- The group projects you will work on will help you understand investigative data science projects from beginning to end. The main focus is collaboration, project planning/scoping, and communicating your results effectively.
+- You should keep the technical aspects of your project as simple as possible so you can finish your projects on schedule, and so you are free to focus on _the big picture_:
+- ![the-big-picture.svg](../assets/the-big-picture_1676716610349_0.svg)

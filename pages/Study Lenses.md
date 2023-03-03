@@ -1,4 +1,8 @@
 - Study Lenses is a concept, not a specific tool.  You could integrate study lenses into an existing learning environment, develop them as IDE plugins for learners or professionals, or create mobile-friendly lenses for studying on the go.
+	- developing Study Lenses in concept and implementation was a long winding design process.  New feedback or ideas would lead to changes/new feature -> changes led to new possibilities -> which led to new feedback -> ...
+- currently, the most complete implementation of Study Lenses is [this one](https://github.com/colevandersWands/study-lenses).  It's designed for learning web development and is built around an express server; Open any folder of code in the terminal, enter `$ study`, and the folder's content will open in your browser ready to study.
+	- A Study Lenses video guide covering basic use and features: ![guide.mp4](../assets/guide_1677497948858_0.mp4)
+	- See the "Hierarchy" below "Linked References" to explore more Study Lenses features
 - Some principles behind Study Lenses:
 	- "code is content" or "study code, not explanations":
 	  1. teach learners how to study code
@@ -10,7 +14,6 @@
 	- content should be developed using standards from the domain you are teaching to avoid platform lock and learning extranious syntax
 	- Code is data: if an application is "just" data + interactions, then Study Lenses can be defined as: code + study techniques
 	- [[Context is Content]], [[Means of Instruction]], [[Open Education]], [[Open Source]], [[PRIMM]], [[Explicitly Teach the Implicit]], [[Notional Machine]], [[Expertise Reversal Effect]], [[Skill Transfer]]
-- developing Study Lenses in concept and implementation was a long winding design process.  New feedback or ideas would lead to changes/new feature -> changes led to new possibilities -> which led to new feedback -> ...
 - Some constraints that let to s-l include:
 	- teaching web dev in a short period: no luxury to choose a more "learnable" language, had to make JS as learnable as possible
 	- ditto for learning environments.  there was no time in the course for the [[Skill Transfer]] from a "learning environment" to a "development environment".  the design challenge became how to add layers of learning environment _on top of_ the professional environment so skill transfer can happen naturally by removing one layer at a time.  configurable layers also helps accommodate the [[Expertise Reversal Effect]]
@@ -18,11 +21,8 @@
 	- i wanted easy authorship content authorship using only web standards, not specialized or extra langauges
 	- learners should be able to use the environment to explore any code they write or encounter
 	- discussion, feedback and observation of learners & coaches using Study Lenses
-- currently, the most complete implementation of Study Lenses is [this one](https://github.com/colevandersWands/study-lenses).  It's designed for learning web development and is built around a static server; Open any folder of code in the terminal, enter `$ study`, and the folder's content will open in your browser ready to study.
-	- A Study Lenses video guide covering basic use and features: ![guide.mp4](../assets/guide_1677497948858_0.mp4)
-	- See the "Hierarchy" below "Linked References" to explore more Study Lenses features
-	- [[TPACK]] analysis of this [[Study Lenses]] interpretation: ![study-lenses-tpack.svg](../assets/study-lenses-tpack_1677768353671_0.svg)
 - i wonder about [[Study Lenses]]
 	- Does a curriculum made of code, some small comments in english, and [[Study Lenses]] make programming more accessible to ESL learners?  they can then think, write, discuss, and find relevant tutorials in their own language while still focusing on the course's objectives.  anecdotally this is true.  #question
 		- Reading or listening to lots of english is not easy for everyone. Depending on your goals, you may need to eventually use english with programming. But that doesn't mean it's helpful to combine both objectives (english & programming) at the beginning.
 		- How does this relate to [[PRIMM]]?
+- a rough [[TPACK]] analysis of [[Study Lenses]] implemented as a client/server for web dev: ![study-lenses-tpack.svg](../assets/study-lenses-tpack_1677768353671_0.svg)

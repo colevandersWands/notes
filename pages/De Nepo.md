@@ -8,7 +8,7 @@
 	  id:: 63f5fc9e-411d-4ed1-bfda-b7d7f609c093
 	- In recognition of the [[Reusability Paradox]] , we also intend to create the infrastructure to create fast prototypes and adapt existing ones. For example an API to provide, on demand, functions of specific difficulty levels, features, etc.
 	- We also want to drive adoption of more exploratory investigation into ways to inform the content created for Computing Education; for example, corpus analysis of docs to inform materials for "how to read docs".
-- [[Open Science]]
+- [[Open Research]]
 	- We want to encourage open research and replication in Computing Education by making prototypes used in studies immediately available to all researchers under an open license. Researchers can share their research questions, experimental designs and interventions before running experiments and their data afterwards, all in a single repository.
 	- Replications following the same or different methodologies can be tracked via forks, making related research more cumulative and navigable.
 - Some De Nepo projects:

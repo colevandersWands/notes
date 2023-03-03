@@ -1,0 +1,10 @@
+/* === hide top bullet in embed-block ===*/
+/* https://discuss.logseq.com/t/better-block-page-embed-view/220/4 */
+.embed-block .flex-1.flex-row {
+	margin-left: -15px; }  /* tweak value to move the top bullet */
+.embed-block .block-children {
+	border-left : 0px; }  /* hide the first indentation line */
+.embed-block .flex-1.flex-row .bullet-container.cursor .bullet {
+	background-color: transparent} /* embled-block top bullet */
+.embed-block .block-children .flex-1.flex-row .bullet-container.cursor .bullet {
+	background-color: var(--ls-block-bullet-color)} /* embled-block children bullets */

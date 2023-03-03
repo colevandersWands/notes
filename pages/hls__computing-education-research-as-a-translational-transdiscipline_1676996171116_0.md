@@ -47,3 +47,8 @@ file-path:: ../assets/computing-education-research-as-a-translational-transdisci
   hl-page:: 5
   hl-color:: green
   id:: 63fb6adc-7eef-4066-b8a3-faefff81e4d2
+- A field as broad as CER has a wide range of stakeholders with varying roles. Inspired by the immediacy axis of the InclusionImmediacy Criterion (IIC) described by Woodson [ 58], we first define three broad categories of CER stakeholders:• Intrinsic Stakeholders: Anyone directly contributing to bodies of knowledge in CER.• Direct Stakeholders: Anyone directly benefiting from the outputs of CER.• Extrinsic Stakeholders: Anyone indirectly benefiting from progress in CER.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 6401cecd-93cf-4790-a11e-b4af3af67eb4

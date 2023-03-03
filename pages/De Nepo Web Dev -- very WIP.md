@@ -1,7 +1,41 @@
 - old stuff to rework
+	- **## Layers of Skills**
+		- Software Development is a many layered skill. One way to break it down is to think of these layers, from the inside out. Like a [Spider Web]([[Spiderweb Curriculum]]):
+		- 1. **Source Code**: _*The basic literacy of programming*_
+			- Learning the key words (_vocabulary_) and syntax (_grammar_) for your programming language
+			- Being able to read your code out loud, tracing it's execution as a computer would
+			- Understanding what the developer wanted to say with their code
+			- > **Welcome to JS** will focus on these skills\_
+		- 2. **Machine Instructions**: _*The basic mechanics of programming*_
+			- Understanding the life-cycle of your program
+			- Understand how the computer will interpret your source code to create a running program
+			- Understand what about your code matters to the computer, and what matters to people
+			- Fixing syntax errors that occur when you try to run your code
+			- Predicting which lines of code will be executed in which order
+			- Predicting how each line of code will change what is stored in program memory
+			- Reading error messages & callstacks to fix fix semantic errors that occur when you run your code
+			- > **[[Module/Welcome to JS]] and [[Module/Inside JS]]** will focus on these skills
+		- 3. **Problem Solving & Algorithms**: _*Breaking down large problems to be solved in small steps*_
+			- Understanding a coding challenge and being able to break it down in different ways
+			- Determining which solution strategies are correct for which types of problems
+			- Understanding how test cases are used to describe your solution strategy
+			- Identifying the best language feature to use with your strategy
+			- Reading test cases to understand how code is _*supposed to*_ behave
+			- Using Test Cases to structure your solution design process \(Test Driven Development\)
+			- Identifying and isolating mistakes in your code by reading failing test cases
+			- Demonstrating your code does what you think it does by passing test cases
+			- > _[[Module/Behavior, Strategy, Implementation]] will focus on these skills_
+		- 4. **Software Design**: _*Organizing smaller pieces of code into full software solutions*_
+			- > _*Every module starting with [[Module/Separation of Concerns]] will focus on these skills*_
+		- 5. **Planning and Collaborating**: _Breaking down large problems into tasks that can be shared_
+			- > _This is introduced in the [[Workflows]] module and practiced in every other module_
+		- 6. **Context**: _Who uses a program, what is it's impact, and where did it come from?_
+			- Real people will use your software, is it accessible to them?
+			- Your software exists in a society, what it's impact on others?
+			- Someone planned and build your software, what were their motivations?
 	- {{embed ((64006bef-9006-4bbb-9b70-c38ab018a2fd))}}
 	- ## Modules Overview
-		- {{embed ((63f0a9b9-1292-474c-9127-4000aae19e14))}}
+		- {{embed ((5939fb5c-4688-4ea9-930a-47d7f4a63a52))}}
 		- [Application](application/) and [Precourse](precourse/):
 			- First steps into HTML, CSS & JS.
 			- What is the internet andd web development.
@@ -45,7 +79,7 @@
 	- ## Project Templates
 		- All projects at HackYourFuture Belgium use a series of progressive template repositories, each one adding l. These templates will gently lower you into the deep end of collaborative software development. The goal is to introduce you to the _full complexity_ of collaborative development from day 1, while keeping the code you develop as _simple as possible_ -> **Full Complexity, Maximum Simplicity**.
 		- Why use template repositories? Because you will be learning to build _your own_ projects, not just the projects we assign! By learning to plan, collaborate, and use a template repository you will learn transferable skills to help _your own_ communities build the software _you need_ - not what someone else tells you to build.
-			- 1. **[Markdown](https://github.com/HackYourFutureBelgium/template-markdown/)**: Focus on collaboration workflows, code quality, code review, group conventions and clear writing without the distraction of code and errors:
+			- 1.  **[Markdown](https://github.com/HackYourFutureBelgium/template-markdown/)**: Focus on collaboration workflows, code quality, code review, group conventions and clear writing without the distraction of code and errors:
 				- Linting for Markdown and folder/file names
 				- A script to format all files in the repository.
 				- A script for spell-checking.
@@ -53,7 +87,7 @@
 				- Template issues for questions and asking for help.
 				- Pull Request template with a code review checklist.
 				- _used in the **Workflows** module_
-			- 2. **[HTML & CSS](https://github.com/HackYourFutureBelgium/template-html-css/)**: Planning, design, and develop a user-facing web page written with HTML & CSS. This repository has all the features from the _Markdown_ repository, and then some more:
+			- 2.  **[HTML & CSS](https://github.com/HackYourFutureBelgium/template-html-css/)**: Planning, design, and develop a user-facing web page written with HTML & CSS. This repository has all the features from the _Markdown_ repository, and then some more:
 				- A directory for group planning documents (_see [Planning & Collaborating](https://home.hackyourfuture.be/students/planning-and-collaborating)_).
 				- Linting for CSS, validation for HTML.
 				- Accessibility reporting.

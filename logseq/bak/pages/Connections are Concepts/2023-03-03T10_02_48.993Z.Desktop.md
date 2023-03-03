@@ -1,0 +1,11 @@
+- Programming is complicated, there are many concepts to learn and all of the concepts are related in different ways. A naive way to look at this would be that you actually have two types of knowledge to build:
+	- **Concepts**: The individual concepts of programming, things like *_variables_* and *_APIs_* and *_repositories_*. Studying each of these concepts separately will be important before moving on to ...
+	- **Connections**: How the individual concepts are related. For example once you understand variables and arrays separately, you will still need to study *_reference vs. value_* (how *_variables_* store *_arrays_* in memory).
+- However, this two-component paradigm is not always the most useful way to think of things.  Instead, what if Connections are thought of as just a more complex Concept?
+	- When defining learning objectives, this framing can help to avoid overlooking or hand-waving away tricky and important objectives like *reference vs. value*.
+	- Then you'll make room in your learning objectives and schedule to teach this properly
+	- Making space in your curriculum for these tricky connecting concepts may also help with [[Learner Trust]] by implicitly acknowledging that something will be challenging, and the learner isn't expected to "just figure it out" or "get it later". #question
+- This raises the question of how to decide which "connectiony" learning objectives can be isolated and to what extent. Answering this question can help you scope and structure your curriculum
+	- A guiding question might be: {{embed ((63f4cbe9-f384-46cd-bb8b-2dbc15e65908))}}
+		-
+-

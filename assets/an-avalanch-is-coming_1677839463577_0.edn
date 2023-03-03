@@ -1,0 +1,90 @@
+{:highlights
+ [{:id #uuid "6401ccaf-bce6-4447-930e-aad85f6b0a69",
+   :page 10,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 -2,
+     :x2 574.9242553710938,
+     :y2 461.71875,
+     :width 761.1431336052522,
+     :height 1080},
+    :rects
+    ({:x1 0,
+      :y1 -2,
+      :x2 0,
+      :y2 18,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 0,
+      :y1 0,
+      :x2 0,
+      :y2 0,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 241.53125,
+      :x2 531.9465942382812,
+      :y2 261.53125,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 261.5,
+      :x2 568.7666015625,
+      :y2 281.5,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 281.453125,
+      :x2 565.5336303710938,
+      :y2 301.453125,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 301.40625,
+      :x2 465.8795166015625,
+      :y2 321.40625,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 331.65625,
+      :x2 565.5431518554688,
+      :y2 351.65625,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 351.609375,
+      :x2 574.9242553710938,
+      :y2 371.609375,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 371.5625,
+      :x2 568.8161010742188,
+      :y2 391.5625,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 391.515625,
+      :x2 554.53076171875,
+      :y2 411.515625,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 411.484375,
+      :x2 454.3896789550781,
+      :y2 431.484375,
+      :width 761.1431336052522,
+      :height 1080}
+     {:x1 61.703125,
+      :y1 441.71875,
+      :x2 499.770263671875,
+      :y2 461.71875,
+      :width 761.1431336052522,
+      :height 1080}),
+    :page 10},
+   :content
+   {:text
+    "An Avalanche is Coming argues that the next 50 years could see a golden age for higher education, but only if all the players in the system, from students to governments, seize the initiative and act ambitiously. If not, an avalanche of change will sweep the system away. Deep, radical and urgent transformation is required in higher education. The biggest risk is that as a result of complacency, caution or anxiety the pace of change is too slow and the nature of change is too incremental. The models of higher education that marched triumphantly across the globe in the second half of the 20th century are broken. This report challenges every player in the system to act boldly."},
+   :properties {:color "green"}}], 
+ :extra {:page 15}}

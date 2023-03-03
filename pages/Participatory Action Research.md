@@ -1,0 +1,11 @@
+- [PythonSneks Field Guide](https://acbart.github.io/python-sneks/), [bart et al 2019]([[PythonSneks: An Open-Source, Instructionally-Designed Introductory Curriculum with Action-Design Research]])
+  title:: Participatory Action Research
+	- uses Action-Design Research, how does this compare to Participatory Action Research?
+- pros
+	- strongly contextualized
+	- well-fitting solutions
+- cons
+	- not generalized
+- references
+	- https://espace.curtin.edu.au/bitstream/handle/20.500.11937/49022/248627.pdf?sequence=3 #unread
+	-

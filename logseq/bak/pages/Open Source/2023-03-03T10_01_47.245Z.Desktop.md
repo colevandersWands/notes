@@ -1,0 +1,4 @@
+- [[Open License]]
+- {{embed ((63f61887-d67b-4632-91d9-9b7ed2f1c0ff))}}
+- perspectives
+	- [not very open or welcoming](https://computinged.wordpress.com/2010/01/21/open-source-development-not-very-open-or-welcoming/)

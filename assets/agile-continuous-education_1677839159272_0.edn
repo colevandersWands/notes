@@ -1,0 +1,82 @@
+{:highlights
+ [{:id #uuid "6401cd40-fcc3-4e6d-ba53-3499c126fc74",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 606,
+     :x2 708.7163696289062,
+     :y2 979.703125,
+     :width 800,
+     :height 1131.4281106579135},
+    :rects
+    ({:x1 0,
+      :y1 606,
+      :x2 0,
+      :y2 626,
+      :width 800,
+      :height 1131.4281106579135}
+     {:x1 0,
+      :y1 622,
+      :x2 0,
+      :y2 642,
+      :width 800,
+      :height 1131.4281106579135}
+     {:x1 422.9452819824219,
+      :y1 924.609375,
+      :x2 708.7163696289062,
+      :y2 942.609375,
+      :width 800,
+      :height 1131.4281106579135}
+     {:x1 96.75,
+      :y1 943.15625,
+      :x2 703.3991088867188,
+      :y2 961.15625,
+      :width 800,
+      :height 1131.4281106579135}
+     {:x1 96.75,
+      :y1 961.703125,
+      :x2 404.1114501953125,
+      :y2 979.703125,
+      :width 800,
+      :height 1131.4281106579135}),
+    :page 2},
+   :content
+   {:text
+    "Importantly, this education needs to be highly practical but following a model based on rigorous educational research, and conveyed in a fluid, flexible, digestible way."},
+   :properties {:color "green"}}
+  {:id #uuid "6401d0e1-0904-467e-91ba-abc755ba4589",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 430,
+     :x2 702.4496459960938,
+     :y2 791.984375,
+     :width 800,
+     :height 1131.4281106579135},
+    :rects
+    ({:x1 0,
+      :y1 430,
+      :x2 0,
+      :y2 450,
+      :width 800,
+      :height 1131.4281106579135}
+     {:x1 145.140625,
+      :y1 755.4375,
+      :x2 702.4496459960938,
+      :y2 773.4375,
+      :width 800,
+      :height 1131.4281106579135}
+     {:x1 145.140625,
+      :y1 773.984375,
+      :x2 569.3878784179688,
+      :y2 791.984375,
+      :width 800,
+      :height 1131.4281106579135}),
+    :page 5},
+   :content
+   {:text
+    "How does the content reflect humanities and social sciences? And in what ways could ethical thinking be integrated with the STEM content?"},
+   :properties {:color "blue"}}], 
+ :extra {:page 1}}

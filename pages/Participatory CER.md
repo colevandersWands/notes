@@ -25,8 +25,8 @@
 	-
 	-
 - participatory research methodologies
-	- [[Action-Design Research]]
-	- [[Agile Research]]
+	- [[Participatory Action Research]]
+	- [[Agile CER]]
 	- [[Translational Sprints]]
 - related
 	- [[Research-Practice Partnership]]
