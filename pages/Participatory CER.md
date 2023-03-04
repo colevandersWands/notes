@@ -9,6 +9,7 @@
 	- How to balance the interests of current vs. future learners when conducting “real-time” experiments? #question
 	- What is the relation between [[Participatory CER]] and [[Culturally Responsive Computing Education]]? #question
 	- How do theory and PCER interact? #question [nelson '18]([[On Use of Theory in Computing Education Research]]) [malmi '19]([[Reflections on Theory]]) [tenenberg '22]([[Conceptualizing the Researcher-Theory Relation]])   [tedre '22]([[Grand Theories or Design Guidelines? Perspectives on the role of theory in Computing Education Research]])
+	- how do [proximities](((64039f5d-6e06-4163-9f0b-85c726e63b84))) factor into [[Participatory CER]]? #question
 - My simplified, evolving understanding of [[Participatory CER]]
 	- Stakeholders in CER, who are these people? They can be anyone studying or teaching programming, at school, at home, with friends.  Stakeholders can also be organizations: non-profits, universities, unemployment services.  And stakeholders can also be anyone indirectly impacted by CE, employers or family members
 	- So rather than listing all the different stakeholders of a TRP, I instead think about their relationship to the research process & the final designed artifacts.  These three categories of stakeholder are inspired by the [Inclusion-Immediacy Criterion]([[Impacts for whom? Assessing inequalities in NSF-funded broader impacts using the Inclusion-Immediacy Criterion]]):
@@ -33,5 +34,8 @@
 	- [[Trading Zones]]
 	- Medicine has some done some solid thinking on participatory research
 		- [[Engagement Rubric]] from [PCORI]([[Patient-Centered Outcomes Research Institute]])
+	- [[Consensus Building]]
+- references
+	- https://medicinex.stanford.edu/about/ #unread
 	-
 	-

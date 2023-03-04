@@ -18,8 +18,9 @@
 	- Finally, we are looking for a way to balance competing interests in our own careers including; Making computing education open, usable, useful and used. Keeping a connection to the classroom. Contributing to the body of CER knowledge. and Staying in touch with best practices in development. Hopefully Translational Sprints can be one piece of the puzzle for us and others seeking to find a balanced career.
 - ## Contributions
 	- We believe the most significant contribution of [[Translational Sprints]] is to imagine a “native” R&D methodology for [[Computing Education Research]]. Translational Sprints borrow from academic research, instructional design, agile development and [[Open Education]] to imagine how researchers and practitioners can work together [^2] to build new knowledge and improve learning outcomes. Translational Sprints can also provide opportunities for researchers to develop domain- and context-specific learning theories [^3] that are only possible with the direct participation of learners and strong [[Research-Practice Partnership]]s. Finally, if practiced with transparency, we believe Translational Sprints offer a unique opportunity for educators to introduce the principles of research, design, collaboration, and project management. Depending on their level of experience, learners could even work alongside researchers improving their own education.
+	  id:: 6401c5cd-5062-4d6a-9bda-41c0af0b1bd7
 - ## References
 	- [^1]: [[The Different Types of Contributions to Knowledge (in CER): All Needed, but Not All Recognised]]
 	- [^2]: [[Negotiating Trust, Power and Culture in a Research-Practice Partnership]]
 	- [^3]: [[Development and Use of Domain-specific Learning Theories, Models and Instruments in Computing Education]]
-	- [[Computing Education Research as a Translational Transdiscipline]]
+	- residing in the "praxis" realm of [[Computing Education Research as a Translational Transdiscipline]]

@@ -12,8 +12,9 @@ tags:: bibliography
 		- *jargon* --> *pidgin* --> *creole*
 	- ((63fb4271-dfce-4166-923d-b18bf417451e))
 		- [[Computing Education Research]] is undergoing creoleosis (adapted from "apotheosis")
-	- ((63fb447c-8728-4484-aec1-73966bb81996))
-		- a general discrete model for classifying trading zones, static in time
+	- **A General Model of Trading Zones:** ((63fb447c-8728-4484-aec1-73966bb81996))
+	  id:: 63fb42e4-155e-46f7-b4f2-ba8ba4382b85
+		- discrete, static in time
 	- ((63fb44b2-bd1e-48a6-b9c7-bf6ac732b1e2))
 		- languages being intentionally complex to identify social status (french, chinese, ...)
 	- ((63fb45b3-0554-406d-871e-3be8bc92a859))

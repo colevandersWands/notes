@@ -13,6 +13,7 @@ tags:: bibliography
 		- *Epistemology*: ((6401fd58-2dfa-44a4-b6d9-c40ea12a5821))
 			- ((6401fd67-0db6-41c5-9261-639639695b90))
 		- *Axiology*: ((6401fe24-9d50-478d-95ee-3af865cafd6c))
+		  id:: 6401fd6e-e888-463b-a852-a71b65738694
 	- ((6401fec3-925e-4d43-bfe3-88f1ad6cd803))
 		- #unread Kuhn's "The Structure of Scientific Revolutions"
 			- [[Disciplinary Matrix]]

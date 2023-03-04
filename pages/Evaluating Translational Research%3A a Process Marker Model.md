@@ -6,6 +6,7 @@ tags:: bibliography
 	- *Results*: We contend that this phased approach has been confusing and that it is insufficient as a basis for evaluation. Instead, we argue for the identification of key operational and measurable markers along a generalized process pathway from research to practice.
 	- *Conclusions*: This model provides a foundation for the evaluation of interventions designed to improve translational research and the integration of these findings into a field of translational studies.
 - full paper: ![local copy](../assets/process-marker-model_1677320591189_0.pdf), [online](https://ascpt.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1752-8062.2011.00291.x)
+- **Notes:**
 - TROCHIM, William, et al. Evaluating translational research: a process marker model. *Clinical and translational science*, 2011, 4.3: 153-162
 - ```
   @article{trochim2011evaluating,

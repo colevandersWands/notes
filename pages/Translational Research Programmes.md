@@ -10,5 +10,10 @@
 	- It’s not possible to isolate such a challenge and develop solutions in a controlled setting.   There are practical, social and psychological factors that simply can’t be ignored without redefining your target context.
 	- CER specialists working on such a TRP would need to approach the project with open ears and offer their expertise in service of the project, not the other way around.
 	- ![TRPs are transdisciplinary](../assets/sigcse_presentation_tcer_-_beat.042_1677259641036_0.jpg)
+-
+- While a TRP interacts with all 5 phases of TCER, the phases are not practical for _planning_ a TRP.
+	- for planning purposes [process markers]([[Evaluating Translational Research: a Process Marker Model]]) and [[Agile CER]] would be more useful
+	- to plan and evaluate the [[Broader Impact]]s of a TRP, the [inclusion-immediacy criterion]([[Impacts for whom? Assessing inequalities in NSF-funded broader impacts using the Inclusion-Immediacy Criterion]]) can be helpful: ![inclusion-immediacy criterion table](../assets/inclusion-immediacy-criterion-table.png)
 - References
 	- [[Evaluating Translational Research: a Process Marker Model]]
+	- [[Computing Education Research as a Translational Transdiscipline]]

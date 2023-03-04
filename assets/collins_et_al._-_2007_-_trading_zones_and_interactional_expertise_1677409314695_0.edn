@@ -1,1 +1,1114 @@
-{:highlights [{:id #uuid "63fb3d1f-15c6-4175-a728-6b8ef6b05a00", :page 1, :position {:bounding {:x1 0, :y1 574, :x2 755.7401123046875, :y2 844.421875, :width 800, :height 1066.6662186951937}, :rects ({:x1 0, :y1 574, :x2 0, :y2 594, :width 800, :height 1066.6662186951937} {:x1 582.8694458007812, :y1 813.34375, :x2 755.7401123046875, :y2 828.34375, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 829.421875, :x2 495.4527893066406, :y2 844.421875, :width 800, :height 1066.6662186951937}), :page 1}, :content {:text "the Wittgensteinian notion of‘form of life’"}, :properties {:color "blue"}} {:id #uuid "63fb3db3-eed6-4618-b6c1-664a386f5fbf", :page 2, :position {:bounding {:x1 0, :y1 62, :x2 381.3280334472656, :y2 251.5, :width 800, :height 1066.6662186951937}, :rects ({:x1 0, :y1 62, :x2 0, :y2 82, :width 800, :height 1066.6662186951937} {:x1 0, :y1 78, :x2 0, :y2 98, :width 800, :height 1066.6662186951937} {:x1 0, :y1 94, :x2 0, :y2 114, :width 800, :height 1066.6662186951937} {:x1 0, :y1 110, :x2 0, :y2 130, :width 800, :height 1066.6662186951937} {:x1 0, :y1 126, :x2 0, :y2 146, :width 800, :height 1066.6662186951937} {:x1 239.1380615234375, :y1 156.203125, :x2 381.2822570800781, :y2 171.203125, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 172.28125, :x2 381.2124938964844, :y2 187.28125, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 188.265625, :x2 381.3280334472656, :y2 203.265625, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 204.34375, :x2 379.8920593261719, :y2 219.34375, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 220.421875, :x2 381.2974548339844, :y2 235.421875, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 236.5, :x2 103.80028533935547, :y2 251.5, :width 800, :height 1066.6662186951937}), :page 2}, :content {:text "rather as a cowrie shell might be an ornament for one tribe, a unit of currency for another tribe, and your grandmother’s soul for another tribe. To think of the cowrie shell as the ‘same thing’ in each of these cases is to privilege a certain kind of analyst’s viewpoint"}, :properties {:color "red"}} {:id #uuid "63fb4087-7311-468f-8d8b-9c970e12d3d4", :page 2, :position {:bounding {:x1 0, :y1 430, :x2 381.33465576171875, :y2 641.0625, :width 800, :height 1066.6662186951937}, :rects ({:x1 0, :y1 430, :x2 0, :y2 450, :width 800, :height 1066.6662186951937} {:x1 0, :y1 446, :x2 0, :y2 466, :width 800, :height 1066.6662186951937} {:x1 0, :y1 462, :x2 0, :y2 482, :width 800, :height 1066.6662186951937} {:x1 0, :y1 478, :x2 0, :y2 498, :width 800, :height 1066.6662186951937} {:x1 0, :y1 494, :x2 0, :y2 514, :width 800, :height 1066.6662186951937} {:x1 60.03125, :y1 545.765625, :x2 381.28985595703125, :y2 560.765625, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 561.765625, :x2 379.9221496582031, :y2 576.765625, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 577.828125, :x2 381.2892150878906, :y2 592.828125, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 593.90625, :x2 381.33465576171875, :y2 608.90625, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 609.984375, :x2 380.1950988769531, :y2 624.984375, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 626.0625, :x2 130.08724975585938, :y2 641.0625, :width 800, :height 1066.6662186951937}), :page 2}, :content {:text "Not all trade is conducted in trading zones—at least, not according to our definition. We define ‘trading zones’ as locations in which communities with a deep problem of communication manage to communicate. If there is no problem of communication there is simply ‘trade’ not a‘trading zone’. "}, :properties {:color "green"}} {:id #uuid "63fb4216-9be5-4a4f-8bf2-dc3ef4521f7f", :page 2, :position {:bounding {:x1 0, :y1 91.890625, :x2 741.6907958984375, :y2 849.90625, :width 800, :height 1066.6662186951937}, :rects ({:x1 405.484375, :y1 91.890625, :x2 741.5746459960938, :y2 106.890625, :width 800, :height 1066.6662186951937} {:x1 405.484375, :y1 107.96875, :x2 741.6907958984375, :y2 122.96875, :width 800, :height 1066.6662186951937} {:x1 405.484375, :y1 124.046875, :x2 739.05810546875, :y2 139.046875, :width 800, :height 1066.6662186951937} {:x1 0, :y1 654, :x2 0, :y2 674, :width 800, :height 1066.6662186951937} {:x1 0, :y1 670, :x2 0, :y2 690, :width 800, :height 1066.6662186951937} {:x1 0, :y1 686, :x2 0, :y2 706, :width 800, :height 1066.6662186951937} {:x1 0, :y1 702, :x2 0, :y2 722, :width 800, :height 1066.6662186951937} {:x1 0, :y1 718, :x2 0, :y2 738, :width 800, :height 1066.6662186951937} {:x1 324.3793640136719, :y1 802.828125, :x2 381.34326171875, :y2 817.828125, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 818.90625, :x2 381.2173156738281, :y2 833.90625, :width 800, :height 1066.6662186951937} {:x1 43.953125, :y1 834.90625, :x2 381.3285827636719, :y2 849.90625, :width 800, :height 1066.6662186951937}), :page 2}, :content {:text "He claims the problem is solved by the development of ‘in-between’ vocabularies through which communication can be accomplished. The simplest of these ‘inter-languages’ is a ‘jargon’, more complex is a ‘pidgin’, while a ‘creole’ is a new language in itself. Galison applies this metaphor to science"}, :properties {:color "green"}} {:id #uuid "63fb4271-dfce-4166-923d-b18bf417451e", :page 2, :position {:bounding {:x1 0, :y1 220.421875, :x2 742.8489379882812, :y2 882, :width 800, :height 1066.6662186951937}, :rects ({:x1 655.2770385742188, :y1 220.421875, :x2 742.8148803710938, :y2 235.421875, :width 800, :height 1066.6662186951937} {:x1 405.484375, :y1 236.5, :x2 742.8489379882812, :y2 251.5, :width 800, :height 1066.6662186951937} {:x1 405.484375, :y1 252.578125, :x2 742.7940063476562, :y2 267.578125, :width 800, :height 1066.6662186951937} {:x1 405.484375, :y1 268.65625, :x2 687.09521484375, :y2 283.65625, :width 800, :height 1066.6662186951937} {:x1 0, :y1 830, :x2 0, :y2 850, :width 800, :height 1066.6662186951937} {:x1 0, :y1 846, :x2 0, :y2 866, :width 800, :height 1066.6662186951937} {:x1 0, :y1 862, :x2 0, :y2 882, :width 800, :height 1066.6662186951937}), :page 2}, :content {:text "In this case the result is a new expertise in biochemistry which involves a full-blown creole which can be taught as a free-standing language/culture to new generations of students."}, :properties {:color "red"}} {:id #uuid "63fb447c-8728-4484-aec1-73966bb81996", :page 3, :position {:bounding {:x1 53, :y1 87, :x2 766, :y2 477, :width 800, :height 1066.6662186951937}, :rects (), :page 3}, :content {:text "[:span]", :image 1677411432257}, :properties {:color "yellow"}} {:id #uuid "63fb44b2-bd1e-48a6-b9c7-bf6ac732b1e2", :page 3, :position {:bounding {:x1 0, :y1 238, :x2 394.52972412109375, :y2 753.663330078125, :width 800, :height 1066.6662186951937}, :rects ({:x1 0, :y1 238, :x2 0, :y2 258, :width 800, :height 1066.6662186951937} {:x1 123.14244842529297, :y1 722.6718139648438, :x2 394.1777572631836, :y2 737.6718139648438, :width 800, :height 1066.6662186951937} {:x1 57.123992919921875, :y1 738.663330078125, :x2 394.52972412109375, :y2 753.663330078125, :width 800, :height 1066.6662186951937}), :page 3}, :content {:text " The access of the non-elite to understanding of the elite culture is tightly controlled by those in power."}, :properties {:color "red"}} {:id #uuid "63fb45b3-0554-406d-871e-3be8bc92a859", :page 3, :position {:bounding {:x1 0, :y1 366, :x2 792.341552734375, :y2 941.75, :width 838.4169014084506, :height 1117.8887323943661}, :rects ({:x1 0, :y1 366, :x2 0, :y2 386, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 382, :x2 0, :y2 402, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 398, :x2 0, :y2 418, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 414, :x2 0, :y2 434, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 430, :x2 0, :y2 450, :width 838.4169014084506, :height 1117.8887323943661} {:x1 438.765625, :y1 503.78125, :x2 792.2803344726562, :y2 520.78125, :width 838.4169014084506, :height 1117.8887323943661} {:x1 438.765625, :y1 520.625, :x2 792.341552734375, :y2 537.625, :width 838.4169014084506, :height 1117.8887323943661} {:x1 438.765625, :y1 537.484375, :x2 652.793701171875, :y2 554.484375, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 891.125, :x2 413.4132995605469, :y2 908.125, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 907.890625, :x2 413.4093017578125, :y2 924.890625, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 924.75, :x2 413.41558837890625, :y2 941.75, :width 838.4169014084506, :height 1117.8887323943661}), :page 3}, :content {:text "the science and technology being imposed from the top down on the assumption that, since science gives access to universal truths, adjustments for local conditions are otiose and there is no reason to meld the expert culture with the non-expert or even for the elite to try to understand the non-expert view of the world"}, :properties {:color "red"}} {:id #uuid "63fb4683-f597-45e2-a3fd-ab0a7f4821d9", :page 3, :position {:bounding {:x1 0, :y1 718, :x2 792.3526611328125, :y2 874.4375, :width 838.4169014084506, :height 1117.8887323943661}, :rects ({:x1 0, :y1 718, :x2 0, :y2 738, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 734, :x2 0, :y2 754, :width 838.4169014084506, :height 1117.8887323943661} {:x1 455.609375, :y1 823.734375, :x2 792.2903442382812, :y2 840.734375, :width 838.4169014084506, :height 1117.8887323943661} {:x1 438.765625, :y1 840.578125, :x2 792.3526611328125, :y2 857.578125, :width 838.4169014084506, :height 1117.8887323943661} {:x1 438.765625, :y1 857.4375, :x2 522.2610473632812, :y2 874.4375, :width 838.4169014084506, :height 1117.8887323943661}), :page 3}, :content {:text "Finally, it should be said that there are circumstances in which an enforced trading zone is beneficial and even morally desirable"}, :properties {:color "red"}} {:id #uuid "63fb4826-4bee-4330-9239-822bd194cf99", :page 4, :position {:bounding {:x1 46.0625, :y1 214.5625, :x2 217.38497924804688, :y2 231.5625, :width 838.4169014084506, :height 1117.8887323943661}, :rects ({:x1 46.0625, :y1 214.5625, :x2 217.38497924804688, :y2 231.5625, :width 838.4169014084506, :height 1117.8887323943661}), :page 4}, :content {:text "2.2. Subversive trading zones"}, :properties {:color "red"}} {:id #uuid "63fb4875-da19-48e4-bed5-cfed63442902", :page 4, :position {:bounding {:x1 0, :y1 766, :x2 399.61370849609375, :y2 972.484375, :width 838.4169014084506, :height 1117.8887323943661}, :rects ({:x1 0, :y1 766, :x2 0, :y2 786, :width 838.4169014084506, :height 1117.8887323943661} {:x1 156.96875, :y1 938.640625, :x2 399.61370849609375, :y2 955.640625, :width 838.4169014084506, :height 1117.8887323943661} {:x1 46.0625, :y1 955.484375, :x2 315.5242004394531, :y2 972.484375, :width 838.4169014084506, :height 1117.8887323943661}), :page 4}, :content {:text "Other possibilities are written out of this script and are thus never realized in practice"}, :properties {:color "green"}} {:id #uuid "63fb4c0f-198c-4c6c-8a6f-668ed69c95e9", :page 5, :position {:bounding {:x1 0, :y1 254, :x2 413.4296569824219, :y2 432.3125, :width 838.4169014084506, :height 1117.8887323943661}, :rects ({:x1 0, :y1 254, :x2 0, :y2 274, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 270, :x2 0, :y2 290, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 286, :x2 0, :y2 306, :width 838.4169014084506, :height 1117.8887323943661} {:x1 76.734375, :y1 364.765625, :x2 413.4205322265625, :y2 381.765625, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 381.609375, :x2 99.5487060546875, :y2 398.609375, :width 838.4169014084506, :height 1117.8887323943661} {:x1 109.625, :y1 381.609375, :x2 257.9203186035156, :y2 398.609375, :width 838.4169014084506, :height 1117.8887323943661} {:x1 267.96875, :y1 381.609375, :x2 349.8548583984375, :y2 398.609375, :width 838.4169014084506, :height 1117.8887323943661} {:x1 359.875, :y1 381.609375, :x2 413.35150146484375, :y2 398.609375, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 398.453125, :x2 413.4296569824219, :y2 415.453125, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 415.3125, :x2 359.1337890625, :y2 432.3125, :width 838.4169014084506, :height 1117.8887323943661}), :page 5}, :content {:text "Interactional expertise is the product of a successful linguistic socialization. Although expressed as language alone, it cannot be too heavily stressed, interactional expertise is tacit knowledge-laden and context specific"}, :properties {:color "green"}} {:id #uuid "63fb4c74-30ed-4ba9-b80f-0e01e04c8da7", :page 5, :position {:bounding {:x1 0, :y1 510, :x2 413.4805908203125, :y2 735.40625, :width 838.4169014084506, :height 1117.8887323943661}, :rects ({:x1 0, :y1 510, :x2 0, :y2 530, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 526, :x2 0, :y2 546, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 542, :x2 0, :y2 562, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 558, :x2 0, :y2 578, :width 838.4169014084506, :height 1117.8887323943661} {:x1 0, :y1 574, :x2 0, :y2 594, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 634.171875, :x2 413.4145812988281, :y2 651.171875, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 651.015625, :x2 413.4805908203125, :y2 668.015625, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 667.875, :x2 413.3608703613281, :y2 684.875, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 684.71875, :x2 413.4361877441406, :y2 701.71875, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 701.5625, :x2 413.4433898925781, :y2 718.5625, :width 838.4169014084506, :height 1117.8887323943661} {:x1 59.875, :y1 718.40625, :x2 93.87120056152344, :y2 735.40625, :width 838.4169014084506, :height 1117.8887323943661}), :page 5}, :content {:text "We could say that the social scientists were engaged in two simultaneous projects: trying to become interactional experts in the worlds of the various negotiating parties and trying to build an inter-language—in this case a common language of measurement—that both parties would share"}, :properties {:color "green"}} {:id #uuid "63fb50e1-9846-4d6f-8bac-4d950fa3ae53", :page 5, :position {:bounding {:x1 0, :y1 461.421875, :x2 756.02392578125, :y2 1346, :width 800, :height 1066.6662186951937}, :rects ({:x1 649.140625, :y1 461.421875, :x2 755.93359375, :y2 476.421875, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 477.5, :x2 756.02392578125, :y2 492.5, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 493.5625, :x2 755.9954833984375, :y2 508.5625, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 509.640625, :x2 755.9550170898438, :y2 524.640625, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 525.71875, :x2 756.0026245117188, :y2 540.71875, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 541.796875, :x2 755.9692993164062, :y2 556.796875, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 557.875, :x2 755.9522705078125, :y2 572.875, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 573.875, :x2 755.984375, :y2 588.875, :width 800, :height 1066.6662186951937} {:x1 418.65625, :y1 589.953125, :x2 517.626220703125, :y2 604.953125, :width 800, :height 1066.6662186951937} {:x1 0, :y1 1214, :x2 0, :y2 1234, :width 800, :height 1066.6662186951937} {:x1 0, :y1 1230, :x2 0, :y2 1250, :width 800, :height 1066.6662186951937} {:x1 0, :y1 1246, :x2 0, :y2 1266, :width 800, :height 1066.6662186951937} {:x1 0, :y1 1262, :x2 0, :y2 1282, :width 800, :height 1066.6662186951937} {:x1 0, :y1 1278, :x2 0, :y2 1298, :width 800, :height 1066.6662186951937} {:x1 0, :y1 1294, :x2 0, :y2 1314, :width 800, :height 1066.6662186951937} {:x1 0, :y1 1310, :x2 0, :y2 1330, :width 800, :height 1066.6662186951937} {:x1 0, :y1 1326, :x2 0, :y2 1346, :width 800, :height 1066.6662186951937}), :page 5}, :content {:text "Thus, for example, the green chemist and the architect had to understand enough of the manufacturing processes to be sure they followed the protocol, whilst the mill owner had to understand the guiding principles and protocol well enough to be able to embody them in the design. Nevertheless, the parties did not become contributors to each other’s fields nor was any new vocabulary developed—at least, not in the first instance."}, :properties {:color "red"}} {:id #uuid "63fb6896-8949-4e7e-8c91-7d56f01c916a", :page 7, :position {:bounding {:x1 51.2109375, :y1 82.2578125, :x2 217.8578338623047, :y2 96.2578125, :width 717, :height 955.9995985055673}, :rects ({:x1 51.2109375, :y1 82.2578125, :x2 217.8578338623047, :y2 96.2578125, :width 717, :height 955.9995985055673}), :page 7}, :content {:text "4. The evolution of trading zones"}, :properties {:color "green"}} {:id #uuid "63fb6a56-9f77-4d3c-85fd-98df1d59b645", :page 8, :position {:bounding {:x1 0, :y1 174, :x2 351.77545166015625, :y2 795.296875, :width 738.0000000000001, :height 983.9995867463163}, :rects ({:x1 0, :y1 174, :x2 0, :y2 193.5, :width 738.0000000000001, :height 983.9995867463163} {:x1 0, :y1 190, :x2 0, :y2 209.5, :width 738.0000000000001, :height 983.9995867463163} {:x1 0, :y1 206, :x2 0, :y2 225.5, :width 738.0000000000001, :height 983.9995867463163} {:x1 40.5546875, :y1 736.375, :x2 351.7456970214844, :y2 750.875, :width 738.0000000000001, :height 983.9995867463163} {:x1 40.5546875, :y1 751.203125, :x2 351.77545166015625, :y2 765.703125, :width 738.0000000000001, :height 983.9995867463163} {:x1 40.5546875, :y1 766.0390625, :x2 351.7654724121094, :y2 780.5390625, :width 738.0000000000001, :height 983.9995867463163} {:x1 40.5546875, :y1 780.796875, :x2 92.98888397216797, :y2 795.296875, :width 738.0000000000001, :height 983.9995867463163}), :page 8}, :content {:text "This possibility is realised when departments are set up, textbooks are produced and what was once a radical and innovative experiment becomes a normal science research program. "}, :properties {:color "red"}} {:id #uuid "63fb6a9f-6087-4704-92f4-0de9fc77f77a", :page 8, :position {:bounding {:x1 0, :y1 238, :x2 351.8139343261719, :y2 854.6171875, :width 738.0000000000001, :height 983.9995867463163}, :rects ({:x1 0, :y1 238, :x2 0, :y2 257.5, :width 738.0000000000001, :height 983.9995867463163} {:x1 0, :y1 254, :x2 0, :y2 273.5, :width 738.0000000000001, :height 983.9995867463163} {:x1 0, :y1 270, :x2 0, :y2 289.5, :width 738.0000000000001, :height 983.9995867463163} {:x1 112.80343627929688, :y1 795.625, :x2 351.7834167480469, :y2 810.125, :width 738.0000000000001, :height 983.9995867463163} {:x1 40.5546875, :y1 810.453125, :x2 351.7008056640625, :y2 824.953125, :width 738.0000000000001, :height 983.9995867463163} {:x1 40.5546875, :y1 825.2890625, :x2 351.8139343261719, :y2 839.7890625, :width 738.0000000000001, :height 983.9995867463163} {:x1 40.5546875, :y1 840.1171875, :x2 162.71331787109375, :y2 854.6171875, :width 738.0000000000001, :height 983.9995867463163}), :page 8}, :content {:text "New recruits to the discipline will now find the cultural hegemony so strong that they have no choice but to abandon any ideas they bring with them and accept the dominant culture."}, :properties {:color "red"}} {:id #uuid "63fb6b5e-e5d5-41c7-9c75-a9bf164fa4bd", :page 9, :position {:bounding {:x1 0, :y1 478, :x2 385.1021423339844, :y2 685.078125, :width 781, :height 1041.332896001183}, :rects ({:x1 0, :y1 478, :x2 0, :y2 497.5, :width 781, :height 1041.332896001183} {:x1 0, :y1 494, :x2 0, :y2 513.5, :width 781, :height 1041.332896001183} {:x1 0, :y1 510, :x2 0, :y2 529.5, :width 781, :height 1041.332896001183} {:x1 0, :y1 526, :x2 0, :y2 545.5, :width 781, :height 1041.332896001183} {:x1 55.78125, :y1 606.8046875, :x2 385.0660705566406, :y2 622.3046875, :width 781, :height 1041.332896001183} {:x1 55.78125, :y1 622.5, :x2 384.01593017578125, :y2 638, :width 781, :height 1041.332896001183} {:x1 55.78125, :y1 638.1875, :x2 385.1021423339844, :y2 653.6875, :width 781, :height 1041.332896001183} {:x1 55.78125, :y1 653.8828125, :x2 385.08477783203125, :y2 669.3828125, :width 781, :height 1041.332896001183} {:x1 55.78125, :y1 669.578125, :x2 128.54763793945312, :y2 685.078125, :width 781, :height 1041.332896001183}), :page 9}, :content {:text "Moreover, to the extent that genuinely novel ideas come from ‘left field’ or from those with a relatively low degree of inclusion, then the top-right hand quadrant seems to be the best location for developing new interdisciplinary partnerships."}, :properties {:color "green"}} {:id #uuid "63fb6bc6-92b9-4a32-87da-59763b24690a", :page 9, :position {:bounding {:x1 -0.004586696624755859, :y1 750, :x2 396.94243478775024, :y2 953.1660766601562, :width 781, :height 1041.332896001183}, :rects ({:x1 0, :y1 750, :x2 0, :y2 769.5, :width 781, :height 1041.332896001183} {:x1 0, :y1 766, :x2 0, :y2 785.5, :width 781, :height 1041.332896001183} {:x1 0, :y1 782, :x2 0, :y2 801.5, :width 781, :height 1041.332896001183} {:x1 365.3873596191406, :y1 873.4461669921875, :x2 384.5843811035156, :y2 888.9461669921875, :width 781, :height 1041.332896001183} {:x1 -0.004584014415740967, :y1 889.3367919921875, :x2 396.8915646672249, :y2 905.0946044921875, :width 781, :height 1041.332896001183} {:x1 -0.004586696624755859, :y1 905.1065673828125, :x2 396.94243478775024, :y2 920.6065673828125, :width 781, :height 1041.332896001183} {:x1 -0.00458545982837677, :y1 919.5254516601562, :x2 160.49783325195312, :y2 953.1660766601562, :width 781, :height 1041.332896001183} {:x1 160.484375, :y1 920.5332641601562, :x2 160.48756408691406, :y2 936.0332641601562, :width 781, :height 1041.332896001183}), :page 9}, :content {:text "Yet longer time frames must be used if the aspiration is the emergence of pidgins and creoles needed for new inter-languages to develop. "}, :properties {:color "red"}}], :extra {:page 9}}
+{:highlights
+ [{:id #uuid "63fb3d1f-15c6-4175-a728-6b8ef6b05a00",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 574,
+     :x2 755.7401123046875,
+     :y2 844.421875,
+     :width 800,
+     :height 1066.6662186951937},
+    :rects
+    ({:x1 0,
+      :y1 574,
+      :x2 0,
+      :y2 594,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 582.8694458007812,
+      :y1 813.34375,
+      :x2 755.7401123046875,
+      :y2 828.34375,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 829.421875,
+      :x2 495.4527893066406,
+      :y2 844.421875,
+      :width 800,
+      :height 1066.6662186951937}),
+    :page 1},
+   :content {:text "the Wittgensteinian notion of‘form of life’"},
+   :properties {:color "blue"}}
+  {:id #uuid "63fb3db3-eed6-4618-b6c1-664a386f5fbf",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 62,
+     :x2 381.3280334472656,
+     :y2 251.5,
+     :width 800,
+     :height 1066.6662186951937},
+    :rects
+    ({:x1 0,
+      :y1 62,
+      :x2 0,
+      :y2 82,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 78,
+      :x2 0,
+      :y2 98,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 94,
+      :x2 0,
+      :y2 114,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 110,
+      :x2 0,
+      :y2 130,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 126,
+      :x2 0,
+      :y2 146,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 239.1380615234375,
+      :y1 156.203125,
+      :x2 381.2822570800781,
+      :y2 171.203125,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 172.28125,
+      :x2 381.2124938964844,
+      :y2 187.28125,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 188.265625,
+      :x2 381.3280334472656,
+      :y2 203.265625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 204.34375,
+      :x2 379.8920593261719,
+      :y2 219.34375,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 220.421875,
+      :x2 381.2974548339844,
+      :y2 235.421875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 236.5,
+      :x2 103.80028533935547,
+      :y2 251.5,
+      :width 800,
+      :height 1066.6662186951937}),
+    :page 2},
+   :content
+   {:text
+    "rather as a cowrie shell might be an ornament for one tribe, a unit of currency for another tribe, and your grandmother’s soul for another tribe. To think of the cowrie shell as the ‘same thing’ in each of these cases is to privilege a certain kind of analyst’s viewpoint"},
+   :properties {:color "red"}}
+  {:id #uuid "63fb4087-7311-468f-8d8b-9c970e12d3d4",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 430,
+     :x2 381.33465576171875,
+     :y2 641.0625,
+     :width 800,
+     :height 1066.6662186951937},
+    :rects
+    ({:x1 0,
+      :y1 430,
+      :x2 0,
+      :y2 450,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 446,
+      :x2 0,
+      :y2 466,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 462,
+      :x2 0,
+      :y2 482,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 478,
+      :x2 0,
+      :y2 498,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 494,
+      :x2 0,
+      :y2 514,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 60.03125,
+      :y1 545.765625,
+      :x2 381.28985595703125,
+      :y2 560.765625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 561.765625,
+      :x2 379.9221496582031,
+      :y2 576.765625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 577.828125,
+      :x2 381.2892150878906,
+      :y2 592.828125,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 593.90625,
+      :x2 381.33465576171875,
+      :y2 608.90625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 609.984375,
+      :x2 380.1950988769531,
+      :y2 624.984375,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 626.0625,
+      :x2 130.08724975585938,
+      :y2 641.0625,
+      :width 800,
+      :height 1066.6662186951937}),
+    :page 2},
+   :content
+   {:text
+    "Not all trade is conducted in trading zones—at least, not according to our definition. We define ‘trading zones’ as locations in which communities with a deep problem of communication manage to communicate. If there is no problem of communication there is simply ‘trade’ not a‘trading zone’. "},
+   :properties {:color "green"}}
+  {:id #uuid "63fb4216-9be5-4a4f-8bf2-dc3ef4521f7f",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 91.890625,
+     :x2 741.6907958984375,
+     :y2 849.90625,
+     :width 800,
+     :height 1066.6662186951937},
+    :rects
+    ({:x1 405.484375,
+      :y1 91.890625,
+      :x2 741.5746459960938,
+      :y2 106.890625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 405.484375,
+      :y1 107.96875,
+      :x2 741.6907958984375,
+      :y2 122.96875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 405.484375,
+      :y1 124.046875,
+      :x2 739.05810546875,
+      :y2 139.046875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 654,
+      :x2 0,
+      :y2 674,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 670,
+      :x2 0,
+      :y2 690,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 686,
+      :x2 0,
+      :y2 706,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 702,
+      :x2 0,
+      :y2 722,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 718,
+      :x2 0,
+      :y2 738,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 324.3793640136719,
+      :y1 802.828125,
+      :x2 381.34326171875,
+      :y2 817.828125,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 818.90625,
+      :x2 381.2173156738281,
+      :y2 833.90625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 43.953125,
+      :y1 834.90625,
+      :x2 381.3285827636719,
+      :y2 849.90625,
+      :width 800,
+      :height 1066.6662186951937}),
+    :page 2},
+   :content
+   {:text
+    "He claims the problem is solved by the development of ‘in-between’ vocabularies through which communication can be accomplished. The simplest of these ‘inter-languages’ is a ‘jargon’, more complex is a ‘pidgin’, while a ‘creole’ is a new language in itself. Galison applies this metaphor to science"},
+   :properties {:color "green"}}
+  {:id #uuid "63fb4271-dfce-4166-923d-b18bf417451e",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 220.421875,
+     :x2 742.8489379882812,
+     :y2 882,
+     :width 800,
+     :height 1066.6662186951937},
+    :rects
+    ({:x1 655.2770385742188,
+      :y1 220.421875,
+      :x2 742.8148803710938,
+      :y2 235.421875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 405.484375,
+      :y1 236.5,
+      :x2 742.8489379882812,
+      :y2 251.5,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 405.484375,
+      :y1 252.578125,
+      :x2 742.7940063476562,
+      :y2 267.578125,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 405.484375,
+      :y1 268.65625,
+      :x2 687.09521484375,
+      :y2 283.65625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 830,
+      :x2 0,
+      :y2 850,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 846,
+      :x2 0,
+      :y2 866,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 862,
+      :x2 0,
+      :y2 882,
+      :width 800,
+      :height 1066.6662186951937}),
+    :page 2},
+   :content
+   {:text
+    "In this case the result is a new expertise in biochemistry which involves a full-blown creole which can be taught as a free-standing language/culture to new generations of students."},
+   :properties {:color "red"}}
+  {:id #uuid "63fb447c-8728-4484-aec1-73966bb81996",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 53,
+     :y1 87,
+     :x2 766,
+     :y2 477,
+     :width 800,
+     :height 1066.6662186951937},
+    :rects (),
+    :page 3},
+   :content {:text "[:span]", :image 1677411432257},
+   :properties {:color "yellow"}}
+  {:id #uuid "63fb44b2-bd1e-48a6-b9c7-bf6ac732b1e2",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 238,
+     :x2 394.52972412109375,
+     :y2 753.663330078125,
+     :width 800,
+     :height 1066.6662186951937},
+    :rects
+    ({:x1 0,
+      :y1 238,
+      :x2 0,
+      :y2 258,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 123.14244842529297,
+      :y1 722.6718139648438,
+      :x2 394.1777572631836,
+      :y2 737.6718139648438,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 57.123992919921875,
+      :y1 738.663330078125,
+      :x2 394.52972412109375,
+      :y2 753.663330078125,
+      :width 800,
+      :height 1066.6662186951937}),
+    :page 3},
+   :content
+   {:text
+    " The access of the non-elite to understanding of the elite culture is tightly controlled by those in power."},
+   :properties {:color "red"}}
+  {:id #uuid "63fb45b3-0554-406d-871e-3be8bc92a859",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 366,
+     :x2 792.341552734375,
+     :y2 941.75,
+     :width 838.4169014084506,
+     :height 1117.8887323943661},
+    :rects
+    ({:x1 0,
+      :y1 366,
+      :x2 0,
+      :y2 386,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 382,
+      :x2 0,
+      :y2 402,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 398,
+      :x2 0,
+      :y2 418,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 414,
+      :x2 0,
+      :y2 434,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 430,
+      :x2 0,
+      :y2 450,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 438.765625,
+      :y1 503.78125,
+      :x2 792.2803344726562,
+      :y2 520.78125,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 438.765625,
+      :y1 520.625,
+      :x2 792.341552734375,
+      :y2 537.625,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 438.765625,
+      :y1 537.484375,
+      :x2 652.793701171875,
+      :y2 554.484375,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 891.125,
+      :x2 413.4132995605469,
+      :y2 908.125,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 907.890625,
+      :x2 413.4093017578125,
+      :y2 924.890625,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 924.75,
+      :x2 413.41558837890625,
+      :y2 941.75,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}),
+    :page 3},
+   :content
+   {:text
+    "the science and technology being imposed from the top down on the assumption that, since science gives access to universal truths, adjustments for local conditions are otiose and there is no reason to meld the expert culture with the non-expert or even for the elite to try to understand the non-expert view of the world"},
+   :properties {:color "red"}}
+  {:id #uuid "63fb4683-f597-45e2-a3fd-ab0a7f4821d9",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 718,
+     :x2 792.3526611328125,
+     :y2 874.4375,
+     :width 838.4169014084506,
+     :height 1117.8887323943661},
+    :rects
+    ({:x1 0,
+      :y1 718,
+      :x2 0,
+      :y2 738,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 734,
+      :x2 0,
+      :y2 754,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 455.609375,
+      :y1 823.734375,
+      :x2 792.2903442382812,
+      :y2 840.734375,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 438.765625,
+      :y1 840.578125,
+      :x2 792.3526611328125,
+      :y2 857.578125,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 438.765625,
+      :y1 857.4375,
+      :x2 522.2610473632812,
+      :y2 874.4375,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}),
+    :page 3},
+   :content
+   {:text
+    "Finally, it should be said that there are circumstances in which an enforced trading zone is beneficial and even morally desirable"},
+   :properties {:color "red"}}
+  {:id #uuid "63fb4826-4bee-4330-9239-822bd194cf99",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 46.0625,
+     :y1 214.5625,
+     :x2 217.38497924804688,
+     :y2 231.5625,
+     :width 838.4169014084506,
+     :height 1117.8887323943661},
+    :rects
+    ({:x1 46.0625,
+      :y1 214.5625,
+      :x2 217.38497924804688,
+      :y2 231.5625,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}),
+    :page 4},
+   :content {:text "2.2. Subversive trading zones"},
+   :properties {:color "red"}}
+  {:id #uuid "63fb4875-da19-48e4-bed5-cfed63442902",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 766,
+     :x2 399.61370849609375,
+     :y2 972.484375,
+     :width 838.4169014084506,
+     :height 1117.8887323943661},
+    :rects
+    ({:x1 0,
+      :y1 766,
+      :x2 0,
+      :y2 786,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 156.96875,
+      :y1 938.640625,
+      :x2 399.61370849609375,
+      :y2 955.640625,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 46.0625,
+      :y1 955.484375,
+      :x2 315.5242004394531,
+      :y2 972.484375,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}),
+    :page 4},
+   :content
+   {:text
+    "Other possibilities are written out of this script and are thus never realized in practice"},
+   :properties {:color "green"}}
+  {:id #uuid "63fb4c0f-198c-4c6c-8a6f-668ed69c95e9",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 254,
+     :x2 413.4296569824219,
+     :y2 432.3125,
+     :width 838.4169014084506,
+     :height 1117.8887323943661},
+    :rects
+    ({:x1 0,
+      :y1 254,
+      :x2 0,
+      :y2 274,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 270,
+      :x2 0,
+      :y2 290,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 286,
+      :x2 0,
+      :y2 306,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 76.734375,
+      :y1 364.765625,
+      :x2 413.4205322265625,
+      :y2 381.765625,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 381.609375,
+      :x2 99.5487060546875,
+      :y2 398.609375,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 109.625,
+      :y1 381.609375,
+      :x2 257.9203186035156,
+      :y2 398.609375,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 267.96875,
+      :y1 381.609375,
+      :x2 349.8548583984375,
+      :y2 398.609375,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 359.875,
+      :y1 381.609375,
+      :x2 413.35150146484375,
+      :y2 398.609375,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 398.453125,
+      :x2 413.4296569824219,
+      :y2 415.453125,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 415.3125,
+      :x2 359.1337890625,
+      :y2 432.3125,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}),
+    :page 5},
+   :content
+   {:text
+    "Interactional expertise is the product of a successful linguistic socialization. Although expressed as language alone, it cannot be too heavily stressed, interactional expertise is tacit knowledge-laden and context specific"},
+   :properties {:color "green"}}
+  {:id #uuid "63fb4c74-30ed-4ba9-b80f-0e01e04c8da7",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 510,
+     :x2 413.4805908203125,
+     :y2 735.40625,
+     :width 838.4169014084506,
+     :height 1117.8887323943661},
+    :rects
+    ({:x1 0,
+      :y1 510,
+      :x2 0,
+      :y2 530,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 526,
+      :x2 0,
+      :y2 546,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 542,
+      :x2 0,
+      :y2 562,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 558,
+      :x2 0,
+      :y2 578,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 0,
+      :y1 574,
+      :x2 0,
+      :y2 594,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 634.171875,
+      :x2 413.4145812988281,
+      :y2 651.171875,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 651.015625,
+      :x2 413.4805908203125,
+      :y2 668.015625,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 667.875,
+      :x2 413.3608703613281,
+      :y2 684.875,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 684.71875,
+      :x2 413.4361877441406,
+      :y2 701.71875,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 701.5625,
+      :x2 413.4433898925781,
+      :y2 718.5625,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}
+     {:x1 59.875,
+      :y1 718.40625,
+      :x2 93.87120056152344,
+      :y2 735.40625,
+      :width 838.4169014084506,
+      :height 1117.8887323943661}),
+    :page 5},
+   :content
+   {:text
+    "We could say that the social scientists were engaged in two simultaneous projects: trying to become interactional experts in the worlds of the various negotiating parties and trying to build an inter-language—in this case a common language of measurement—that both parties would share"},
+   :properties {:color "green"}}
+  {:id #uuid "63fb50e1-9846-4d6f-8bac-4d950fa3ae53",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 461.421875,
+     :x2 756.02392578125,
+     :y2 1346,
+     :width 800,
+     :height 1066.6662186951937},
+    :rects
+    ({:x1 649.140625,
+      :y1 461.421875,
+      :x2 755.93359375,
+      :y2 476.421875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 477.5,
+      :x2 756.02392578125,
+      :y2 492.5,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 493.5625,
+      :x2 755.9954833984375,
+      :y2 508.5625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 509.640625,
+      :x2 755.9550170898438,
+      :y2 524.640625,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 525.71875,
+      :x2 756.0026245117188,
+      :y2 540.71875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 541.796875,
+      :x2 755.9692993164062,
+      :y2 556.796875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 557.875,
+      :x2 755.9522705078125,
+      :y2 572.875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 573.875,
+      :x2 755.984375,
+      :y2 588.875,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 418.65625,
+      :y1 589.953125,
+      :x2 517.626220703125,
+      :y2 604.953125,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 1214,
+      :x2 0,
+      :y2 1234,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 1230,
+      :x2 0,
+      :y2 1250,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 1246,
+      :x2 0,
+      :y2 1266,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 1262,
+      :x2 0,
+      :y2 1282,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 1278,
+      :x2 0,
+      :y2 1298,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 1294,
+      :x2 0,
+      :y2 1314,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 1310,
+      :x2 0,
+      :y2 1330,
+      :width 800,
+      :height 1066.6662186951937}
+     {:x1 0,
+      :y1 1326,
+      :x2 0,
+      :y2 1346,
+      :width 800,
+      :height 1066.6662186951937}),
+    :page 5},
+   :content
+   {:text
+    "Thus, for example, the green chemist and the architect had to understand enough of the manufacturing processes to be sure they followed the protocol, whilst the mill owner had to understand the guiding principles and protocol well enough to be able to embody them in the design. Nevertheless, the parties did not become contributors to each other’s fields nor was any new vocabulary developed—at least, not in the first instance."},
+   :properties {:color "red"}}
+  {:id #uuid "63fb6896-8949-4e7e-8c91-7d56f01c916a",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 51.2109375,
+     :y1 82.2578125,
+     :x2 217.8578338623047,
+     :y2 96.2578125,
+     :width 717,
+     :height 955.9995985055673},
+    :rects
+    ({:x1 51.2109375,
+      :y1 82.2578125,
+      :x2 217.8578338623047,
+      :y2 96.2578125,
+      :width 717,
+      :height 955.9995985055673}),
+    :page 7},
+   :content {:text "4. The evolution of trading zones"},
+   :properties {:color "green"}}
+  {:id #uuid "63fb6a56-9f77-4d3c-85fd-98df1d59b645",
+   :page 8,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 174,
+     :x2 351.77545166015625,
+     :y2 795.296875,
+     :width 738.0000000000001,
+     :height 983.9995867463163},
+    :rects
+    ({:x1 0,
+      :y1 174,
+      :x2 0,
+      :y2 193.5,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 0,
+      :y1 190,
+      :x2 0,
+      :y2 209.5,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 0,
+      :y1 206,
+      :x2 0,
+      :y2 225.5,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 40.5546875,
+      :y1 736.375,
+      :x2 351.7456970214844,
+      :y2 750.875,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 40.5546875,
+      :y1 751.203125,
+      :x2 351.77545166015625,
+      :y2 765.703125,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 40.5546875,
+      :y1 766.0390625,
+      :x2 351.7654724121094,
+      :y2 780.5390625,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 40.5546875,
+      :y1 780.796875,
+      :x2 92.98888397216797,
+      :y2 795.296875,
+      :width 738.0000000000001,
+      :height 983.9995867463163}),
+    :page 8},
+   :content
+   {:text
+    "This possibility is realised when departments are set up, textbooks are produced and what was once a radical and innovative experiment becomes a normal science research program. "},
+   :properties {:color "red"}}
+  {:id #uuid "63fb6a9f-6087-4704-92f4-0de9fc77f77a",
+   :page 8,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 238,
+     :x2 351.8139343261719,
+     :y2 854.6171875,
+     :width 738.0000000000001,
+     :height 983.9995867463163},
+    :rects
+    ({:x1 0,
+      :y1 238,
+      :x2 0,
+      :y2 257.5,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 0,
+      :y1 254,
+      :x2 0,
+      :y2 273.5,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 0,
+      :y1 270,
+      :x2 0,
+      :y2 289.5,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 112.80343627929688,
+      :y1 795.625,
+      :x2 351.7834167480469,
+      :y2 810.125,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 40.5546875,
+      :y1 810.453125,
+      :x2 351.7008056640625,
+      :y2 824.953125,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 40.5546875,
+      :y1 825.2890625,
+      :x2 351.8139343261719,
+      :y2 839.7890625,
+      :width 738.0000000000001,
+      :height 983.9995867463163}
+     {:x1 40.5546875,
+      :y1 840.1171875,
+      :x2 162.71331787109375,
+      :y2 854.6171875,
+      :width 738.0000000000001,
+      :height 983.9995867463163}),
+    :page 8},
+   :content
+   {:text
+    "New recruits to the discipline will now find the cultural hegemony so strong that they have no choice but to abandon any ideas they bring with them and accept the dominant culture."},
+   :properties {:color "red"}}
+  {:id #uuid "63fb6b5e-e5d5-41c7-9c75-a9bf164fa4bd",
+   :page 9,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 478,
+     :x2 385.1021423339844,
+     :y2 685.078125,
+     :width 781,
+     :height 1041.332896001183},
+    :rects
+    ({:x1 0,
+      :y1 478,
+      :x2 0,
+      :y2 497.5,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 0,
+      :y1 494,
+      :x2 0,
+      :y2 513.5,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 0,
+      :y1 510,
+      :x2 0,
+      :y2 529.5,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 0,
+      :y1 526,
+      :x2 0,
+      :y2 545.5,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 55.78125,
+      :y1 606.8046875,
+      :x2 385.0660705566406,
+      :y2 622.3046875,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 55.78125,
+      :y1 622.5,
+      :x2 384.01593017578125,
+      :y2 638,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 55.78125,
+      :y1 638.1875,
+      :x2 385.1021423339844,
+      :y2 653.6875,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 55.78125,
+      :y1 653.8828125,
+      :x2 385.08477783203125,
+      :y2 669.3828125,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 55.78125,
+      :y1 669.578125,
+      :x2 128.54763793945312,
+      :y2 685.078125,
+      :width 781,
+      :height 1041.332896001183}),
+    :page 9},
+   :content
+   {:text
+    "Moreover, to the extent that genuinely novel ideas come from ‘left field’ or from those with a relatively low degree of inclusion, then the top-right hand quadrant seems to be the best location for developing new interdisciplinary partnerships."},
+   :properties {:color "green"}}
+  {:id #uuid "63fb6bc6-92b9-4a32-87da-59763b24690a",
+   :page 9,
+   :position
+   {:bounding
+    {:x1 -0.004586696624755859,
+     :y1 750,
+     :x2 396.94243478775024,
+     :y2 953.1660766601562,
+     :width 781,
+     :height 1041.332896001183},
+    :rects
+    ({:x1 0,
+      :y1 750,
+      :x2 0,
+      :y2 769.5,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 0,
+      :y1 766,
+      :x2 0,
+      :y2 785.5,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 0,
+      :y1 782,
+      :x2 0,
+      :y2 801.5,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 365.3873596191406,
+      :y1 873.4461669921875,
+      :x2 384.5843811035156,
+      :y2 888.9461669921875,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 -0.004584014415740967,
+      :y1 889.3367919921875,
+      :x2 396.8915646672249,
+      :y2 905.0946044921875,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 -0.004586696624755859,
+      :y1 905.1065673828125,
+      :x2 396.94243478775024,
+      :y2 920.6065673828125,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 -0.00458545982837677,
+      :y1 919.5254516601562,
+      :x2 160.49783325195312,
+      :y2 953.1660766601562,
+      :width 781,
+      :height 1041.332896001183}
+     {:x1 160.484375,
+      :y1 920.5332641601562,
+      :x2 160.48756408691406,
+      :y2 936.0332641601562,
+      :width 781,
+      :height 1041.332896001183}),
+    :page 9},
+   :content
+   {:text
+    "Yet longer time frames must be used if the aspiration is the emergence of pidgins and creoles needed for new inter-languages to develop. "},
+   :properties {:color "red"}}], 
+ :extra {:page 3}}
