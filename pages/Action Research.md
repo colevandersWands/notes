@@ -1,0 +1,9 @@
+- see also: [[Action-Design Research]] , [[Participatory Action Research]]
+- pros
+	- strongly contextualized
+	- well-fitting solutions
+- cons
+	- not generalized
+- references
+	- https://espace.curtin.edu.au/bitstream/handle/20.500.11937/49022/248627.pdf?sequence=3 #unread
+	-

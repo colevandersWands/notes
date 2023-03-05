@@ -35,7 +35,7 @@ tags:: bibliography
 		- *Critical / Transformational*: ((640207e0-ee2f-472c-87ee-d7920aee8120))
 		- *Pragmatism*: ((64020871-cf4a-4db9-bfd6-af2a60dd7259))
 			- ((640208a7-6da3-49db-b395-15f6d9a49bdf))
-				- #phase4a #phase4b
+				- #phase/4/a #phase/4/b
 		- *Multi- Inter- Trans- disicplinary*: also references [choi pak 2006]([[Multidisciplinarity, Interdisciplinarity, and Transdisciplinarity in Health Research, Services, Education and Policy: 1. Definitions, Objectives and Evidence of Effectiveness]]), then paraphrases:
 			- **Multidisciplinary** research draws on several disciplines in parallel but they remain separate from each other
 			- **Interdisciplinary** research synthesizes approaches from different disciplines into a new and coherent whole

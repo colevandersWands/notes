@@ -4,10 +4,10 @@
 	- Translational Sprints apply qualitative, quantitative and design methodologies across 6 different stages:
 		- 0. Relationship & Trust: get acquainted and establish expectations for culture, power and trust.
 		  1. Challenge Scope: identify a challenge that can be addressed within your constraints.
-		  2. Design Alternatives: design possible interventions based on experience and theory. #phase2a
-		  3. Experimental Validation: test interventions in a controlled setting. #phase2b
-		  4. Integration Design: integrate validated interventions into the curriculum. #phase4a #phase4b
-		  5. Intervention Packaging: document and publish interventions for educators facing similar constraints, and share your research methods for replication. #phase5a
+		  2. Design Alternatives: design possible interventions based on experience and theory. #phase/2/a
+		  3. Experimental Validation: test interventions in a controlled setting. #phase/2/b
+		  4. Integration Design: integrate validated interventions into the curriculum. #phase/4/a #phase/4/b
+		  5. Intervention Packaging: document and publish interventions for educators facing similar constraints, and share your research methods for replication. #phase/5/a
 	- Progress through the stages is cyclical; it is necessary to return to previous stages when you reach a dead end. Based on experience, working with limited resources, predecessors to this model have proven effective which encourages us to share our model as a blueprint. We are looking for research collaborators and for educators interested in testing Translational Sprints in their class. As a first step we intend to target affordable, short-term professional trainings as they can improve a learner’s career prospects, their shorter time frame enables rapid iteration, and they are generally free to innovate.
 	- Each sprint can be written up as an academic publication regardless of whether or not a successful intervention was found. Share your failures!
 - ## Translational Sprint Diagram

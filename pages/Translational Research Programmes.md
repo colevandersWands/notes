@@ -5,6 +5,7 @@
 	- ![sigcse_presentation_tcer - beat.040.jpg](../assets/sigcse_presentation_tcer_-_beat.040_1677323073448_0.jpg)
 - You can imagine a TRP as this orange line, it will tap into all bodies of CER knowledge to impact a single computing education context
 	- ![sigcse_presentation_tcer - beat.041.jpg](../assets/sigcse_presentation_tcer_-_beat.041_1677323088968_0.jpg)
+		- in contrast to [[Theoretical Research Programmes]]
 - Take as an example developing a data science course to help displaced people take control of their lives.
 	- For such a project to succeed you cannot only focus on the learning objectives, instructional design and lesson plans.  You will also need to collaborate with local & regional employers, integration services, aid organizations, and the learners themselves.
 	- It’s not possible to isolate such a challenge and develop solutions in a controlled setting.   There are practical, social and psychological factors that simply can’t be ignored without redefining your target context.

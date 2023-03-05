@@ -20,15 +20,19 @@
 		- **Indirect Stakeholders**: anyone who stands to benefit indirectly from "trickle-down" effects of the research
 	- In "traditional" research you might classify Researchers as [Intrinsic Stakeholders](((63f9dca1-560c-458a-b8ad-66c50bc61452))), and consider Learners and Educators to be [Direct Stakeholders](((63f9dca5-4a3f-4028-862e-18eb69525f8c))) – standing to benefit directly from the research program. This, however, implies that the learners and educators involved in your research are merely objects of study – a representative sample.  Considering [TCER's]([[Computing Education Research as a Translational Transdiscipline]]) emphasis on Outreach and Engagement, this is a problematic way to approach TRPs"
 		- ![traditional research stakeholders](../assets/sigcse_presentation_tcer_-_beat.044_1677259672770_0.jpg)
-	- In contrast stands Participatory Research. A very simplistic way I understand Participatory Research is to reconsider the representative sample of Learners and Educators' role in the research process, “upgrading” them from objects of study to [intrinsic](((63f9dca1-560c-458a-b8ad-66c50bc61452))) research collaborators who help to select research questions and steer the TRP.
+	- In contrast stands Participatory Research. A very simplistic way I understand Participatory Research is to reconsider the representative sample of Learners and Educators' role in the research process, “upgrading” them from objects of study to [intrinsic](((63f9dca1-560c-458a-b8ad-66c50bc61452))) research collaborators who help to select research questions and steer the research.
 		- ![participatory research stakeholders](../assets/sigcse_presentation_tcer_-_beat.045_1677259748234_0.jpg)
+		- ((6404d875-6b2e-4d3d-92e8-a1b499c95f3b))
 -
 	-
 	-
 - participatory research methodologies
+	- [[Action Research]]
+	- [[Action-Design Research]]
 	- [[Participatory Action Research]]
 	- [[Agile CER]]
 	- [[Translational Sprints]]
+	- [[Community-Based Participatory Research]]
 - related
 	- [[Research-Practice Partnership]]
 	- [[Trading Zones]]
