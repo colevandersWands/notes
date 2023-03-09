@@ -1,3 +1,5 @@
+tags:: narrative
+
 - [Blocks to Text](https://github.com/blocks-to-text/) is something I made a few years ago about the transition(s) learners make as they move from programming with blocks to programming with text.  It is many things:
 	- [a conference presentation](https://blocks-to-text.github.io/sett-namur-19/#/)
 	- a proof-of-concept block-based editor ([Side by Side](https://blocks-to-text.github.io/side-by-side/)) that supports writing Python with blocks and studying the generated text-based code side by side.  It also features a very early web-based prototype of the [[Study Lenses]] concept, and basic not-taking.

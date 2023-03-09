@@ -11,3 +11,4 @@
 -
 - [GitHub: @colevandersWands](https://github.com/colevandersWands)
 - [Graph Source](https://github.com/colevandersWands/notes)
+- evan dot cole at vub dot be

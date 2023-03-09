@@ -1,4 +1,11 @@
+- i wonder about [[Radical Novelty]]
+	- does radical novelty only exist in relation to previous experience domains of knowledge? #question
+		- what is common experience to one group could be radical novelty for another
+	- are there levels of Radical Novelty that could be measured (relative to an individual or domain) by some sort of [proximity]([[Proximity and Innovation: a Critical Assessment]])? #question
+	- is it uncritical to unequivocally call something a radical novelty, even when it has been internalized by another group/domain for a long time? #question
+	- taking all those ^ questions together, is it better to talk about _relative_ and _graded_ radical novelties, instead of absolute ones? #question
 - [dijkstra '89]([[On the Cruelty of Really Teaching Computing Science]]) -> [partridge '95]([[On the Difficulty of Really Considering a Radical Novelty]]) (an #unask)
 - [rotolo et al. 2015]([[What is an Emerging Technology?]])
 - [There is no "First" in CS1](https://computinged.wordpress.com/2010/11/27/there-is-no-first-in-cs1/) - Mark Guzdial
+  id:: 63f60cad-216a-41dd-9343-53e4640ebb3a
 -

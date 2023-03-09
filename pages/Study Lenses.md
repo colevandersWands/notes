@@ -1,6 +1,9 @@
+tags:: narrative
+
 - Study Lenses is a concept, not a specific tool.  You could integrate study lenses into an existing learning environment, develop them as IDE plugins for learners or professionals, or create mobile-friendly lenses for studying on the go.
 	- developing Study Lenses in concept and implementation was a long winding design process.  New feedback or ideas would lead to changes/new feature -> changes led to new possibilities -> which led to new feedback -> ...
 - currently, the most complete implementation of Study Lenses is [this one](https://github.com/colevandersWands/study-lenses).  It's designed for learning web development and is built around an express server; Open any folder of code in the terminal, enter `$ study`, and the folder's content will open in your browser ready to study.
+	- [online study lenses demo](https://study-lenses-demo.onrender.com/?--defaults)
 	- A Study Lenses video guide covering basic use and features: ![guide.mp4](../assets/guide_1677497948858_0.mp4)
 	- See the "Hierarchy" below "Linked References" to explore more Study Lenses features
 - Some principles behind Study Lenses:

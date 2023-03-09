@@ -1,0 +1,3 @@
+- https://github.com/MIT-ReACT/digital-projects-workshops-2022
+- [[Rhetorics of Programming/Data Science]]
+-
