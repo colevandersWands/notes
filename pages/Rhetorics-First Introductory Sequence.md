@@ -1,23 +1,36 @@
 tags:: narrative
 audience:: tbd
+id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 
-- we need to #unask what programming to teach first, and instead ask "how do we teach _how_ and _why_ programming happens?".
-	- how do groups of people  develop, deploy and use software to create meaning and shape society?
+- we need to #unask what programming languages or paradigms to teach first, and instead ask "how do we teach _how_ and _why_ programming happens?".
+	- how do groups of people fund, develop, deploy and use software to create meaning and shape society?
+	- teaching the details of programming can follow naturally after setting this context.
 - computing education's ["first"](((63f60cad-216a-41dd-9343-53e4640ebb3a))) could be the [[Rhetorics of Programming]], with different [[Rhetorical Situation]]s defined for different learning paths
-	- {{embed ((6401c5cc-2dd2-48e4-99cc-3741ef1a0e96))}}
-	- _**note**: this is not the same as [[Rhetorical Code Studies]]! I am suggesting to use Rhetorics as a framing mechanism for introductions to programming. I am not suggesting to replace introductory programming with deep-dive rhetorical analysis._
+	- _**note**: this is not the same as [[Rhetorical Code Studies]]! I am suggesting to use Rhetorics as a framing mechanism for introductions to programming. I am not suggesting to replace introductory programming with deep-dive rhetorical analysis of software development._
 - these Rhetorical Situations could be layered into a [[Spiderweb Curriculum]].  i can imagine learning paths being described as a [[Knowledge Graph]] of rhetorical situations, where learners get to specialize not by deciding _what_ languages or technologies to learn but by deciding _where_ and _how_ they'd like to apply what they learn.
 	- this approach could make it easier to approach the "CS0"/"programming for non-majors"/"programming in X discipline" question by providing one introductory class that sets the stage for a wide variety of paths: CS, software development, [[Conversational Programmers]], ...
 	- [[Integrating Ethics into Introductory Programming Classes]] becomes natural, a Rhetorical Situation prioritizes bigger questions over technical details
-	- rhetorics-first lends itself to [[PRIMM]], or better ... PRISMM? Predict -> Run -> Investigate -> Situate -> Modify -> Make.
-		- PRIMM : PRISMM :: STEM : STEAM #question
-	- i wonder about [[Rhetorics-First Introductory Sequence]]
-		- are large language models a boon to rhetorics-first?  R-F is [[PRIMM]]-heavy, so educators won't need to manually create all examples. and the issues surrounding LLM code generators (security, IP, efficiency, ...) all make great talking points.   #question
-- Rhetorics-first could be effective for [[Agile Continuous Education]].
-	- different careers and positions will have different rhetorical situations
-	- ACE expects that you will not learn everything in class but will do lots of on-the-job training.
-	- by defining ACE courses with a rhetorical situation you can spend (relatively) little time in the classroom preparing learners to integrate quickly on the job, where they could do most of their technical learning #hypothesis
-- i imagine the first modules taken by everyone could be:
+- i wonder about [[Rhetorics-First Introductory Sequence]]
+	- is [[PRISMM]] just another pretty acronym, or could it be a useful starting point for Rhetorical curriculum design? #question
+	- are [[Large Language Models]] a boon to rhetorics-first teaching?  Rhetorics-First is [[PRISMM]]-heavy, so educators won't need to manually create all examples. and the issues surrounding LLM and other code generators (security, IP, efficiency, ...) all make great talking points.   #question
+	  id:: 640a4775-f253-4bb0-926e-d0e8a903e252
+	- is Rhetorics-First a "future-proof" strategy in computing education? #question
+		- Even if programming as we know it is replaced with operating code generators, the [[Rhetorics of Programming]] would only be more approachable and immediate for learners as software development became more accessible.
+		- ((640b1be7-2cfc-402c-a9fd-92b8f0fb1c0b))
+	- Could Rhetorics-first be effective for [[Agile Continuous Education]]? #question
+		- different careers and positions will have different rhetorical situations
+		- ACE expects that you will not learn everything in class but will do lots of on-the-job training.
+		- by defining ACE courses with a rhetorical situation you can spend (relatively) little time in the classroom preparing learners to integrate quickly on the job, where they could do most of their technical learning
+		  id:: 640a4abb-d665-4571-a09f-0f7e5a71fa1a
+	- what could be adapted from literary education to help learners understand programs in a R-F curriculum? ie. text analysis strategies, critical lenses, ... #question
+		- [[Study Lenses/Ask Me]]
+	- would focusing on the [[Rhetorics of Programming]] productively "fill" time in the curriculum so that technical learning objectives can be spaced out to a [learnable density]([[Learning to Program is Easy]])? #question
+	- ((640b8433-cca8-4ce8-8904-b720aebaa0b6))
+- below is one possible introductory sequence designed around snowballing rhetorical situations instead of technical objectives
+	- **note**: I have been teaching this way for the last few years. Not always overtly but it has informed how i set expectations for learners, sequence learning objectives, and design projects.
+		- The course i ran began with collaboration skills around markdown files, then project management with simple HTML/CSS projects, then Design Thinking and User Empathy (still with only HTML/CSS).  Only after 2 months of this did we move on to JS.
+		- feedback and results have been good.  the strongest encouragement i get is from the many learners who say they found their place in software development as designers or project coordination, even if the JS programming never clicked for them. i don't believe this would be possible with a more conventional programming-first approach
+		- [[Full Complexity, Max Simplicity]], [[Whole Game]], [[Process Over Product]]
 	- **Big Picture 1**: *multiple humans collaborating on one body of text*.
 		- Objectives: IDE, git/hub, task management, collaboration, "code" review, ethics, ...
 		- this course has been prototyped using only Markdown which is simple enough to not distract - [[Module/Workflows]]
@@ -49,5 +62,3 @@ audience:: tbd
 				- ((f62ef9ac-c1b9-4927-b7c7-46802718eea5))
 		-
 			-
--
-	-

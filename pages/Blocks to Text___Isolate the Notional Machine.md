@@ -1,0 +1,49 @@
+- Guiding student's attention to the computer itself doesn't require a deep dive into compiler design or hardware. It's enough to teach a series of visualizations, diagrams, and vocabulary that are accurate but manageable for students.
+- This combination of skills makes up a student's [[Notional Machine]] : their understanding of how the computer interprets and executes a program. Explicitly teaching a notional machine for your programming language will give students a common vocabulary for talking about what they are learning, and will help them avoid understanding their programs by analogy.
+- This skill goes beyond just writing working code, it will also help your students to develop their algorithmic skills by making it easier for them to distinguish between flaws in logic and flaws in implementation. Often what looks like difficulty with problem solving is actually a poor understanding of the programming language.
+- ## Text-Based Hubris
+	- Not all text-based programming is a step towards learning the NM. Learning environments like Trinket that have students program a turtle in Python are a real step towards authentic programming (students practice computational thinking, working with text & dealing with errors), but do not fully prepare students to program data instead of animations. While students may be typing instead of clicking and dragging, they are still developing for a turtle visualization.
+	- There's even a risk that these turtle-based exercises slow a student's progress towards data-centered programming by encouraging them to think of the computer as something that can think, understand and act instead of an unthinking and very rule-based (understandable!) machine. I've found that after some good Notional Machine exercises in Python Tutor or on paper students do much better with turtles, but that it doesn't work so well the other way around.
+	- Switching from blocks to text can give the impression of advancing towards fully "authentic" programming while actually obscuring the very change that is most important: shifting student attention from animations to data stored in memory.
+- ## The Notional Machine
+	- what does it mean to teach how the programming language works? It means to teach what is called a "notional machine" - a series of visualizations, diagrams, refactoring techniques, and vocabulary that are accurate but manageable for students; correct enough that students can use them to predict program state and can correctly translate between the diagrams & code, but not so precise that they get lost in how hardware and operating systems work.
+	- A very important feature of the notional machine is that it does not attempt to describe the programming language as _like_ something else.  One easy danger when teaching is to use analogies to make programming feel more familiar to students.  This is especially dangerous because programming languages & computers are not like other things people encounter in their daily lives.  Any intuitions built off of previous experience will be misleading and can make learning more difficult for students in the long run.
+	- This is why having effective visualization tools and diagramming methods, and using correct vocabulary from day 1 is super important.  To build up a correct understanding from nothing is only realistic for most student when you all have the same visuals to point at and discuss.
+	- These diagrams and visualizations should expand and develop with the students as they learn more and more of their programming language.   Students will learn some way to explain how their code is executed, it's better to explicitly teach a correct one all along than having to reteach foundations when easy analogies no longer hold.
+- ## Common Confusions
+	- Addressing common student misconceptions early and explicitly will make a big difference.  It may not be the most exciting thing to learn or teach, but even a first exposure before letting your students free on projects will give them a solid orientation.
+	- Introducing these sticking points is also a perfect opportunity to introduce your students to Python Tutor and to make clear the value of building a shared visual vocabulary.  Below are some (not at all!) common misconceptions, example resources that cover the concepts in terms a notional machine, and ideas for exercises.  These exercises are geared for adults, but notice how they don't ask students to solve computational puzzles, instead they simply ask students to control program execution over time:
+		- _Variables_
+			- [Swapping Exercises](https://github.com/DeNepo/inside-js/tree/main/0-asserting/2-isolate/3-value-swaps)
+			- The examples above are meant to study on a computer, but can also be studied by hand with a paper chart
+		- _Reference vs Value_
+			- [Reference Type Exercises](https://github.com/DeNepo/inside-js/tree/main/7-arrays/1-isolate/5-reference-vs-value)
+			- These exercises can also be studied with paper, string and some guidance
+		- _Functions_
+			- [Arguments, Parameters & Return Values](https://github.com/DeNepo/inside-js/tree/main/3-functions/1-functions)
+		- _Expressions_
+			- [Operator Precedence](https://github.com/DeNepo/inside-js/tree/main/1-primitives-and-operators/4-operator-precedence)
+			- [[Study Lenses/Trace Tables]] + [[Study Lenses/Trace Button]]
+			- This is also exercise that can be done on a white board or paper
+		- _Concurrency vs. Sequentiality_
+			- Blocks-based animation editors often allow concurrent execution of different pieces of the program.
+			- Nearly all beginner programming languages do not
+			- Environments that have both blocks & memory visualization might be helpful -> [Side-by-Side](https://blocks-to-text.github.io/side-by-side/)
+- ## Curated Examples
+	- Leaving students to freely explore is important, but guidance is also crucial for focused learning and avoiding misconceptions.  a good way to balance these two forces is providing a collection of completed examples for students to freely study in Python Tutor.
+	- Two examples in JavaScript: [Truthiness](https://github.com/janke-learning/truthiness), [Implicit Coercion](https://github.com/colevandersWands/implicit-coercion)
+- ## Python Tutor Puzzles
+	- A very effective way to overcome the initial barrier from programming for a visualization to programming for the notional machine is to have fun and engaging puzzles that emphasize understanding and controlling the program's state throughout it's execution instead of challenges that focus on the end result (like algorithms) or on producing a pretty animation (like Scratch or turtles).
+	- A couple examples in JavaScript: [Variable Sentences](https://github.com/janke-learning/variables-and-hoisting/blob/master/README.md/#sentences), [Callstack Sentences](https://github.com/colevandersWands/function-exercises/blob/master/3-callstack.md)
+	- (ok.  Maybe "fun and engaging" is a small exaggeration, but it doesn't take too many of these before students the the idea of state over time.)
+- ## Blocks to Python Tutor
+	- If typing code is still a challenge for your students and you're asking them to generate their own snippets to step through from scratch, consider using [Side-by-Side]([[Side-by-Side]].  This tool allows direct conversion from blocks to live Python Tutor step-throughs.
+- ## Summing Up
+	- Important to keep in mind  when guiding students from comfortable learning environments to more authentic programming environments is that asking them to write more code doesn't mean they will learn more. One of the most helpful things you can do for your students (and yourself) is to provide many complete examples of code to study, the tools to study your examples & exercises made from these examples with a single line missing, out of place, or with a single error introduced.
+	- Not only are exercises like this more easy for you to produce, but your student can more productively discuss them and they'll help to keep the errors and surprises to a minimum.
+	- When done right these code-completion notional machine exercises can be quite fun little puzzles.  But even the most interesting NM exercises are still too dry to build a whole course around so it's important to zero in on the most common & stubborn difficulties students encounter when learning to program.  Cover only these threshold concepts with paper games or embedded Python Tutor exercises and assign them in parallel to exciting and practical projects.
+- ## Moving On
+	- Keep in mind as you move forward to always ask students for explanations with diagrams instead of words, and to ask their questions with code snippets in Python Tutor instead of just pointing at code or asking questions.
+	- And when students are struggling with a problem, don't assume they're imagining the same execution behavior as you are.  Often what looks like difficulties with logic is really a misunderstanding of program execution.
+- ## Resources
+	- [what is a notional machine?](https://computinged.wordpress.com/2012/05/24/defining-what-does-it-mean-to-understand-computing/)

@@ -1,6 +1,7 @@
 tags:: narrative
 
-- Study Lenses is a concept, not a specific tool.  You could integrate study lenses into an existing learning environment, develop them as IDE plugins for learners or professionals, or create mobile-friendly lenses for studying on the go.
+- (... more story ...)
+- Study Lenses is a concept, not a specific tool.  You could integrate study lenses into an existing [[Learning Environment]], develop them as IDE plugins for learners or professionals, or create mobile-friendly lenses for studying on the go.
 	- developing Study Lenses in concept and implementation was a long winding design process.  New feedback or ideas would lead to changes/new feature -> changes led to new possibilities -> which led to new feedback -> ...
 - currently, the most complete implementation of Study Lenses is [this one](https://github.com/colevandersWands/study-lenses).  It's designed for learning web development and is built around an express server; Open any folder of code in the terminal, enter `$ study`, and the folder's content will open in your browser ready to study.
 	- [online study lenses demo](https://study-lenses-demo.onrender.com/?--defaults)
@@ -27,5 +28,6 @@ tags:: narrative
 - i wonder about [[Study Lenses]]
 	- Does a curriculum made of code, some small comments in english, and [[Study Lenses]] make programming more accessible to ESL learners?  they can then think, write, discuss, and find relevant tutorials in their own language while still focusing on the course's objectives.  anecdotally this is true.  #question
 		- Reading or listening to lots of english is not easy for everyone. Depending on your goals, you may need to eventually use english with programming. But that doesn't mean it's helpful to combine both objectives (english & programming) at the beginning.
-		- How does this relate to [[PRIMM]]?
+		- How does this relate to [[PRIMM]] or [[PRISMM]] ?
+	- can [[Large Language Models]] and other code generators be combined with [[Study Lenses]] to generate tailored curricula? #question [[Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula]]
 - a rough [[TPACK]] analysis of [[Study Lenses]] implemented as a client/server for web dev: ![study-lenses-tpack.svg](../assets/study-lenses-tpack_1677768353671_0.svg)

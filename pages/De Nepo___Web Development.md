@@ -1,3 +1,4 @@
+- (very work in progress, so far just lots of copy-pasted )
 - old stuff to rework
 	- **## Layers of Skills**
 		- Software Development is a many layered skill. One way to break it down is to think of these layers, from the inside out. Like a [Spider Web]([[Spiderweb Curriculum]]):

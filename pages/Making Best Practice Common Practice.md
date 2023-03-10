@@ -1,18 +1,18 @@
 tags:: narrative
 
-- > work in progress -- This is adapted from [a thesis proposal](https://github.com/colevandersWands/thesis-proposal) written in early 2020, bad timing.  The dissertation never happened but this still tells a good story and well-describes what I've worked towards ever since.
+- >  Below is [a thesis proposal](https://github.com/colevandersWands/thesis-proposal) written in early 2020, bad timing.  The dissertation never happened but this still tells a good story and well-describes what I've worked towards ever since.
+	- #todo - revise for this format, add intralinks
 - (toc?)
 - Many great resources, curricula, tools & learning environments have been developed for novice programmers.  However there are practical limitations to using these interventions in real life. I'll focus on the context of adults (~18 years+) attempting to learn software development in a short period of time (< 1 year) outside of academic institutions.  This accounts for a largest population of learners out there, yet is under-represented in the computing education literature which has focused on university students and younger (as far as I can tell).
-- Course offerings (self-guided, study groups, or in-person courses) for this audience abound: mentorship programs, re-skilling within companies, government-sponsored trainings, private bootcamps, online tutorials, MOOCS, and informal study groups for a start.  These trainings share several traits that leave many of the best practices from Computing Education Research (CER) out of reach:
+- Course offerings (self-guided, study groups, or in-person courses) for this audience abound: mentorship programs, re-skilling within companies, government-sponsored trainings, private bootcamps, online tutorials, MOOCS, and informal study groups for a start.  These trainings share several traits that leave many of the best practices from Computing Education Research ([[CER]]) out of reach:
   collapsed:: true
 	- There is little to no flexibility in which languages/environments are taught: tailor-made novice languages and environments are off the table. [*_Guzdial, M. (2004); Kelleher, C., & Pausch, R. (2005);  Sorva, J. (2012)_*]
 	- Courses are of limited duration: there is usually no time to ease into code with an ideal precourse or prolonged introductory periods [*_Davies, S. (2008, October); Faux, R. (2006); Zhu, H., & Zhou, M. (2003)_*]
 	- Instructors are usually developers and often mix teaching with other work: content knowledge is stronger than pedagogical knowledge, and they don't have the time to study [[Computing Education]]
 	- Courses are often run short on time and resources: it's not reasonable to expect instructors or administration to continually invest in curriculum improvement and instructor trainings
 	- Available content is often pre-recorded, not adaptable or pieced together from disjointed sources: providing an consistent, adapted, & gradual student experience is out of reach
-- Working within an organization's constraints, the aim is to explore how findings from CER can be adapted/adapted to each context; enabling learners to self-direct, non-specialized educators to guide a computing course, and experienced programmers to effectively transfer their knowledge. At first it will be necessary to understand common constraints, and what is preventing these organizations/students from already using findings from CER. After this, a viable measure of adopt/adapt-ability will need to be developed that can be used alongside student evaluation to act as validation for new interventions and artifacts.
-- Worth exploring are ways to adapt ides for novices with incremental changes in configuration, designing worked examples to navigate a student through their programming environment, enforcing language levels using linter configurations configurations, and extensions for IDE's that help students to build notional machines or study source code using more than runtime results. There may be good reasons that best practice isn't common practice, but there is no good reason it needs to stay that way.
-- ---
+- Working within an organization's constraints, the aim is to explore how findings from CER can be adapted/adapted to each context; enabling learners to self-direct, non-specialized educators to guide a computing course, and experienced programmers to effectively transfer their knowledge. At first it will be necessary to understand common constraints, and what is preventing these organizations/students from already using findings from [[CER]]. After this, a viable measure of adopt/adapt-ability will need to be developed that can be used alongside student evaluation to act as validation for new interventions and artifacts.
+- Worth exploring are ways to adapt IDEs for novices with incremental changes in configuration, designing worked examples to navigate a student through their programming environment, enforcing language levels using linter configurations configurations, and extensions for IDE's that help students to build notional machines or study source code using more than runtime results. There may be good reasons that best practice isn't common practice, but there is no good reason it needs to stay that way.
 - ## Background
 	- Much is already known about effective pedagogy for novice programmers, and many great artifacts have been developed to implement known best practices.
 		- *_Curricula_*: bootstrap, runestone academy, how to design programs, ...
@@ -37,7 +37,7 @@ tags:: narrative
 	- The aim of this thesis is to explore whether the same understanding of effective pedagogy can be used to develop a suite of methodologies and supporting tools that enable learners to self-direct, non-specialized educators to teach computing, and experienced programmers to effectively transfer their knowledge.
 - ### Adapt the Existing
 	- It is also interesting to explore if there are viable strategies for adapting existing languages and environments into effective novice learning environments rather than attempting to design "ideal" learning artifacts that must be treated separately from the target languages & environments. Besides practical considerations, this could be interesting for reducing loss of skill transfer as students transition from learning to professional programming environments.
-- ### Fluid Roles
+- ### [Fluid Roles]([[Wear Hats, not Titles]])
 	- A feature that sets these contexts apart from the more commonly studied settings (academic institutions, or younger learners) is the more fluid roles taken on by all participants during the learning process. Often in the course of a single day, a single individual will need to take on most or even all of these roles.  To understand this dynamic, it is interesting to think of the roles that need to be supported rather than the individuals that will be taking on these roles:
 	  collapsed:: true
 		- *_the learner_*: this role is taken on when someone's objective is to attain the objectives of the training
@@ -55,7 +55,6 @@ tags:: narrative
 - ### Quantify Adopt/Adapt-ability
 	- To validate any such intervention it is necessary to quantify not only student learning outcomes, but also how easily the intervention can be adopted & adapted by existing educational programs. (Keeping in mind that many roadblocks exist not at the teacher/student/classroom level, but at the institutional/administration/policy level.)
 	- To this end it will be necessary to understand in more detail what is preventing educators from using existing artifacts (is it exposure? educational philosophy? time and resources? incompatibility between required & ideal curricula?).  After understanding the blocks, it will be necessary to find an objective measure of adopt/adapt-ability that can be used to determine which types of interventions are most practical for educators/learners to introduce into their classroom incrementally rather than as a whole-sale transformation.
-- ---
 - ## Objectives
 - ### Specify and understand the target context in general
   collapsed:: true
@@ -71,20 +70,15 @@ tags:: narrative
 	- *_What are key threshold concepts encountered by their students?_* Existing research has identified many learning objectives that predictably cause trouble for students and are tricky to teach.  However, some of these will be more or less relevant depending on the backgrounds of incoming students, the languages/paradigms/environments taught, and the ultimate objectives of the course.
 	- *_What can and cannot be controlled?_*  By design, this thesis is addressing educational settings with different constraints than are often addressed by computing education. The goal is to find low-barrier optimizations that do not fundamentally change the objectives of a training. ie. A first line of attack to improve student outcomes might be to switch to a more amenable language or programming environment, however this is not an option for short-duration trainings looking to quickly re-skill adult learners.  Other existing interventions are off the table because they are forseen as the first introduction to a full diploma in computer science, rather than being integrated into a crash-course in applied software development.
 - ### Determine metrics of success in partnership with partner organizations
-  collapsed:: true
 	- *_How can mastery of identified learning objectives be assessed and quantified?_*  The open question in relation to this thesis is not how can a perfect assessment of programming skills be acquired in a controlled environment, but how can adequate and authentic assessment be achieved in an authentic setting.  This step will require a lot of field work and iteration, validating what is already known about assessment (appropriate taxonomies, automated code assessment/feedback, which competencies to assess for at what stages in learning, and how to design authentic assessments, ...) against the realities of each setting.  An interesting and relevant contribution to the literature on assessment in computing education would be to identify methods of evaluation are easily adapted by educators or even administrable by learners themselves.
 	- *_What traits make an artifact easily accessed and adaptable?_*  It is not enough for something to work in the exact setting it is designed for.  If the best practices are to become the common practices, it needs to be within the practical constraints of educators and students to adapt an artifact to changing needs and contexts.  To validate the adopt/adaptability of any research artifacts, it will be necessary to work with teachers and students to determine their constraints (technical skills, resources, time, effort/reward thresholds, ...).
 - ### Design effective tools & methodologies matched to each organizations' needs
-  collapsed:: true
 	- *_What are effective and ineffective methods for reaching these objectives?_*  Working in partnership with the students, teachers and administrators, design custom methodologies and tools that allow them to apply known best practices within their existing constraints.  All tested artifacts will be informed by known best practices and traits of previously successful artifacts, and validated against the pre-defined assessment metrics for student learning outcomes and adopt/adaptability. It is likely that some of the lowest hanging fruit will be finding ways to intentionally configure or restrict certain pieces of a languages or environment to make them more similar to specialized learning environments.
 - ### Generalize & validate findings
-  collapsed:: true
 	- *_How can the specific solutions found with partner organizations be generalized?_*   What combination of guidelines, methodologies, tools and/or educational resources will enable other educational programming matching the target profile (described at the out start of this thesis) to make the best practices their common practices?
 	- To have confidence in generality, a validation phase will be carried out with partner organizations that were initially assigned to the "control group".  They will be asked to adopt/adapt the new artifacts into their existing trainings. The ease with this transition is achieved and any changes in student learning outcomes will be measured.
 - ### Theoretical Contribution
-  collapsed:: true
 	- The results of this thesis will be analyzed and integrated into the existing body of knowledge pertaining to novice computing education.
-- ---
 - ## Research Methodology
 	- Design Research is the most appropriate methodology, it is best suited to research that extends an existing knowledge base through application and validation in novel settings.  The goal of this thesis is to apply what is known about effective computing education to finding a generalized method for adapting industry-standard languages & environments for educational purposes.
 	- Design research is made up of cycles. These steps will be carried out repeatedly both at a small scale to develop individual artifacts, and a the scale of the thesis in an attempt to find a generalized methodology:
@@ -93,19 +87,18 @@ tags:: narrative
 		- 2. Design Cycle: Build & Evaluate
 		- 3. Rigor Cycle: Grounding & Knowledge Base Contributions
 	- Furthermore, the stages of research described in [Objectives](#objectives) are in direct alignment with the 7 established Design Science Research Guidelines as laid out by *_Hevner, A., & Chatterjee, S. (2010)_*.
-- ---
 - ## Possible Artefacts
 	- A course embedded in the target ide, based around code & projects written/designed to be studied in place (worked examples, starter code, alternate solutions to the same problems, projects to debug, ...), scaffolded by linting configurations to gradually introduce ide & language features, can be an effective solution for courses aimed at adult audiences looking for professional retooling.
 	- To make the best practices the common practices, they must be the easiest to adopt/adapt.  Some possible artifacts to achieve this end include:
 		- Develop methodologies and accompanying tools for generating exercises & learning projects from existing code. These can be used by students or teachers to dive deeper into the challenges they actually encounter
 		- Granular open-source content (exercises, projects, lesson plans, ...) that can be incrementally adopted, and easily adapted.  These can either be used as-is or treated as exemplars for creating content more suited to different contexts.
-		- Accessibly open sourced tools that allow learners and educators to adapt their learning environments without the support of professional developers.
-		- Accessibly open sources tools for studying code from more perspectives than execution (ie. parsons problems, removing random lines/words, ...)
+		- [Accessibly open]([[Learner-Accessible OER]]) tools that allow learners and educators to adapt their learning environments without the support of professional developers.
+		- [Accessibly open]([[Learner-Accessible OER]]) source tools for studying code from more perspectives than execution (ie. parsons problems, removing random lines/words, ...)
 		- Guidelines for curriculum creation/curation
 	- Some possible avenues of investigation for adapting professional tools into learning environments include:
 		- Turning existing but common "challenging" languages into learnable languages using imposed language levels, this could be achieved using custom configurations of standard linting tools.  Different config files can be included in the same directory as assignments to allow tailor-made language constraints based on the assignment's objectives.
 		- Turning common IDE's (ie. visual studio code, brackets, sublime, or atom) into progressive learning environments using editor configurations that are shared with learners as certain thresholds are passed.
-		- Developing language support in professional IDE's for popular tailor-made novice languages
+		- Developing language support in professional IDE's for popular tailor-made novice langua©ges
 		- Developing plugins for these editors that ...
 		  collapsed:: true
 			- ... provide novice-friendly visualizations of program execution
@@ -114,7 +107,6 @@ tags:: narrative
 			- ... provide language support for specialized novice-friendly languages, reducing transfer costs to eventually learning only a new language instead of a new language and environment
 			- ... blockifying defined subsets of common languages directly in the editor, like Blockly or PencilCode.  This could go hand-in-hand with linting & styling configurations to reduce the blockifying complexity
 			- ... enable students to study their code from more perspectives than execution (ie. switch to parsons mode and lines are shuffled, correctly replacing the lines will allow the student to continue developing)
-- ---
 - ## Bibliography
 - > i never finished citing these in the text
 - Abdul-Rahman, S. S., & Du Boulay, B. (2014). Learning programming via worked-examples: Relation of learning styles to cognitive load. Computers in Human Behavior, 30, 286-298.

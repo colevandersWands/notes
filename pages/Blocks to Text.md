@@ -1,11 +1,42 @@
 tags:: narrative
 
-- [Blocks to Text](https://github.com/blocks-to-text/) is something I made a few years ago about the transition(s) learners make as they move from programming with blocks to programming with text.  It is many things:
+- > [[Blocks to Text]] is adapted (read: copy-pasted) from a [github organization](https://github.com/blocks-to-text/)  I made in 2019 about supporting the transition(s) learners make as they move from programming with blocks to programming with text.  The github organization is many things:
+	- more enthusiastic and confident than rigorous and informed
 	- [a conference presentation](https://blocks-to-text.github.io/sett-namur-19/#/)
-	- a proof-of-concept block-based editor ([Side by Side](https://blocks-to-text.github.io/side-by-side/)) that supports writing Python with blocks and studying the generated text-based code side by side.  It also features a very early web-based prototype of the [[Study Lenses]] concept, and basic not-taking.
+	- a proof-of-concept block-based editor [[Side-by-Side]] that supports writing Python with blocks and studying the generated text-based code side by side.  It also features a very early web-based prototype of the [[Study Lenses]] concept, and basic not-taking.
 	- [a guide](https://github.com/blocks-to-text/top) for teachers
-	- and an an exploration form and medium.  How could I use a github organization, repositories, and static hosting to publish all of the above as one whole?  Besides curiosity, this was practice for organizing [[Open Research]] and [[Open Education]]
-- The very broad idea behind everything in Blocks to Text is that it's not actually one transition, but two:
-	- ![blocks-to-text.svg](../assets/blocks-to-text_1677007130750_0.svg){:height 437, :width 747}
-- [Block-based what? Differentiating programming languages, environments and editors](https://medium.com/bits-and-behavior/block-based-what-differentiating-programming-languages-environments-and-editors-59ae451af0a9)
-	- did I got this right in Blocks to Text?
+	- an an exploration form and medium.  How could I use a github organization, repositories, and static hosting to publish all of the above as one whole?  Besides curiosity, this was practice for organizing [[Open Research]] and [[Open Education]]
+	- #todo update & link to other pages
+- ---
+- Transitioning from blocks to text involves developing multiple distinct but equally important skills, and isn't a single smooth transition. Students will need to develop their typing and literacy, learn about computers & file systems, improve their computational thinking skills, and build an understanding of dynamic program behavior, just to name a few.
+- Helping your students navigate this transition will take some planning but isn't an impossible task, and doesn't require you to be an expert programmer yourself. There are a few things you can keep in mind that will help manage expectations and smooth the journey.
+- ![blocks-to-text.svg](../assets/blocks-to-text_1677007130750_0.svg)
+- ## [The Transition]([[Blocks to Text/The Transition]])
+	- Transitioning from beginner programming environments (Scratch, Turtle drawings, Blockly, ...) to more "authentic" programming is not really about the blocks. The most important change students need to master is going from programming animations to programming the computer directly.
+	- Learning environments like Scratch or Turtle drawings show students their code and the final animated result, but leave a black box when it comes to how the coded instructions are interpreted and how the programs manage state over time.
+	- Guiding your students to programming the machine directly is a process of removing analogies and black boxes, replacing them with level-appropriate (but correct) understandings of how computers and programming languages work. Whether students write their code with letters or blocks is not actually important.
+- ## [Isolate the Notional Machine]([[Blocks to Text/Isolate the Notional Machine]])
+	- Guiding student's attention to the computer itself doesn't require a deep dive into compiler design or hardware. It's enough to teach a series of visualizations, diagrams, refactoring techniques, and vocabulary that are accurate but manageable for students.
+	- This combination of skills makes up a student's [[Notional Machine]] : their understanding of how the computer interprets and executes a program. Explicitly teaching a notional machine for your programming language will give students a common vocabulary for talking about what they are learning, and will help them avoid understanding their programs by analogy.
+	- This skill goes beyond just writing working code, it will also help your students to develop their algorithmic skills by making it easier for them to distinguish between flaws in logic and flaws in implementation. Often what looks like difficulty with problem solving is actually a poor understanding of the programming language.
+- ## [Ease into Text]([[Blocks to Text/Ease into Text]])
+	- It's easy to overlook that coding with text requires a high level of literacy, programming is one of the most exacting forms of writing. Students not only need to spell words exactly right, but also need to format perfectly and are expected to use a wide variety of characters that never appear in every-day life.
+	- Working with existing code is also an extreme form of reading. Students need to understand what the code is *supposed to* do according to the programmer's intentions, figure out what the interpreter will *actually* do, and modify the text to have new behavior without interfering with what already exists. This requires a level of pattern recognition and attention to detail in spelling & format that is simply not expected elsewhere.
+	- Focusing on typing skills, using word processors in other classes, studying code as a text without executing it, and playing off-line games that involve reading and writing pseudo-code can go a long way towards preparing students to write code from scratch.
+- ## [Transitional Learning Environments]([[Blocks to Text/Transitional Learning Environments]])
+	- Choosing the right programming language and environment is one of the most important decisions you make. It's possible to come up with new projects and lessons on the fly, but it is very disruptive for your students' learning to change languages or environments partway through a course.
+	- You know your students, what are they ready for? what would be most engaging for them? The transition from beginner environments to full text-based programming isn't one skill and one step. Choosing an environment that matches your students' current levels and interests is key.
+	- Making the right choice will involve determining which of the skills you want to address (text? notional machine? computational thinking?) and the types of projects that will be most effective for your students (visual? investigative?). The different environments provide more or less support for different skills and project types.
+- ## [Prepare to Teach]([[Blocks to Text/Prepare to Teach]])
+	- Doing and teaching are different skills. Studying code to teach is not the same as studying code to program. You will need to learn to code a bit yourself, but more importantly you'll need to learn what concepts and skills are most challenging for novices and how to teach them. This is called Pedagogical Content Knowledge - knowing how to teach a thing not, not just do it.
+	- Helping your students transition to full-on programming can take a bit of preparation You'll need to familiarize yourself with your students' programming language & environment, create exercises & projects, and ideally figure out how to integrate programming with other subjects your students are learning. Knowing the environment and language from your student's perspective will allow you to make the best exercises and projects.
+	- Fortunately some of the most effective programming exercises are also the easiest to prepare, with a little modification you can turn your own practice scripts into a series of exercises that you already know inside and out.
+	- Unfortunately, programming outside of Turtle drawings or Scratch is not as immediately rewarding for students. A working program no longer result in an engaging animation or game. This creates for you the challenge (and opportunity!) of integrating programming into other subjects, treating it less as a separate subject and more like the applied & embedded skill that it is outside of school.
+- ## [Diapos pour Sett Namur](https://blocks-to-text.github.io/sett-namur-19)
+	- **Programmation : de la souris au clavier, une transition en douceur**
+	- Les environnements de programmation visuelle, tels que Scratch ou encore Blockly, constituent des outils prècieux pour s’initier à la logique de programmation. Cependant, ils ne permettent pas tout. Tout programmeur en herbe qui persévère sur cette voie doit tôt ou tard faire la transition vers des environnements de programmation plus professionnels, permettant d’écrire des lignes de codes compréhensibles par une machine.
+	- Tout en conservant les techniques d’apprentissage intuitives et visuelles propres aux environnements de programmation visuelle, l’attention des étudiants doit très vite être portée sur les interactions avec la machine notionnelle, et non sur les seules techniques de résolution de problèmes complexes.
+	- > Présenté au [conference Sett Namur 2019](https://www.easyfairs.com/sett-namur-2019/sett-namur-2019/).
+- references
+	- [Block-based what? Differentiating programming languages, environments and editors](https://medium.com/bits-and-behavior/block-based-what-differentiating-programming-languages-environments-and-editors-59ae451af0a9)
+		- did I got this right in Blocks to Text?

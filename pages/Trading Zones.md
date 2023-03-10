@@ -5,11 +5,12 @@
 	- ((63fb447c-8728-4484-aec1-73966bb81996))
 - [[The Learning Salon: Toward a new participatory science]]
 - trading zone ideas for [CER]([[Computing Education Research]])
+  id:: 63fb32ad-b0fa-4468-836d-6eeec74d4daf
 	- neural correlates
 	  id:: 63fb32c5-7312-4611-ba66-b4bc69296bc8
 		- one perspective: [model behavior, then search for correlates](https://complexity.simplecast.com/episodes/95-8ea9DNk9)
 		- dyslexia (gablab)
-		- compared to natural language acquisition
+		- compared to natural language acquisition - [[Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages]]
 	- natural language education
 	  id:: 63fb32ea-91b0-4fe2-b1f6-368e4b555ff1
 - references:

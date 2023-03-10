@@ -1,0 +1,8 @@
+file:: [natural-language-aptitude_1678476750909_0.pdf](../assets/natural-language-aptitude_1678476750909_0.pdf)
+file-path:: ../assets/natural-language-aptitude_1678476750909_0.pdf
+
+- This experiment employed an individual differences approach to test the hypothesis that learning modern programming languages resembles second “natural” language learning in adulthood. Behavioral and neural (resting-state EEG) indices of language aptitude were used along with numeracy and fluid cognitive measures (e.g., fluid reasoning, working memory, inhibitory control) as predictors. Rate of learning, programming accuracy, and post-test declarative knowledge were used as outcome measures in 36 individuals who participated in ten 45-minute Python training sessions. The resulting models explained 50–72% of the variance in learning outcomes, with language aptitude measures explaining significant variance in each outcome even when the other factors competed for variance. Across outcome variables, fluid reasoning and working-memory capacity explained 34% of the variance, followed by language aptitude (17%), resting-state EEG power in beta and low-gamma bands(10%), and numeracy (2%). These results provide a novel framework for understanding programming aptitude, suggesting that the importance of numeracy may be overestimated in modern programming education environments.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 640b8776-912c-4bbd-b22c-1a4b6bb66110

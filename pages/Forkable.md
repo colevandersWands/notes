@@ -1,5 +1,5 @@
 - from [[Mixiting]]
-	- Open Source Educational Resources are not by default Open Education: [Open Source !== Open Education](((63f61887-d67b-4632-91d9-9b7ed2f1c0ff)))
+	- Open Source Educational Resources are not by default Open Education: [[Open Source !== Open Education]]
 	- Forkability: The barriers to entry between clicking the "fork" button, and adapting/applying the resource to your context
 	- Open Source only become Open Education when it's forkability is within the means/expertise of participating educators and students: [Agency & Ownership](((63f606ee-85f7-42d7-aba8-d572e11010f0)))
 - Below are a few explorations into forkable learning environments, pre-packaged with content. The goal was to make something th

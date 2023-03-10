@@ -13,6 +13,7 @@
 	- Teemu, the author of [Let's Ask ...]([[Let's Ask Students About Their Programs, Automatically]]), and I had a nice call. The Ask Me button inspired him to create [qlcjs](https://github.com/teemulehtinen/qlcjs). (Hello Teemu!)
 	- [qlcjs](https://github.com/teemulehtinen/qlcjs) inspired me to integrate their multiple choice questions into the Ask Me button
 	- Teemu published [[Automated Questionnaires About Students' JavaScript Programs: Towards Gauging Novice Programming Processes]] which investigates using [qlcjs](https://github.com/teemulehtinen/qlcjs) embedded in a MOOC
+- #todo - migrate research & notes behind the generated questions. borrowed from literature & poetry analysis
 - i wonder about [[Study Lenses/Ask Me]]
 	- what aspects of teaching does this automate? and is this automation actually helpful? #question
 		- a lot of teaching 1-1 is asking learners questions about their code, this work is automated with Ask Me.  i believe this serves many purposes, the one that interests me most for this question is ...

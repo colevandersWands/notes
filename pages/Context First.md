@@ -12,6 +12,6 @@ tags:: design
 - must make distinction between "CS" classes and "programming" classes
 - merges discussions of curriculum design, learning objective sequencing and inclusion
 - examples
-	- [[De Nepo Web Dev -- very WIP]]: modules 1-3
+	- [[De Nepo/Web Development]]: modules 1-3
 	- [[Module/Welcome to JS]]: What is programming?
 -

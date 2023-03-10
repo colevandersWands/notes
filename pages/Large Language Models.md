@@ -1,0 +1,3 @@
+- references
+	- programming will change ... [a lot](https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-lot-5cfe13afa46c) or [a little](https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-little-81445778d957)
+	- [[The End of Programming]]

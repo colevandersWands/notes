@@ -1,0 +1,4 @@
+- A [proof-of-concept online learning environment](https://blocks-to-text.github.io/side-by-side/) where students (and teachers) can code together, creating scripts with familiar blocks, compare the blocks side-by-side with the equivalent python, run the generated code in python tutor (objective: [[Notional Machine]] ), or study them as text in non-runtime environments like the [[Side-by-Side/Parsonizer]] (objectives: logic & language structures) and spot & shuffle (objectives: key words & attention to textual detail).
+- Users can also create & download review sheets as they go by saving helpful snippets and taking notes about what they learned including links to any helpful resources.
+- This is a distant ancestor [[Study Lenses]] [[Learning Environment]], created for the [[Blocks to Text]] narrative
+- [[Open Educational Resource]], [[Learning Environment]], [[PRIMM]], [[Learner-Accessible OER]]

@@ -1,6 +1,6 @@
 - http://matt-koehler.com/tpack2/tpack-explained/
 	- ![TPACK-new.png](../assets/TPACK-new_1677768216027_0.png)
-- TPACK in [[De Nepo Web Dev -- very WIP]]
+- TPACK in [[De Nepo/Web Development]]
 	-
 - counterpoints
 	- https://www.matt-koehler.com/publications/Rosenberg_Koehler_JRTE_2015.pdf

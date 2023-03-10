@@ -1,0 +1,4 @@
+- A [proof-of-concept online study environment](https://blocks-to-text.github.io/spot) that replaces characters in your code with spots.  You can create exercises and share them with a URL.
+- One of the proto-lenses available in [[Side-by-Side]]
+- [[Open Educational Resource]], [[Learning Environment]], [[PRIMM]], [[Learner-Accessible OER]]
+-

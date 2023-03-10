@@ -7,6 +7,8 @@ tags:: bibliography
 - full paper: ![local copy](../assets/What_Do_CS1_Syllabi_Reveal_About_Our_Exp_1677778034856_0.pdf), [online](https://sci-hub.se/https://dl.acm.org/doi/abs/10.1145/3287324.3287485)
 	- [interactive online tool](http://csed.ucd.ie/SIGCSE2019)
 	- slides: ![local copy](../assets/what-are-we-asking-slides_1677778117484_0.pdf) , [online](https://www.brettbecker.com/wp-content/uploads/2019/03/Becker_Fitzpatrick_SIGCSE19.pdf)
+- **Notes:**
+	- if [[Large Language Models]] or other code generators do replace programming, would most of the objectives in this paper would be obsolete? and those that are not, how will their weighting change? #question
 - BECKER, Brett A.; FITZPATRICK, Thomas. What do cs1 syllabi reveal about our expectations of introductory programming students?. In: *Proceedings of the 50th ACM Technical Symposium on Computer Science Education*. 2019. p. 1011-1017.
 - ```
   @inproceedings{becker2019cs1,

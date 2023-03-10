@@ -1,7 +1,7 @@
 tags:: narrative
 audience:: tbd
 
-- narrative drafting
+- barely an outline"
 	- a socially involved, [participatory]([[Participatory CER]]), [translational]([[Computing Education Research as a Translational Transdiscipline]]) field
 	- there are [[CER Center]]s, that conduct [[Open Research]], coordinate [[Translational Research Programmes]] and [[Theoretical Research Programmes]], foster [[Trading Zones]], ...
 	- [[CER Center]]s support [[Representative Course]]s

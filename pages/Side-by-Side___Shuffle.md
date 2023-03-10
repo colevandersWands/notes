@@ -1,0 +1,3 @@
+- A [proof-of-concept-online-study-environment](https://blocks-to-text.github.io/shuffle) that shuffles the characters in words, you need to carefully read the code to fix the mistakes.  You can create exercises and share them with a URL.
+- One of the proto-lenses available in [[Side-by-Side]]
+- [[Open Educational Resource]], [[Learning Environment]], [[PRIMM]], [[Learner-Accessible OER]]
