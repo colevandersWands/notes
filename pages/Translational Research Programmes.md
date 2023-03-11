@@ -10,6 +10,7 @@
 	- For such a project to succeed you cannot only focus on the learning objectives, instructional design and lesson plans.  You will also need to collaborate with local & regional employers, integration services, aid organizations, and the learners themselves.
 	- It’s not possible to isolate such a challenge and develop solutions in a controlled setting.   There are practical, social and psychological factors that simply can’t be ignored without redefining your target context.
 	- CER specialists working on such a TRP would need to approach the project with open ears and offer their expertise in service of the project, not the other way around.
+	  id:: 640b8af5-66a9-40d6-a8bc-8ea266a7dd00
 	- ![TRPs are transdisciplinary](../assets/sigcse_presentation_tcer_-_beat.042_1677259641036_0.jpg)
 -
 - While a TRP interacts with all 5 phases of TCER, the phases are not practical for _planning_ a TRP.

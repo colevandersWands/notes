@@ -26,6 +26,8 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 		- [[Study Lenses/Ask Me]]
 	- would focusing on the [[Rhetorics of Programming]] productively "fill" time in the curriculum so that technical learning objectives can be spaced out to a [learnable density]([[Learning to Program is Easy]])? #question
 	- ((640b8433-cca8-4ce8-8904-b720aebaa0b6))
+	- could R-F be helpful in [decolonizing CE]([[Decolonising Computer Science Education: A Global Perspective]])? #question
+	  id:: 640caaf3-ca94-4701-97b0-e54a356162bc
 - below is one possible introductory sequence designed around snowballing rhetorical situations instead of technical objectives
 	- **note**: I have been teaching this way for the last few years. Not always overtly but it has informed how i set expectations for learners, sequence learning objectives, and design projects.
 		- The course i ran began with collaboration skills around markdown files, then project management with simple HTML/CSS projects, then Design Thinking and User Empathy (still with only HTML/CSS).  Only after 2 months of this did we move on to JS.

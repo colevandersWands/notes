@@ -1,0 +1,1138 @@
+{:highlights
+ [{:id #uuid "640ca87e-bc23-4219-b5c2-d6a14a520f37",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 13.812878608703613,
+     :x2 368.6716222167015,
+     :y2 609.3413696289062,
+     :width 767,
+     :height 992.5882352941177},
+    :rects
+    ({:x1 0,
+      :y1 13.812878608703613,
+      :x2 0,
+      :y2 33.53089237213135,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 29.816648483276367,
+      :x2 0,
+      :y2 49.53466033935547,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 45.82041549682617,
+      :x2 0,
+      :y2 65.5384292602539,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 61.82418441772461,
+      :x2 0,
+      :y2 81.54219818115234,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 77.82795715332031,
+      :x2 0,
+      :y2 97.54596710205078,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 93.83172607421875,
+      :x2 0,
+      :y2 113.54973602294922,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 109.83549499511719,
+      :x2 0,
+      :y2 129.5535125732422,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 125.83926391601562,
+      :x2 0,
+      :y2 145.55728149414062,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 141.84303283691406,
+      :x2 0,
+      :y2 161.56105041503906,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 157.8468017578125,
+      :x2 0,
+      :y2 177.5648193359375,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 173.85057067871094,
+      :x2 0,
+      :y2 193.56858825683594,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 189.85433959960938,
+      :x2 0,
+      :y2 209.57235717773438,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 205.8581085205078,
+      :x2 0,
+      :y2 225.5761260986328,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 221.86187744140625,
+      :x2 0,
+      :y2 241.57989501953125,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 237.8656463623047,
+      :x2 0,
+      :y2 257.5836486816406,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 253.86941528320312,
+      :x2 0,
+      :y2 273.5874328613281,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 269.8731689453125,
+      :x2 0,
+      :y2 289.5911865234375,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 285.876953125,
+      :x2 0,
+      :y2 305.594970703125,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 301.8807373046875,
+      :x2 0,
+      :y2 321.5987243652344,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 313.28021240234375,
+      :x2 368.59282582998276,
+      :y2 326.425537109375,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 0,
+      :y1 317.8844909667969,
+      :x2 0,
+      :y2 337.6025085449219,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 327.41827392578125,
+      :x2 368.64465230703354,
+      :y2 340.5636291503906,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 341.5563659667969,
+      :x2 368.2731618285179,
+      :y2 354.70172119140625,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 355.6944580078125,
+      :x2 368.4566029906273,
+      :y2 368.8398132324219,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 369.969482421875,
+      :x2 368.39662832021713,
+      :y2 383.1148376464844,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 384.1075744628906,
+      :x2 368.2760915160179,
+      :y2 397.2529296875,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 398.24566650390625,
+      :x2 368.3504247069359,
+      :y2 411.3909912109375,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 412.3837585449219,
+      :x2 368.31645864248276,
+      :y2 425.5290832519531,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 426.5218505859375,
+      :x2 367.45253652334213,
+      :y2 439.66717529296875,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 440.6599426269531,
+      :x2 368.29458516836166,
+      :y2 453.8052673339844,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 454.79803466796875,
+      :x2 368.3735951781273,
+      :y2 467.943359375,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 468.93609619140625,
+      :x2 368.35839742422104,
+      :y2 482.0814514160156,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 483.0741882324219,
+      :x2 368.55776113271713,
+      :y2 496.21954345703125,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 497.2122802734375,
+      :x2 368.2815846800804,
+      :y2 510.3576354980469,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 511.3503723144531,
+      :x2 368.55803579092026,
+      :y2 524.4957275390625,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 525.5055541992188,
+      :x2 368.6716222167015,
+      :y2 538.6509399414062,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 539.6436767578125,
+      :x2 368.5868749022484,
+      :y2 552.7890014648438,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 553.78173828125,
+      :x2 368.66863149404526,
+      :y2 566.9271240234375,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 567.9198608398438,
+      :x2 368.49419301748276,
+      :y2 581.065185546875,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 582.0579223632812,
+      :x2 368.4081410765648,
+      :y2 595.2033081054688,
+      :width 767,
+      :height 992.5882352941177}
+     {:x1 67.66085714101791,
+      :y1 596.196044921875,
+      :x2 229.6090993285179,
+      :y2 609.3413696289062,
+      :width 767,
+      :height 992.5882352941177}),
+    :page 1},
+   :content
+   {:text
+    "There is an increasing recognition that computing education and the profession of computing has failed indigenous learners around the world. In this paper we argue for a reform of tertiary education’s computing curricula so that they address the needs of both indigenous and non-indigenous learners. To achieve this, we must first consider the role of computing as a negative colonising force that continues to the present. This paper integrates traditional methods of storytelling to provide context for a reframing of computing as a decolonising force. A case study of the New Zealand context where Māori have been underserved by both computing education and the computing profession, is used to identify systemic barriers. We propose a process of partnership that empowers indigenous communities to work with industry and education to imagine a computing profession that positively contributes to thriving decolonised practice. And then how can computer science education contribute to that? We then canvas some potential directions a transformation of computing education might take. This paper is not intended to replace or preempt partnerships or indigenous self-determination, but to inspire computer science educators towards developing an approach that improves outcomes for all learners."},
+   :properties {:color "green"}}
+  {:id #uuid "640caa28-14ae-4738-abe8-fc9eac6c80fa",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 13.8128662109375,
+     :x2 881.1817339062691,
+     :y2 848.4393920898438,
+     :width 966.0000000000001,
+     :height 1250.1176470588236},
+    :rects
+    ({:x1 0,
+      :y1 13.8128662109375,
+      :x2 0,
+      :y2 33.5308837890625,
+      :width 966.0000000000001,
+      :height 1250.1176470588236}
+     {:x1 502.0048540234566,
+      :y1 817.1849670410156,
+      :x2 881.1817339062691,
+      :y2 832.5212097167969,
+      :width 966.0000000000001,
+      :height 1250.1176470588236}
+     {:x1 502.0048540234566,
+      :y1 833.1031494140625,
+      :x2 860.8127763867378,
+      :y2 848.4393920898438,
+      :width 966.0000000000001,
+      :height 1250.1176470588236}),
+    :page 1},
+   :content
+   {:text
+    "Stating one’s own positioning is a fundamental starting point for many Indigenous cultures and this cannot be relegated to a “bio” at the end."},
+   :properties {:color "green"}}
+  {:id #uuid "640caa3b-816a-45d0-9f8e-fa6f63edf063",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 13.812896728515625,
+     :x2 465.5128496289253,
+     :y2 227.08236694335938,
+     :width 966.0000000000001,
+     :height 1250.1176470588236},
+    :rects
+    ({:x1 0,
+      :y1 13.812896728515625,
+      :x2 0,
+      :y2 33.530914306640625,
+      :width 966.0000000000001,
+      :height 1250.1176470588236}
+     {:x1 85.22220784425735,
+      :y1 195.84506225585938,
+      :x2 465.5128496289253,
+      :y2 211.18130493164062,
+      :width 966.0000000000001,
+      :height 1250.1176470588236}
+     {:x1 85.22220784425735,
+      :y1 211.74612426757812,
+      :x2 441.6214311718941,
+      :y2 227.08236694335938,
+      :width 966.0000000000001,
+      :height 1250.1176470588236}),
+    :page 2},
+   :content
+   {:text
+    "While decolonisation can be considered globally [5], it is of course, a process that is both repeated and unique in every colonised territory."},
+   :properties {:color "green"}}
+  {:id #uuid "640caba9-148b-45c7-88d2-80070d6fa591",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 13.812873840332031,
+     :x2 509.88672828674316,
+     :y2 1105.6636123657227,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 13.812873840332031,
+      :x2 0,
+      :y2 33.530887603759766,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 29.81664276123047,
+      :x2 0,
+      :y2 49.5346565246582,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 45.820411682128906,
+      :x2 0,
+      :y2 65.53842544555664,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 61.82418251037598,
+      :x2 0,
+      :y2 81.54219627380371,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 77.82795143127441,
+      :x2 0,
+      :y2 97.54596519470215,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 93.83172047138214,
+      :x2 0,
+      :y2 113.54973423480988,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 984.7538223266602,
+      :x2 509.81028175354004,
+      :y2 1001.1855239868164,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 1002.2295913696289,
+      :x2 509.88672828674316,
+      :y2 1018.6612930297852,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 1019.5513687133789,
+      :x2 509.8248233795166,
+      :y2 1035.983009338379,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 1037.0099868774414,
+      :x2 509.55681800842285,
+      :y2 1053.4416885375977,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 1054.280372619629,
+      :x2 509.68213844299316,
+      :y2 1070.7120742797852,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 1071.7561416625977,
+      :x2 509.88291358947754,
+      :y2 1088.187843322754,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 1089.2319107055664,
+      :x2 483.6551914215088,
+      :y2 1105.6636123657227,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 2},
+   :content
+   {:text
+    "Mkansi describes decolonising education as a “baffling endeavour” for hard sciences [10]. This bafflement can be imagined in a perspective that things Māori have nothing to do with learning how to write efficient code or implement network protocols (for example). This systemic shortcoming is mostly not from a position of arrogance but a genuine bewilderment of how you could teach a thing that is seemingly culturally-independent and abstract in ways that better align with te ao Māori (the Māori world)"},
+   :properties {:color "green"}}
+  {:id #uuid "640cabf3-e899-43d9-96e9-647b91f42f6d",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 13.81292724609375,
+     :x2 967.7273960113525,
+     :y2 1232.5298461914062,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 13.81292724609375,
+      :x2 0,
+      :y2 33.53094482421875,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 29.816650390625,
+      :x2 0,
+      :y2 49.53466796875,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 45.8204345703125,
+      :x2 0,
+      :y2 65.5384521484375,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 61.82421875,
+      :x2 0,
+      :y2 81.542236328125,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 77.82797241210938,
+      :x2 0,
+      :y2 97.54598999023438,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 93.83175659179688,
+      :x2 0,
+      :y2 113.54977416992188,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827548980713,
+      :y1 140.61068725585938,
+      :x2 967.7273960113525,
+      :y2 157.0423583984375,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827548980713,
+      :y1 157.86395263671875,
+      :x2 967.5948886871338,
+      :y2 174.29562377929688,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827548980713,
+      :y1 175.3397216796875,
+      :x2 967.50559425354,
+      :y2 191.77139282226562,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827548980713,
+      :y1 192.81549072265625,
+      :x2 967.3124179840088,
+      :y2 209.24716186523438,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827548980713,
+      :y1 210.08587646484375,
+      :x2 789.05588722229,
+      :y2 226.51754760742188,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 1198.6224365234375,
+      :x2 509.5570011138916,
+      :y2 1215.0540771484375,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209632873535,
+      :y1 1216.0982055664062,
+      :x2 509.67966651916504,
+      :y2 1232.5298461914062,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 2},
+   :content
+   {:text
+    "It is likely that an outcome of transformation and unification will be a te reo Māori (Māori language) version of each qualification and“mainstream” English version. A “Social Report” [12] found that while 55% of Māori reported they could speak more than a few words or phrases in te reo Māori, for only 23% was this “very well” or “fairly well”. So, it would be a mistake to rely solely on a te reo version to carry the load here, the mainstream version has to decolonise too."},
+   :properties {:color "green"}}
+  {:id #uuid "640cadc2-9fc8-4812-b725-39ae07f22f73",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 61.82418715953827,
+     :x2 967.4312438964844,
+     :y2 318.65473449230194,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 61.82418715953827,
+      :x2 0,
+      :y2 81.542200922966,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 790.6562194824219,
+      :y1 284.9526776075363,
+      :x2 967.4312438964844,
+      :y2 301.38434875011444,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827453613281,
+      :y1 302.2230633497238,
+      :x2 757.7573547363281,
+      :y2 318.65473449230194,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 2},
+   :content
+   {:text
+    "being “by Māori for Māori”, ako(teaching as learning) pedagogies"},
+   :properties {:color "green"}}
+  {:id #uuid "640cae32-4038-45af-b6d8-f0e187d37416",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 109.83549118041992,
+     :x2 967.5763854980469,
+     :y2 532.745777130127,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 109.83549118041992,
+      :x2 0,
+      :y2 129.55350875854492,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 125.83926010131836,
+      :x2 0,
+      :y2 145.55727767944336,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 141.8430290222168,
+      :x2 0,
+      :y2 161.56103897094727,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 573.9790344238281,
+      :y1 464.0921821594238,
+      :x2 967.2237854003906,
+      :y2 480.52385330200195,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827453613281,
+      :y1 481.3625679016113,
+      :x2 967.4317932128906,
+      :y2 497.79423904418945,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827453613281,
+      :y1 498.8383369445801,
+      :x2 967.5763854980469,
+      :y2 515.2700080871582,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827453613281,
+      :y1 516.3141059875488,
+      :x2 928.4543762207031,
+      :y2 532.745777130127,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 2},
+   :content
+   {:text
+    ". But the concept of computing as a colonising force is underexplored and there is little guidance as to what “decolonised computing” might look like - or even just computing as a positive force in decolonisation. So, the nature of computing as a colonising force must first be considered."},
+   :properties {:color "green"}}
+  {:id #uuid "640caf19-4807-4cd6-a6bc-7da693ef5576",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 -2.190887451171875,
+     :x2 967.570011138916,
+     :y2 907.798828125,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 -2.190887451171875,
+      :x2 0,
+      :y2 17.527130126953125,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 13.812881469726562,
+      :x2 0,
+      :y2 33.53089904785156,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 29.816650390625,
+      :x2 0,
+      :y2 49.53466033935547,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 61.824188232421875,
+      :x2 0,
+      :y2 81.54219818115234,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 77.82795715332031,
+      :x2 0,
+      :y2 97.54596710205078,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 93.83172607421875,
+      :x2 0,
+      :y2 113.54973983764648,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 783.271915435791,
+      :y1 781.754150390625,
+      :x2 967.408145904541,
+      :y2 798.1858520507812,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 799.2128295898438,
+      :x2 967.3548011779785,
+      :y2 815.64453125,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 816.4832153320312,
+      :x2 967.570011138916,
+      :y2 832.9148559570312,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 833.958984375,
+      :x2 635.2967567443848,
+      :y2 850.390625,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 856.6209716796875,
+      :x2 967.3980140686035,
+      :y2 873.0526733398438,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 873.891357421875,
+      :x2 967.1959266662598,
+      :y2 890.3230590820312,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 891.3671264648438,
+      :x2 617.0661659240723,
+      :y2 907.798828125,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 2},
+   :content
+   {:text
+    "But the computer as we know it did not appear until the 1940s, emerging as a tool for government and business in the 1960s, and ordinary people from the 1980s. So how can it be a coloniser? Toyama [16] wrote that technology amplifies human forces, and, we argue, the dominant force in New Zealand was, and continues to be, colonialism"},
+   :properties {:color "green"}}
+  {:id #uuid "640cafb0-6c2f-4fe8-82a3-4132bfaa6d0b",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 551.2827796936035,
+     :y1 1018.3018493652344,
+     :x2 967.1013832092285,
+     :y2 1034.7335205078125,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 551.2827796936035,
+      :y1 1018.3018493652344,
+      :x2 967.1013832092285,
+      :y2 1034.7335205078125,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 2},
+   :content
+   {:text
+    "Dourish and Mainwaring [18] wrote of “ubicomp’s colonial impulse”."},
+   :properties {:color "green"}}
+  {:id #uuid "640cafc1-9288-44c7-937f-3b9d34e7d59c",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 61.82415771484375,
+     :x2 967.559268951416,
+     :y2 1139.1431274414062,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 61.82415771484375,
+      :x2 0,
+      :y2 81.54217529296875,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 77.82794189453125,
+      :x2 0,
+      :y2 97.54595947265625,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 93.83172607421875,
+      :x2 0,
+      :y2 113.54974365234375,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 732.6816444396973,
+      :y1 1070.5066528320312,
+      :x2 967.559268951416,
+      :y2 1086.9383239746094,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 1087.982421875,
+      :x2 967.5111122131348,
+      :y2 1104.4140930175781,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 1105.2356872558594,
+      :x2 967.2359657287598,
+      :y2 1121.6673583984375,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 1122.7114562988281,
+      :x2 604.3460731506348,
+      :y2 1139.1431274414062,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 2},
+   :content
+   {:text
+    "everything we do is mediated by the requirement to reduce it to data. Such ubiquity comes with the continued domination of a centre with presumption that the periphery needs to“develop”"},
+   :properties {:color "green"}}
+  {:id #uuid "640cb002-a8ea-46be-9296-6d31ab9e1884",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 125.8392333984375,
+     :x2 967.7164344787598,
+     :y2 1208.6183471679688,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 125.8392333984375,
+      :x2 0,
+      :y2 145.5572509765625,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 141.843017578125,
+      :x2 0,
+      :y2 161.56103515625,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 157.8468017578125,
+      :x2 0,
+      :y2 177.5648193359375,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 750.5053749084473,
+      :y1 1139.9818420410156,
+      :x2 966.984806060791,
+      :y2 1156.4135131835938,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 1157.4576110839844,
+      :x2 967.7164344787598,
+      :y2 1173.8893127441406,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 1174.9162902832031,
+      :x2 967.3862953186035,
+      :y2 1191.3479614257812,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827796936035,
+      :y1 1192.1866455078125,
+      :x2 881.6361122131348,
+      :y2 1208.6183471679688,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 2},
+   :content
+   {:text
+    "There is also a presumption of a need for innovation - that there is a problem that needs fixing - and only the technological centre has the imagination and agency to do so. With the idea that the technologists are, in some sense, typical peopl"},
+   :properties {:color "green"}}
+  {:id #uuid "640cb064-3ff0-49e1-9734-0d9870d20a89",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 13.812881469726562,
+     :x2 509.55025482177734,
+     :y2 411.4252243041992,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 13.812881469726562,
+      :x2 0,
+      :y2 33.53089141845703,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 29.816650390625,
+      :x2 0,
+      :y2 49.53466033935547,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 360.24739837646484,
+      :x2 509.55025482177734,
+      :y2 376.6791000366211,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 377.7231979370117,
+      :x2 509.44418716430664,
+      :y2 394.15486907958984,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 394.9935531616211,
+      :x2 297.69120025634766,
+      :y2 411.4252243041992,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 3},
+   :content
+   {:text
+    "In short, if technology doesn’t make things better for you, then there is something wrong with you, your education and your cultural understandings, not the technology."},
+   :properties {:color "green"}}
+  {:id #uuid "640cb169-ffbf-4127-936d-1513c029284e",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 13.812881469726562,
+     :x2 509.81528091430664,
+     :y2 486.3605270385742,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 13.812881469726562,
+      :x2 0,
+      :y2 33.53089141845703,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 29.816650390625,
+      :x2 0,
+      :y2 49.53466033935547,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 45.82041931152344,
+      :x2 0,
+      :y2 65.53843116760254,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 417.6555709838867,
+      :x2 509.81528091430664,
+      :y2 434.08727264404297,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 435.18270111083984,
+      :x2 509.508487701416,
+      :y2 451.61437225341797,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 452.45308685302734,
+      :x2 508.8399887084961,
+      :y2 468.88475799560547,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 469.9288558959961,
+      :x2 436.78316497802734,
+      :y2 486.3605270385742,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 3},
+   :content
+   {:text
+    "So far, we have two interrelated forms of colonisation. First, the structural colonialism of the state and organisation, creating structures and processes to the benefit of the system. And second, the technological colonialism, imposing universal logic and encoded solutions."},
+   :properties {:color "purple"}}
+  {:id #uuid "640cb1e7-f1f0-4df6-90ba-516c68714260",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 29.816650390625,
+     :x2 509.8400001525879,
+     :y2 595.7681198120117,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 29.816650390625,
+      :x2 0,
+      :y2 49.53466033935547,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 45.82041931152344,
+      :x2 0,
+      :y2 65.53843116760254,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 61.82418632507324,
+      :x2 0,
+      :y2 81.54220008850098,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 77.827956199646,
+      :x2 0,
+      :y2 97.54596996307373,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 354.8557777404785,
+      :y1 509.8612594604492,
+      :x2 509.8400001525879,
+      :y2 526.2929306030273,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 527.337028503418,
+      :x2 509.49376678466797,
+      :y2 543.7686996459961,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 544.5902938842773,
+      :x2 509.57764053344727,
+      :y2 561.0219650268555,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 562.0660629272461,
+      :x2 509.672794342041,
+      :y2 578.4977340698242,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209442138672,
+      :y1 579.3364486694336,
+      :x2 163.3208999633789,
+      :y2 595.7681198120117,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 3},
+   :content
+   {:text
+    " Reitsma et al. [19] write of design, and the logic holds here: “The use of design within the context of indigenous communities raises concerns. This has to do with the characteristics of design to ‘improve’ lives and its emphasis on innovation”. "},
+   :properties {:color "yellow"}}
+  {:id #uuid "640cb323-1fb3-4348-8e7e-9b45323ecd9e",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 94.97851848602295,
+     :y1 559.0193308591843,
+     :x2 130.8934965133667,
+     :y2 572.1647166013718,
+     :width 881.9999999999999,
+     :height 1141.4117647058822},
+    :rects
+    ({:x1 94.97851848602295,
+      :y1 559.0193308591843,
+      :x2 130.8934965133667,
+      :y2 572.1647166013718,
+      :width 881.9999999999999,
+      :height 1141.4117647058822}),
+    :page 3},
+   :content {:text "Beyond"},
+   :properties {:color "green"}}
+  {:id #uuid "640cb46b-bc6d-42c9-abb1-2956e7b3df71",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 458.3582181930542,
+     :y1 453.75392150878906,
+     :x2 526.0050382614136,
+     :y2 469.0901641845703,
+     :width 881.9999999999999,
+     :height 1141.4117647058822},
+    :rects
+    ({:x1 458.3582181930542,
+      :y1 453.75392150878906,
+      :x2 526.0050382614136,
+      :y2 469.0901641845703,
+      :width 881.9999999999999,
+      :height 1141.4117647058822}),
+    :page 1},
+   :content {:text "Positioning"},
+   :properties {:color "blue"}}
+  {:id #uuid "640cb47f-e915-4635-b954-6b331a86e4b6",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 458.3582181930542,
+     :y1 928.150146484375,
+     :x2 614.3141813278198,
+     :y2 945.67724609375,
+     :width 881.9999999999999,
+     :height 1141.4117647058822},
+    :rects
+    ({:x1 458.3582181930542,
+      :y1 928.150146484375,
+      :x2 614.3141813278198,
+      :y2 945.67724609375,
+      :width 881.9999999999999,
+      :height 1141.4117647058822}),
+    :page 1},
+   :content {:text "1 INTRODUCTION"},
+   :properties {:color "blue"}}
+  {:id #uuid "640cb494-656a-47bc-b62a-1f1b86652b94",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 77.81083965301514,
+     :y1 294.3837585449219,
+     :x2 401.8632230758667,
+     :y2 311.910888671875,
+     :width 881.9999999999999,
+     :height 1141.4117647058822},
+    :rects
+    ({:x1 77.81083965301514,
+      :y1 294.3837585449219,
+      :x2 401.8632230758667,
+      :y2 311.910888671875,
+      :width 881.9999999999999,
+      :height 1141.4117647058822}),
+    :page 2},
+   :content {:text "1.1 Recognition that CSEd has failed Māori"},
+   :properties {:color "blue"}}
+  {:id #uuid "640cb4a9-e068-463b-a6ee-aa905976677c",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 77.81083965301514,
+     :y1 794.2491132616997,
+     :x2 355.14673137664795,
+     :y2 811.7762128710747,
+     :width 881.9999999999999,
+     :height 1141.4117647058822},
+    :rects
+    ({:x1 77.81083965301514,
+      :y1 794.2491132616997,
+      :x2 355.14673137664795,
+      :y2 811.7762128710747,
+      :width 881.9999999999999,
+      :height 1141.4117647058822}),
+    :page 2},
+   :content {:text "1.2 Why decolonise the curriculum?"},
+   :properties {:color "blue"}}
+  {:id #uuid "640cb4bc-258c-4703-8107-26d3f6830014",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 458.3582181930542,
+     :y1 582.0237007141113,
+     :x2 783.0892667770386,
+     :y2 599.5508003234863,
+     :width 881.9999999999999,
+     :height 1141.4117647058822},
+    :rects
+    ({:x1 458.3582181930542,
+      :y1 582.0237007141113,
+      :x2 783.0892667770386,
+      :y2 599.5508003234863,
+      :width 881.9999999999999,
+      :height 1141.4117647058822}),
+    :page 2},
+   :content {:text "2 COMPUTING AS A COLONISING FORCE"},
+   :properties {:color "blue"}}], 
+ :extra {:page 3}}

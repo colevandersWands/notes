@@ -1,0 +1,3 @@
+- chunks of curriculum that (mostly) stand on their own
+- check out the listed modules under linked references
+	- still some to go, they're not all here yet
