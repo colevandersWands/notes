@@ -1,3 +1,4 @@
+- Something is missing in the world of open computing education. Something between online learning platforms (FreeCodeCamp, Khan Academy) and full Learning Management Systems (Canvas, Moodle). What's missing is a lean, accessible way to manage anything from a study group to a full coding school using only the tools of the trade. No more, no less.
 - ## Overview
   id:: 63ff047d-c39a-46f1-bd34-2cfc4b036743
 	- As more people get interested in learning to code/program/hack/etc, and more of the collaboration moves to remote/distributed teams and schools, we want to give people a ready-made scaffold for setting up their own learning infrastructure.
@@ -34,3 +35,4 @@
 		- how to organize a study path with a README and github project management features
 		- organize learning materials
 		- ...
+- [[Learning in Public]]

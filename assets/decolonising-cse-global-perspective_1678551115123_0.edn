@@ -1015,26 +1015,6 @@
    {:text
     " Reitsma et al. [19] write of design, and the logic holds here: “The use of design within the context of indigenous communities raises concerns. This has to do with the characteristics of design to ‘improve’ lives and its emphasis on innovation”. "},
    :properties {:color "yellow"}}
-  {:id #uuid "640cb323-1fb3-4348-8e7e-9b45323ecd9e",
-   :page 3,
-   :position
-   {:bounding
-    {:x1 94.97851848602295,
-     :y1 559.0193308591843,
-     :x2 130.8934965133667,
-     :y2 572.1647166013718,
-     :width 881.9999999999999,
-     :height 1141.4117647058822},
-    :rects
-    ({:x1 94.97851848602295,
-      :y1 559.0193308591843,
-      :x2 130.8934965133667,
-      :y2 572.1647166013718,
-      :width 881.9999999999999,
-      :height 1141.4117647058822}),
-    :page 3},
-   :content {:text "Beyond"},
-   :properties {:color "green"}}
   {:id #uuid "640cb46b-bc6d-42c9-abb1-2956e7b3df71",
    :page 1,
    :position
@@ -1134,5 +1114,361 @@
       :height 1141.4117647058822}),
     :page 2},
    :content {:text "2 COMPUTING AS A COLONISING FORCE"},
+   :properties {:color "blue"}}
+  {:id #uuid "6410c9c6-e6b7-4efc-a55d-f8d569feaa5e",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 30.364368438720703,
+     :x2 511.4017143249512,
+     :y2 758.176399230957,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 30.364368438720703,
+      :x2 0,
+      :y2 49.534658432006836,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 46.36813735961914,
+      :x2 0,
+      :y2 65.53842735290527,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 62.37190628051758,
+      :x2 0,
+      :y2 81.54219627380371,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 334.0585746765137,
+      :y1 689.4971389770508,
+      :x2 511.4017143249512,
+      :y2 705.928840637207,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209823608398,
+      :y1 706.9729080200195,
+      :x2 509.7295951843262,
+      :y2 723.4046096801758,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209823608398,
+      :y1 724.2689895629883,
+      :x2 509.08654403686523,
+      :y2 740.7006301879883,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209823608398,
+      :y1 741.744758605957,
+      :x2 305.8831596374512,
+      :y2 758.176399230957,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 3},
+   :content
+   {:text
+    "Nasser [21] describes how the“public butchering of non-Latin text” is a “deeply hurtful reminder to every Arabic reader that the digital world was not built for them, and that their culture is an afterthought at best"},
+   :properties {:color "purple"}}
+  {:id #uuid "6410d28b-df98-4e06-89a6-636d8d437582",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 126.3869857788086,
+     :x2 967.627799987793,
+     :y2 561.578239440918,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 126.3869857788086,
+      :x2 0,
+      :y2 145.5572738647461,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 142.39075469970703,
+      :x2 0,
+      :y2 161.56104278564453,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 158.39452362060547,
+      :x2 0,
+      :y2 177.56481170654297,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 174.3982925415039,
+      :x2 0,
+      :y2 193.56858825683594,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 190.40206146240234,
+      :x2 0,
+      :y2 209.57234954833984,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 206.40583038330078,
+      :x2 0,
+      :y2 225.57611846923828,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 923.4678268432617,
+      :y1 440.94234466552734,
+      :x2 967.4368209838867,
+      :y2 457.37401580810547,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 458.20418548583984,
+      :x2 967.4960861206055,
+      :y2 474.63585662841797,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 475.67137908935547,
+      :x2 967.2596969604492,
+      :y2 492.1030502319336,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 492.94176483154297,
+      :x2 967.627799987793,
+      :y2 509.3734359741211,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 510.4089889526367,
+      :x2 967.3300704956055,
+      :y2 526.8406600952148,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 527.8847579956055,
+      :x2 967.2000045776367,
+      :y2 544.3164291381836,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 545.1465682983398,
+      :x2 861.0510787963867,
+      :y2 561.578239440918,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 3},
+   :content
+   {:text
+    "Writing of Industrial Design, Torreta and Reitsma [19] argue that it “emerged from a specific nature/culture and political situation; it is therefore a situated field that echoes the worldview of where it was created”. In computing’s terms, an apparent lack of values does not mean technology is benign, rather that we have come to presume that efficiency, speed and productivity are values that match societal aspirations."},
+   :properties {:color "green"}}
+  {:id #uuid "6410d2da-d7ca-40dd-9998-0a15cf022efc",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 14.360603332519531,
+     :x2 967.5127487182617,
+     :y2 878.1875534057617,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 14.360603332519531,
+      :x2 0,
+      :y2 33.5308952331543,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 30.36437225341797,
+      :x2 0,
+      :y2 49.5346622467041,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 826.8129196166992,
+      :x2 967.5127487182617,
+      :y2 843.2445602416992,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 844.288688659668,
+      :x2 967.4814376831055,
+      :y2 860.720329284668,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 861.7559127807617,
+      :x2 909.1011276245117,
+      :y2 878.1875534057617,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 3},
+   :content
+   {:text
+    "Or, is there no modernity without colonialism? [28] Te Rito’s perspective contrasts with those who say the pen was the end of a centuries-old oral tradition and the loss of mana for those who shared the stories."},
+   :properties {:color "green"}}
+  {:id #uuid "6410d2ef-9f21-43b9-bfae-6cb3f0039eba",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 14.360603332519531,
+     :x2 967.571159362793,
+     :y2 636.4622116088867,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 14.360603332519531,
+      :x2 0,
+      :y2 33.5308952331543,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 30.36437225341797,
+      :x2 0,
+      :y2 49.5346622467041,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 46.368141174316406,
+      :x2 0,
+      :y2 65.53843116760254,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 567.8171615600586,
+      :x2 967.571159362793,
+      :y2 584.2488327026367,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 585.078971862793,
+      :x2 967.5344772338867,
+      :y2 601.5106735229492,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 602.5547409057617,
+      :x2 967.4901657104492,
+      :y2 618.986442565918,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827682495117,
+      :y1 620.0305099487305,
+      :x2 904.2387619018555,
+      :y2 636.4622116088867,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 3},
+   :content
+   {:text
+    "Yet, it would be foolish to throw the baby out with the bathwater. Even in describing the dangers of artificial intelligence that fails to account for te ao Māori, Taiuru [20] argues that “digital technologies have a key role to play in advancing solutions to complex areas affecting Māori”."},
+   :properties {:color "green"}}
+  {:id #uuid "6410d4e1-1bdf-4dc7-aaef-dc2636786a9c",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 62.37191104888916,
+     :x2 967.7225074768066,
+     :y2 970.3333587646484,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 62.37191104888916,
+      :x2 0,
+      :y2 81.5422010421753,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827491760254,
+      :y1 936.4258880615234,
+      :x2 967.7225074768066,
+      :y2 952.8575897216797,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 551.2827491760254,
+      :y1 953.9016571044922,
+      :x2 684.0549049377441,
+      :y2 970.3333587646484,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 3},
+   :content
+   {:text
+    "This, he argues, is because of the link between computing and authority, and it continues today,"},
+   :properties {:color "green"}}
+  {:id #uuid "6410d629-579f-4661-a4df-5daa2bebb7bc",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 158.39456176757812,
+     :x2 509.78650283813477,
+     :y2 348.9506530761719,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 0,
+      :y1 158.39456176757812,
+      :x2 0,
+      :y2 177.56484985351562,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 0,
+      :y1 174.39828491210938,
+      :x2 0,
+      :y2 193.56857299804688,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 335.9346046447754,
+      :y1 297.5759582519531,
+      :x2 509.582218170166,
+      :y2 314.0076599121094,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209823608398,
+      :y1 315.0431823730469,
+      :x2 509.78650283813477,
+      :y2 331.4748840332031,
+      :width 1060.8,
+      :height 1372.8}
+     {:x1 93.59209823608398,
+      :y1 332.5189514160156,
+      :x2 380.650089263916,
+      :y2 348.9506530761719,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 4},
+   :content
+   {:text
+    "Such events fuel the legacy of distrust, but also cement the view that decolonisation is necessary, but will require significant willingness from all stakeholders."},
+   :properties {:color "green"}}
+  {:id #uuid "6410d80e-1a61-45ee-ab20-2d9cc05d3033",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 93.59209823608398,
+     :y1 370.99645233154297,
+     :x2 397.5929756164551,
+     :y2 392.90535736083984,
+     :width 1060.8,
+     :height 1372.8},
+    :rects
+    ({:x1 93.59209823608398,
+      :y1 370.99645233154297,
+      :x2 397.5929756164551,
+      :y2 392.90535736083984,
+      :width 1060.8,
+      :height 1372.8}),
+    :page 4},
+   :content {:text "3 DECOLONISING COMPUTING"},
    :properties {:color "blue"}}], 
- :extra {:page 3}}
+ :extra {:page 4}}

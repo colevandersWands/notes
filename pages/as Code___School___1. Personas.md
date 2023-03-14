@@ -8,7 +8,7 @@
 	- **facilitator**: you may or may not have knowledge of the content, but are responsible for coordinating the learner's experience (scheduling, logistics, mediation, ...)
 	- **accountant**: small and/or informal organizations often have tight funding, it's best to be strict open and fair about how it is used
 	- ... many more but this is enough to get the idea for now
-- A single person may wear the hat of "teacher" one day and "learner" the next, or "facilitator" today and "content curator" next month. With that in mind, let's try to define our target personas and the different hats they might wear:
+- A single person may wear the hat of "teacher" one day and "learner" the next, or "facilitator" today and "content curator" next month. With that in mind, let's try to define our target personas and [the different hats they might wear]([[Wear Hats, not Titles]]):
 - ## Human Personas
 	- what types of people might use this thing we're making?
 	- ### Margaret

@@ -1,0 +1,4 @@
+- **Open:** Is the artifact published under an open license?
+- **Useful:** Does the artifact address a real need?
+- **Usable:** Is the artifact designed so it can realistically be used in context?
+- **Used:** Do people actually use it? if so, as intended? or differently?

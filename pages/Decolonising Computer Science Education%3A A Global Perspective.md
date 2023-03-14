@@ -25,7 +25,20 @@ tags:: bibliography
 			- same critique here -> [[Lessons Learned from Refugee Camps: From Fetishizing Design to Researching, Drawing, and Co-Producing]]
 			- i was surprised when i first read this view, i saw [[Design Thinking]] and empathy as 1-1.  "design" without empathy is (to me) just making things you like, not what someone else needs.  so not actually design as I see it
 			- ((640b8af5-66a9-40d6-a8bc-8ea266a7dd00))
-		- made it this far -> ((640cb323-1fb3-4348-8e7e-9b45323ecd9e))
+		- ((6410c9c6-e6b7-4efc-a55d-f8d569feaa5e))
+			- i wonder about localizing [[Programming Languages]].  according to Felienne at [[Papers We Love/Edu]], this is a huge task.
+			- this also brings to mind issues with names breaking programs, and validating names in programs [[1](https://dev.to/carlymho/whats-in-a-name-validation-4b41), [2](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)]
+			- and when i've talked with learners about if it would help to study JS in their native language with transpiliers like [ArabJS](https://github.com/ArabJs/arabJs), they've said it might be cool but they'll need to learn it in English for work. and all the docs/tutorials are in english anyway.
+			- what they would do is find tutorials and references in their own languages and make study groups with a shared language
+			- ((640b8af2-3406-4d12-a88b-468f3992b1a9))
+			- how can the idea of "a curriculum" even fit here? what would replace "curriculum"? #question
+				- ((6410d4e1-1bdf-4dc7-aaef-dc2636786a9c)) -> "unpackaged" curriculua and [[Learner-Accessible OER]]?
+				- ((640b8af2-6ad7-443f-b60e-ec4477a4ecd5))
+		- ((6410d28b-df98-4e06-89a6-636d8d437582))
+		- ((6410d2ef-9f21-43b9-bfae-6cb3f0039eba)) ... ((6410d2da-d7ca-40dd-9998-0a15cf022efc))
+		- ((6410d629-579f-4661-a4df-5daa2bebb7bc))
+		  id:: 6410d303-a5ef-4deb-8aa0-c1e9a27cd21c
+	-
 - Mawera Karetai, Samuel Mann, Dhammika Dave Guruge, Sherlock Licorish, and Alison Clear. 2023. Decolonising Computer Science Education - A Global Perspective. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 1097–1102. https://doi.org/10.1145/3545945.3569870
 - ```
   @inproceedings{

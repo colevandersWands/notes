@@ -1,1 +1,842 @@
-{:highlights [{:id #uuid "64011055-3d2e-42e2-ba5d-ba3364392c4b", :page 3, :position {:bounding {:x1 0, :y1 728.03125, :x2 815.3411254882812, :y2 1617.5, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 634.0379028320312, :y1 728.03125, :x2 815.3411254882812, :y2 743.03125, :width 897.6, :height 1161.6000000000001} {:x1 464.65625, :y1 743.375, :x2 815.3358764648438, :y2 758.375, :width 897.6, :height 1161.6000000000001} {:x1 464.65625, :y1 758.71875, :x2 576.1484375, :y2 773.71875, :width 897.6, :height 1161.6000000000001} {:x1 0, :y1 1582, :x2 0, :y2 1601.5, :width 897.6, :height 1161.6000000000001} {:x1 0, :y1 1598, :x2 0, :y2 1617.5, :width 897.6, :height 1161.6000000000001}), :page 3}, :content {:text " correctly determine the output of a piece of code by performing a code trace (i.e. multistructural answers)"}, :properties {:color "green"}} {:id #uuid "64011066-aca6-4c3d-9ae7-de92ca11d82f", :page 3, :position {:bounding {:x1 0, :y1 758.71875, :x2 815.3510131835938, :y2 1649.5, :width 897.6, :height 1161.6000000000001}, :rects ({:x1 690.604736328125, :y1 758.71875, :x2 815.3414306640625, :y2 773.71875, :width 897.6, :height 1161.6000000000001} {:x1 464.65625, :y1 774.0625, :x2 815.3510131835938, :y2 789.0625, :width 897.6, :height 1161.6000000000001} {:x1 464.65625, :y1 789.3984375, :x2 725.8572998046875, :y2 804.3984375, :width 897.6, :height 1161.6000000000001} {:x1 0, :y1 1614, :x2 0, :y2 1633.5, :width 897.6, :height 1161.6000000000001} {:x1 0, :y1 1630, :x2 0, :y2 1649.5, :width 897.6, :height 1161.6000000000001}), :page 3}, :content {:text "abstracted the meaning and could describe the purpose of a code segment in more general terms (i.e. relational answers)"}, :properties {:color "green"}} {:id #uuid "6401123a-b77d-4a3c-a814-6d186d27d51f", :page 2, :position {:bounding {:x1 0, :y1 110, :x2 439.72607421875, :y2 504.4921875, :width 915, :height 1184.1176470588236}, :rects ({:x1 0, :y1 110, :x2 0, :y2 129.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 126, :x2 0, :y2 145.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 142, :x2 0, :y2 161.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 158, :x2 0, :y2 177.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 174, :x2 0, :y2 193.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 190, :x2 0, :y2 209.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 206, :x2 0, :y2 225.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 222, :x2 0, :y2 241.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 238, :x2 0, :y2 257.5, :width 915, :height 1184.1176470588236} {:x1 0, :y1 254, :x2 0, :y2 273.5, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 332.59375, :x2 439.72607421875, :y2 348.09375, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 348.234375, :x2 438.0495300292969, :y2 363.734375, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 363.875, :x2 438.037841796875, :y2 379.375, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 379.515625, :x2 438.0438232421875, :y2 395.015625, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 395.15625, :x2 437.931396484375, :y2 410.65625, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 410.796875, :x2 438.0444641113281, :y2 426.296875, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 426.4375, :x2 437.936279296875, :y2 441.9375, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 442.0703125, :x2 438.03887939453125, :y2 457.5703125, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 457.7109375, :x2 438.03424072265625, :y2 473.2109375, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 473.3515625, :x2 438.033447265625, :y2 488.8515625, :width 915, :height 1184.1176470588236} {:x1 80.4296875, :y1 488.9921875, :x2 388.87255859375, :y2 504.4921875, :width 915, :height 1184.1176470588236}), :page 2}, :content {:text "The orthodox view that “programming is difficult to learn” leads to uncritical teaching practices and poor student outcomes. It may also impact negatively on diversity and equity within the Computer Science discipline. But learning to program is easy — so easy that children can do it. We make our introductory courses difficult by establishing unrealistic expectations for novice programming students. By revisiting the expected norms for introductory programming we may be able to substantially improve outcomes for novice programmers, address negative impressions of disciplinary practices and create a more equitable environment."}, :properties {:color "green"}} {:id #uuid "640113ed-6096-4158-b3f0-4285ac8f75d6", :page 4, :position {:bounding {:x1 0, :y1 462, :x2 365.6433410644531, :y2 558.4765625, :width 764, :height 988.7058823529412}, :rects ({:x1 0, :y1 462, :x2 0, :y2 481.5, :width 764, :height 988.7058823529412} {:x1 78.3515625, :y1 532.9140625, :x2 365.6433410644531, :y2 545.4140625, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 545.9765625, :x2 299.9109191894531, :y2 558.4765625, :width 764, :height 988.7058823529412}), :page 4}, :content {:text "Other teachers have compared learning programming to learning to write poetry in a foreign language."}, :properties {:color "purple"}} {:id #uuid "64011504-28f1-43fc-9dec-7b41286f4bb6", :page 4, :position {:bounding {:x1 0, :y1 419.3671875, :x2 693.9752807617188, :y2 1329.5, :width 764, :height 988.7058823529412}, :rects ({:x1 570.63720703125, :y1 419.3671875, :x2 693.9752807617188, :y2 431.8671875, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 432.4296875, :x2 450.88250732421875, :y2 444.9296875, :width 764, :height 988.7058823529412} {:x1 0, :y1 1310, :x2 0, :y2 1329.5, :width 764, :height 988.7058823529412}), :page 4}, :content {:text "Learning Edge Momentum theory"}, :properties {:color "blue"}} {:id #uuid "6401159b-27ba-4068-bfe3-16d7fdc4a803", :page 4, :position {:bounding {:x1 0, :y1 458.546875, :x2 693.9900512695312, :y2 1441.5, :width 764, :height 988.7058823529412}, :rects ({:x1 521.6298217773438, :y1 458.546875, :x2 693.9862060546875, :y2 471.046875, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 471.6015625, :x2 693.9805908203125, :y2 484.1015625, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 484.6640625, :x2 693.9776611328125, :y2 497.1640625, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 497.71875, :x2 693.9811401367188, :y2 510.21875, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 510.78125, :x2 693.9900512695312, :y2 523.28125, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 523.8359375, :x2 458.42144775390625, :y2 536.3359375, :width 764, :height 988.7058823529412} {:x1 0, :y1 1358, :x2 0, :y2 1377.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1374, :x2 0, :y2 1393.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1390, :x2 0, :y2 1409.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1406, :x2 0, :y2 1425.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1422, :x2 0, :y2 1441.5, :width 764, :height 988.7058823529412}), :page 4}, :content {:text "It is unclear whether or not programming concepts are more inter-related than other subjects that do not typically have binomial grade distributions. However, a study of exam questions by Petersen et al. [24] indicated that the exam questions used in CS1 were highly inter-related,"}, :properties {:color "purple"}} {:id #uuid "640115ed-60d9-4ed7-9087-05b4e373dce1", :page 4, :position {:bounding {:x1 0, :y1 563.015625, :x2 693.9788818359375, :y2 1569.5, :width 764, :height 988.7058823529412}, :rects ({:x1 593.7838134765625, :y1 563.015625, :x2 693.9783935546875, :y2 575.515625, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 576.078125, :x2 693.972900390625, :y2 588.578125, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 589.1328125, :x2 693.9788818359375, :y2 601.6328125, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 602.1953125, :x2 693.9752197265625, :y2 614.6953125, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 615.25, :x2 693.9769287109375, :y2 627.75, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 628.3125, :x2 489.9534912109375, :y2 640.8125, :width 764, :height 988.7058823529412} {:x1 0, :y1 1486, :x2 0, :y2 1505.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1502, :x2 0, :y2 1521.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1518, :x2 0, :y2 1537.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1534, :x2 0, :y2 1553.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1550, :x2 0, :y2 1569.5, :width 764, :height 988.7058823529412}), :page 4}, :content {:text "It is not necessarily the case that programming concepts are densely intertwined, but rather, our assessment instruments consist of questions that are densely intertwined and do not give students the opportunity to show which concepts they understand and which they do not."}, :properties {:color "purple"}} {:id #uuid "6401161a-1769-4c4f-afa7-cae5ab76e486", :page 4, :position {:bounding {:x1 0, :y1 216.3984375, :x2 693.9959716796875, :y2 1121.5, :width 764, :height 988.7058823529412}, :rects ({:x1 423.3593444824219, :y1 216.3984375, :x2 693.9761962890625, :y2 228.8984375, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 229.453125, :x2 693.9959716796875, :y2 241.953125, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 242.515625, :x2 612.2346801757812, :y2 255.015625, :width 764, :height 988.7058823529412} {:x1 0, :y1 1086, :x2 0, :y2 1105.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1102, :x2 0, :y2 1121.5, :width 764, :height 988.7058823529412}), :page 4}, :content {:text "programming educators are systemically underestimating the cognitive difficulty of their instruments for assessing programming skills of novice programmers."}, :properties {:color "green"}} {:id #uuid "640116ff-78d5-40ad-a8cb-47aa92446dfa", :page 5, :position {:bounding {:x1 0, :y1 206, :x2 365.65234375, :y2 317.1953125, :width 764, :height 988.7058823529412}, :rects ({:x1 0, :y1 206, :x2 0, :y2 225.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 222, :x2 0, :y2 241.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 238, :x2 0, :y2 257.5, :width 764, :height 988.7058823529412} {:x1 158.640625, :y1 239.40625, :x2 365.6412048339844, :y2 251.90625, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 252.4609375, :x2 365.6329650878906, :y2 264.9609375, :width 764, :height 988.7058823529412} {:x1 0, :y1 254, :x2 0, :y2 273.5, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 265.5234375, :x2 365.6361999511719, :y2 278.0234375, :width 764, :height 988.7058823529412} {:x1 0, :y1 270, :x2 0, :y2 289.5, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 278.578125, :x2 365.6439208984375, :y2 291.078125, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 291.640625, :x2 365.65234375, :y2 304.140625, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 304.6953125, :x2 300.62841796875, :y2 317.1953125, :width 764, :height 988.7058823529412}), :page 5}, :content {:text "This is almost certainly a problem with the assessment of novice programming skills, derived from a mismatch between the progress that a novice programmer can realistically make in a single course and the established norms of expectation for what we think novice programmers should be able to achieve after a single course."}, :properties {:color "green"}} {:id #uuid "64011929-4a2d-48a8-adf6-bb9b23e56642", :page 5, :position {:bounding {:x1 67.15625, :y1 539.3828125, :x2 271.99029541015625, :y2 556.8828125, :width 764, :height 988.7058823529412}, :rects ({:x1 67.15625, :y1 539.3828125, :x2 271.99029541015625, :y2 556.8828125, :width 764, :height 988.7058823529412}), :page 5}, :content {:text "4.2 Consequences for Students"}, :properties {:color "green"}} {:id #uuid "64011a80-0231-49e4-85b8-29d13d40c352", :page 5, :position {:bounding {:x1 -0.0033470510970801115, :y1 0, :x2 764, :y2 1986, :width 764, :height 988.7058823529412}, :rects ({:x1 0, :y1 0, :x2 0, :y2 0, :width 764, :height 988.7058823529412} {:x1 657.828125, :y1 872.453125, :x2 693.9711303710938, :y2 884.953125, :width 764, :height 988.7058823529412} {:x1 395.4921875, :y1 885.5078125, :x2 693.9774780273438, :y2 898.0078125, :width 764, :height 988.7058823529412} {:x1 373.5703125, :y1 943.953125, :x2 390.4376525878906, :y2 956.953125, :width 764, :height 988.7058823529412} {:x1 0, :y1 996, :x2 0, :y2 1015.5, :width 764, :height 988.7058823529412} {:x1 -0.0033470510970801115, :y1 997.9978332519531, :x2 392.29563366179354, :y2 1080.7634582519531, :width 764, :height 988.7058823529412} {:x1 0, :y1 998, :x2 764, :y2 1986, :width 764, :height 988.7058823529412} {:x1 -0.0033449141774326563, :y1 1080.7621459960938, :x2 392.2867551834788, :y2 1093.8168334960938, :width 764, :height 988.7058823529412} {:x1 -0.0033416817896068096, :y1 1093.8252868652344, :x2 383.43583678500727, :y2 1107.5049743652344, :width 764, :height 988.7058823529412} {:x1 -0.003344891360029578, :y1 1107.5016479492188, :x2 392.3029600402806, :y2 1119.9313354492188, :width 764, :height 988.7058823529412} {:x1 0, :y1 1934, :x2 0, :y2 1953.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 1952, :x2 764, :y2 1952, :width 764, :height 988.7058823529412}), :page 5}, :content {:text "To this end, a challenge for the CS Education community is to deter-287 mine an appropriate time frame for mastery of fundamental programming concepts and establishing appropriate expectations for the end of a introductory programming course — not based on historical norms, but rather on research based evidence."}, :properties {:color "purple"}} {:id #uuid "64011a93-cf9c-4471-bf94-65f2021c91d1", :page 6, :position {:bounding {:x1 -0.0033449141774326563, :y1 -2, :x2 392.3029600402806, :y2 134.37152099609375, :width 764, :height 988.7058823529412}, :rects ({:x1 0, :y1 -2, :x2 0, :y2 17.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 14, :x2 0, :y2 33.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 30, :x2 0, :y2 49.5, :width 764, :height 988.7058823529412} {:x1 0, :y1 46, :x2 0, :y2 65.5, :width 764, :height 988.7058823529412} {:x1 67.1558609008789, :y1 69.63845825195312, :x2 365.6430130004883, :y2 82.13845825195312, :width 764, :height 988.7058823529412} {:x1 -0.0033449141774326563, :y1 82.76214599609375, :x2 392.2867551834788, :y2 95.81683349609375, :width 764, :height 988.7058823529412} {:x1 -0.0033416817896068096, :y1 95.82528686523438, :x2 383.43583678500727, :y2 109.50497436523438, :width 764, :height 988.7058823529412} {:x1 -0.003344891360029578, :y1 109.50164794921875, :x2 392.3029600402806, :y2 122.00164794921875, :width 764, :height 988.7058823529412} {:x1 67.15206146240234, :y1 121.87152099609375, :x2 112.82101440429688, :y2 134.37152099609375, :width 764, :height 988.7058823529412}), :page 6}, :content {:text "mine an appropriate time frame for mastery of fundamental programming concepts and establishing appropriate expectations for the end of a introductory programming course — not based on historical norms, but rather on research based evidence."}, :properties {:color "purple"}} {:id #uuid "64011b6b-86df-4d9e-b5c9-128ff38c67d5", :page 4, :position {:bounding {:x1 0, :y1 798, :x2 369.8099060058594, :y2 871.890625, :width 764, :height 988.7058823529412}, :rects ({:x1 0, :y1 798, :x2 0, :y2 817.5, :width 764, :height 988.7058823529412} {:x1 293.1335144042969, :y1 807.15625, :x2 365.00390625, :y2 819.65625, :width 764, :height 988.7058823529412} {:x1 0, :y1 814, :x2 0, :y2 833.5, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 820.2109375, :x2 365.64288330078125, :y2 832.7109375, :width 764, :height 988.7058823529412} {:x1 0, :y1 830, :x2 0, :y2 849.5, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 833.2734375, :x2 365.6470642089844, :y2 845.7734375, :width 764, :height 988.7058823529412} {:x1 0, :y1 846, :x2 0, :y2 865.5, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 846.328125, :x2 369.8099060058594, :y2 858.828125, :width 764, :height 988.7058823529412} {:x1 67.15625, :y1 859.390625, :x2 112.89732360839844, :y2 871.890625, :width 764, :height 988.7058823529412}), :page 4}, :content {:text "Although they are often not explicitly assessed, we also frequently expect students to acquire familiarity, if not expertise, with the systems and tools they use while programming on a given platform."}, :properties {:color "green"}}], :extra {:page 4}}
+{:highlights
+ [{:id #uuid "64011055-3d2e-42e2-ba5d-ba3364392c4b",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 728.03125,
+     :x2 815.3411254882812,
+     :y2 1617.5,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 634.0379028320312,
+      :y1 728.03125,
+      :x2 815.3411254882812,
+      :y2 743.03125,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 464.65625,
+      :y1 743.375,
+      :x2 815.3358764648438,
+      :y2 758.375,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 464.65625,
+      :y1 758.71875,
+      :x2 576.1484375,
+      :y2 773.71875,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 0,
+      :y1 1582,
+      :x2 0,
+      :y2 1601.5,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 0,
+      :y1 1598,
+      :x2 0,
+      :y2 1617.5,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 3},
+   :content
+   {:text
+    " correctly determine the output of a piece of code by performing a code trace (i.e. multistructural answers)"},
+   :properties {:color "green"}}
+  {:id #uuid "64011066-aca6-4c3d-9ae7-de92ca11d82f",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 758.71875,
+     :x2 815.3510131835938,
+     :y2 1649.5,
+     :width 897.6,
+     :height 1161.6000000000001},
+    :rects
+    ({:x1 690.604736328125,
+      :y1 758.71875,
+      :x2 815.3414306640625,
+      :y2 773.71875,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 464.65625,
+      :y1 774.0625,
+      :x2 815.3510131835938,
+      :y2 789.0625,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 464.65625,
+      :y1 789.3984375,
+      :x2 725.8572998046875,
+      :y2 804.3984375,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 0,
+      :y1 1614,
+      :x2 0,
+      :y2 1633.5,
+      :width 897.6,
+      :height 1161.6000000000001}
+     {:x1 0,
+      :y1 1630,
+      :x2 0,
+      :y2 1649.5,
+      :width 897.6,
+      :height 1161.6000000000001}),
+    :page 3},
+   :content
+   {:text
+    "abstracted the meaning and could describe the purpose of a code segment in more general terms (i.e. relational answers)"},
+   :properties {:color "green"}}
+  {:id #uuid "6401123a-b77d-4a3c-a814-6d186d27d51f",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 110,
+     :x2 439.72607421875,
+     :y2 504.4921875,
+     :width 915,
+     :height 1184.1176470588236},
+    :rects
+    ({:x1 0,
+      :y1 110,
+      :x2 0,
+      :y2 129.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 126,
+      :x2 0,
+      :y2 145.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 142,
+      :x2 0,
+      :y2 161.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 158,
+      :x2 0,
+      :y2 177.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 174,
+      :x2 0,
+      :y2 193.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 190,
+      :x2 0,
+      :y2 209.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 206,
+      :x2 0,
+      :y2 225.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 222,
+      :x2 0,
+      :y2 241.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 238,
+      :x2 0,
+      :y2 257.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 0,
+      :y1 254,
+      :x2 0,
+      :y2 273.5,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 332.59375,
+      :x2 439.72607421875,
+      :y2 348.09375,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 348.234375,
+      :x2 438.0495300292969,
+      :y2 363.734375,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 363.875,
+      :x2 438.037841796875,
+      :y2 379.375,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 379.515625,
+      :x2 438.0438232421875,
+      :y2 395.015625,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 395.15625,
+      :x2 437.931396484375,
+      :y2 410.65625,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 410.796875,
+      :x2 438.0444641113281,
+      :y2 426.296875,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 426.4375,
+      :x2 437.936279296875,
+      :y2 441.9375,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 442.0703125,
+      :x2 438.03887939453125,
+      :y2 457.5703125,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 457.7109375,
+      :x2 438.03424072265625,
+      :y2 473.2109375,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 473.3515625,
+      :x2 438.033447265625,
+      :y2 488.8515625,
+      :width 915,
+      :height 1184.1176470588236}
+     {:x1 80.4296875,
+      :y1 488.9921875,
+      :x2 388.87255859375,
+      :y2 504.4921875,
+      :width 915,
+      :height 1184.1176470588236}),
+    :page 2},
+   :content
+   {:text
+    "The orthodox view that “programming is difficult to learn” leads to uncritical teaching practices and poor student outcomes. It may also impact negatively on diversity and equity within the Computer Science discipline. But learning to program is easy — so easy that children can do it. We make our introductory courses difficult by establishing unrealistic expectations for novice programming students. By revisiting the expected norms for introductory programming we may be able to substantially improve outcomes for novice programmers, address negative impressions of disciplinary practices and create a more equitable environment."},
+   :properties {:color "green"}}
+  {:id #uuid "640113ed-6096-4158-b3f0-4285ac8f75d6",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 462,
+     :x2 365.6433410644531,
+     :y2 558.4765625,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 0,
+      :y1 462,
+      :x2 0,
+      :y2 481.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 78.3515625,
+      :y1 532.9140625,
+      :x2 365.6433410644531,
+      :y2 545.4140625,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 545.9765625,
+      :x2 299.9109191894531,
+      :y2 558.4765625,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 4},
+   :content
+   {:text
+    "Other teachers have compared learning programming to learning to write poetry in a foreign language."},
+   :properties {:color "purple"}}
+  {:id #uuid "64011504-28f1-43fc-9dec-7b41286f4bb6",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 419.3671875,
+     :x2 693.9752807617188,
+     :y2 1329.5,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 570.63720703125,
+      :y1 419.3671875,
+      :x2 693.9752807617188,
+      :y2 431.8671875,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 432.4296875,
+      :x2 450.88250732421875,
+      :y2 444.9296875,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1310,
+      :x2 0,
+      :y2 1329.5,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 4},
+   :content {:text "Learning Edge Momentum theory"},
+   :properties {:color "blue"}}
+  {:id #uuid "6401159b-27ba-4068-bfe3-16d7fdc4a803",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 458.546875,
+     :x2 693.9900512695312,
+     :y2 1441.5,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 521.6298217773438,
+      :y1 458.546875,
+      :x2 693.9862060546875,
+      :y2 471.046875,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 471.6015625,
+      :x2 693.9805908203125,
+      :y2 484.1015625,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 484.6640625,
+      :x2 693.9776611328125,
+      :y2 497.1640625,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 497.71875,
+      :x2 693.9811401367188,
+      :y2 510.21875,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 510.78125,
+      :x2 693.9900512695312,
+      :y2 523.28125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 523.8359375,
+      :x2 458.42144775390625,
+      :y2 536.3359375,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1358,
+      :x2 0,
+      :y2 1377.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1374,
+      :x2 0,
+      :y2 1393.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1390,
+      :x2 0,
+      :y2 1409.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1406,
+      :x2 0,
+      :y2 1425.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1422,
+      :x2 0,
+      :y2 1441.5,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 4},
+   :content
+   {:text
+    "It is unclear whether or not programming concepts are more inter-related than other subjects that do not typically have binomial grade distributions. However, a study of exam questions by Petersen et al. [24] indicated that the exam questions used in CS1 were highly inter-related,"},
+   :properties {:color "purple"}}
+  {:id #uuid "640115ed-60d9-4ed7-9087-05b4e373dce1",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 563.015625,
+     :x2 693.9788818359375,
+     :y2 1569.5,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 593.7838134765625,
+      :y1 563.015625,
+      :x2 693.9783935546875,
+      :y2 575.515625,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 576.078125,
+      :x2 693.972900390625,
+      :y2 588.578125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 589.1328125,
+      :x2 693.9788818359375,
+      :y2 601.6328125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 602.1953125,
+      :x2 693.9752197265625,
+      :y2 614.6953125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 615.25,
+      :x2 693.9769287109375,
+      :y2 627.75,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 628.3125,
+      :x2 489.9534912109375,
+      :y2 640.8125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1486,
+      :x2 0,
+      :y2 1505.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1502,
+      :x2 0,
+      :y2 1521.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1518,
+      :x2 0,
+      :y2 1537.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1534,
+      :x2 0,
+      :y2 1553.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1550,
+      :x2 0,
+      :y2 1569.5,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 4},
+   :content
+   {:text
+    "It is not necessarily the case that programming concepts are densely intertwined, but rather, our assessment instruments consist of questions that are densely intertwined and do not give students the opportunity to show which concepts they understand and which they do not."},
+   :properties {:color "purple"}}
+  {:id #uuid "6401161a-1769-4c4f-afa7-cae5ab76e486",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 216.3984375,
+     :x2 693.9959716796875,
+     :y2 1121.5,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 423.3593444824219,
+      :y1 216.3984375,
+      :x2 693.9761962890625,
+      :y2 228.8984375,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 229.453125,
+      :x2 693.9959716796875,
+      :y2 241.953125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 242.515625,
+      :x2 612.2346801757812,
+      :y2 255.015625,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1086,
+      :x2 0,
+      :y2 1105.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1102,
+      :x2 0,
+      :y2 1121.5,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 4},
+   :content
+   {:text
+    "programming educators are systemically underestimating the cognitive difficulty of their instruments for assessing programming skills of novice programmers."},
+   :properties {:color "green"}}
+  {:id #uuid "640116ff-78d5-40ad-a8cb-47aa92446dfa",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 206,
+     :x2 365.65234375,
+     :y2 317.1953125,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 0,
+      :y1 206,
+      :x2 0,
+      :y2 225.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 222,
+      :x2 0,
+      :y2 241.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 238,
+      :x2 0,
+      :y2 257.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 158.640625,
+      :y1 239.40625,
+      :x2 365.6412048339844,
+      :y2 251.90625,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 252.4609375,
+      :x2 365.6329650878906,
+      :y2 264.9609375,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 254,
+      :x2 0,
+      :y2 273.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 265.5234375,
+      :x2 365.6361999511719,
+      :y2 278.0234375,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 270,
+      :x2 0,
+      :y2 289.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 278.578125,
+      :x2 365.6439208984375,
+      :y2 291.078125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 291.640625,
+      :x2 365.65234375,
+      :y2 304.140625,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 304.6953125,
+      :x2 300.62841796875,
+      :y2 317.1953125,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 5},
+   :content
+   {:text
+    "This is almost certainly a problem with the assessment of novice programming skills, derived from a mismatch between the progress that a novice programmer can realistically make in a single course and the established norms of expectation for what we think novice programmers should be able to achieve after a single course."},
+   :properties {:color "green"}}
+  {:id #uuid "64011929-4a2d-48a8-adf6-bb9b23e56642",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 67.15625,
+     :y1 539.3828125,
+     :x2 271.99029541015625,
+     :y2 556.8828125,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 67.15625,
+      :y1 539.3828125,
+      :x2 271.99029541015625,
+      :y2 556.8828125,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 5},
+   :content {:text "4.2 Consequences for Students"},
+   :properties {:color "green"}}
+  {:id #uuid "64011a80-0231-49e4-85b8-29d13d40c352",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 -0.0033470510970801115,
+     :y1 0,
+     :x2 764,
+     :y2 1986,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 0,
+      :y1 0,
+      :x2 0,
+      :y2 0,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 657.828125,
+      :y1 872.453125,
+      :x2 693.9711303710938,
+      :y2 884.953125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 395.4921875,
+      :y1 885.5078125,
+      :x2 693.9774780273438,
+      :y2 898.0078125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 373.5703125,
+      :y1 943.953125,
+      :x2 390.4376525878906,
+      :y2 956.953125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 996,
+      :x2 0,
+      :y2 1015.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 -0.0033470510970801115,
+      :y1 997.9978332519531,
+      :x2 392.29563366179354,
+      :y2 1080.7634582519531,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 998,
+      :x2 764,
+      :y2 1986,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 -0.0033449141774326563,
+      :y1 1080.7621459960938,
+      :x2 392.2867551834788,
+      :y2 1093.8168334960938,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 -0.0033416817896068096,
+      :y1 1093.8252868652344,
+      :x2 383.43583678500727,
+      :y2 1107.5049743652344,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 -0.003344891360029578,
+      :y1 1107.5016479492188,
+      :x2 392.3029600402806,
+      :y2 1119.9313354492188,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1934,
+      :x2 0,
+      :y2 1953.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 1952,
+      :x2 764,
+      :y2 1952,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 5},
+   :content
+   {:text
+    "To this end, a challenge for the CS Education community is to deter-287 mine an appropriate time frame for mastery of fundamental programming concepts and establishing appropriate expectations for the end of a introductory programming course — not based on historical norms, but rather on research based evidence."},
+   :properties {:color "purple"}}
+  {:id #uuid "64011a93-cf9c-4471-bf94-65f2021c91d1",
+   :page 6,
+   :position
+   {:bounding
+    {:x1 -0.0033449141774326563,
+     :y1 -2,
+     :x2 392.3029600402806,
+     :y2 134.37152099609375,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 0,
+      :y1 -2,
+      :x2 0,
+      :y2 17.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 14,
+      :x2 0,
+      :y2 33.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 30,
+      :x2 0,
+      :y2 49.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 46,
+      :x2 0,
+      :y2 65.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.1558609008789,
+      :y1 69.63845825195312,
+      :x2 365.6430130004883,
+      :y2 82.13845825195312,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 -0.0033449141774326563,
+      :y1 82.76214599609375,
+      :x2 392.2867551834788,
+      :y2 95.81683349609375,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 -0.0033416817896068096,
+      :y1 95.82528686523438,
+      :x2 383.43583678500727,
+      :y2 109.50497436523438,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 -0.003344891360029578,
+      :y1 109.50164794921875,
+      :x2 392.3029600402806,
+      :y2 122.00164794921875,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15206146240234,
+      :y1 121.87152099609375,
+      :x2 112.82101440429688,
+      :y2 134.37152099609375,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 6},
+   :content
+   {:text
+    "mine an appropriate time frame for mastery of fundamental programming concepts and establishing appropriate expectations for the end of a introductory programming course — not based on historical norms, but rather on research based evidence."},
+   :properties {:color "purple"}}
+  {:id #uuid "64011b6b-86df-4d9e-b5c9-128ff38c67d5",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 798,
+     :x2 369.8099060058594,
+     :y2 871.890625,
+     :width 764,
+     :height 988.7058823529412},
+    :rects
+    ({:x1 0,
+      :y1 798,
+      :x2 0,
+      :y2 817.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 293.1335144042969,
+      :y1 807.15625,
+      :x2 365.00390625,
+      :y2 819.65625,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 814,
+      :x2 0,
+      :y2 833.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 820.2109375,
+      :x2 365.64288330078125,
+      :y2 832.7109375,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 830,
+      :x2 0,
+      :y2 849.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 833.2734375,
+      :x2 365.6470642089844,
+      :y2 845.7734375,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 0,
+      :y1 846,
+      :x2 0,
+      :y2 865.5,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 846.328125,
+      :x2 369.8099060058594,
+      :y2 858.828125,
+      :width 764,
+      :height 988.7058823529412}
+     {:x1 67.15625,
+      :y1 859.390625,
+      :x2 112.89732360839844,
+      :y2 871.890625,
+      :width 764,
+      :height 988.7058823529412}),
+    :page 4},
+   :content
+   {:text
+    "Although they are often not explicitly assessed, we also frequently expect students to acquire familiarity, if not expertise, with the systems and tools they use while programming on a given platform."},
+   :properties {:color "green"}}], 
+ :extra {:page 3}}

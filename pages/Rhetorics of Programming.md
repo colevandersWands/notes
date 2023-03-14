@@ -1,6 +1,7 @@
 - [[Rhetorics-First Introductory Sequence]] , [[Spiderweb Curriculum]]
 - developers vs. programmers:
 	- https://computinged.wordpress.com/2012/05/21/we-need-to-produce-far-more-software-developers-than-programmers-how-do-we-change/
+	  id:: 640b8af2-0fd2-4ea1-9aa4-0738d2806c64
 - [[Full Complexity, Max Simplicity]], [[Whole Game]], [[Spiderweb Curriculum]]
 - i wonder about the [[Rhetorics of Programming]]
 	- how can you define useful [[Rhetorical Situation]]s for different types of programming? #question
@@ -13,5 +14,6 @@
 	  id:: 6401c5cc-2dd2-48e4-99cc-3741ef1a0e96
 		- the progression of courses/modules could add layers and complexity to the RS
 		- the constraints placed by the RS would help define learning objectives -> [[Spiderweb Curriculum]]
-		- this can address issues with over-engineered learning objectives (#todo dig into up CSK8 episode references)
+		- can this address issues with over-engineered learning objectives? (#todo dig into CSK8 episode references)
+		  id:: 640b8af2-6ad7-443f-b60e-ec4477a4ecd5
 - [[Rhetorical Code Studies]]

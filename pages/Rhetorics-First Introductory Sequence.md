@@ -14,6 +14,7 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 	- is [[PRISMM]] just another pretty acronym, or could it be a useful starting point for Rhetorical curriculum design? #question
 	- are [[Large Language Models]] a boon to rhetorics-first teaching?  Rhetorics-First is [[PRISMM]]-heavy, so educators won't need to manually create all examples. and the issues surrounding LLM and other code generators (security, IP, efficiency, ...) all make great talking points.   #question
 	  id:: 640a4775-f253-4bb0-926e-d0e8a903e252
+		- not just the code that it generates, but also the chat bots? and refining code through chat?
 	- is Rhetorics-First a "future-proof" strategy in computing education? #question
 		- Even if programming as we know it is replaced with operating code generators, the [[Rhetorics of Programming]] would only be more approachable and immediate for learners as software development became more accessible.
 		- ((640b1be7-2cfc-402c-a9fd-92b8f0fb1c0b))

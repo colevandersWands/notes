@@ -9,12 +9,16 @@ tags:: narrative
 	- ---
 	- I propose 5 high-level principles that should underly all open computing education
 	  id:: 63f606ee-85f7-42d7-aba8-d572e11010f0
-		- **[(Intellectual) Honesty](https://github.com/colevandersWands/fosdem-2019#honesty)**: What is the best way to balance the [[Radical Novelty]] of computing with [Rule 6](<((31d213a3-c0b5-42a0-8a14-4c7fee04a285))>)? #question
-		- **[Agency](https://github.com/colevandersWands/fosdem-2019#honesty)**: Digital agency should be embedded into the learner & educator's experience by providing educational resources which they can realistically adapt to their circumstances.
+		- **[(Intellectual) Honesty](https://en.wikiversity.org/wiki/Intellectual_Honesty)**: What is the best way to balance the [[Radical Novelty]] of computing with [Rule 6](<((31d213a3-c0b5-42a0-8a14-4c7fee04a285))>)? #question
+		  id:: 640b8af1-a487-4842-85a9-43375a0bbc64
+		- **[Agency](https://pllc.fi.ncsu.edu/2018/02/22/learner-agency-pushing-the-boundaries-of-educational-possibilities-in-the-digital-age/)**: Digital agency should be embedded into the learner & educator's experience by providing educational resources which they can realistically adapt to their circumstances.
 		  id:: 63f61634-ea81-455e-8194-ff85e62f8b19
-		- **[Ownership](https://github.com/colevandersWands/fosdem-2019#ownership)**: Students, teachers, communities and families should feel that their education is theirs. That it covers what is needed for them to thrive in their own context, and is delivered in a mode that complements their lives. For this to be possible, educators should be able to adapt any course to fit their needs with no more technical knowledge than is necessary to teach the course.
-		- **[Integration](https://github.com/colevandersWands/fosdem-2019#integ-ration):** Computing education should build a wholistic understanding of the creative & controlling role programming plays at the center of a digital society.
-		- **[Preparation](https://github.com/colevandersWands/fosdem-2019#preparation):** Learners completing an introductory course in computing should be better prepared to take their next step in life, should that be deeper into programming or not.
+		- **[Ownership](https://www.naldic.org.uk/Resources/NALDIC/Initial%20Teacher%20Education/Documents/SocialandCulturalContext.pdf)**: Students, teachers, communities and families should feel that their education is theirs. That it covers what is needed for them to thrive in their own context, and is delivered in a mode that complements their lives. For this to be possible, educators should be able to adapt any course to fit their needs with no more technical knowledge than is necessary to teach the course.
+		  id:: 640b8af1-50c7-4660-ac87-ae2ed21f1a1e
+		- **[Integ](http://electronicbookreview.com/essay/critical-code-studies/)[ration](https://criticalcodestudies.com/):** Computing education should build a wholistic understanding of the creative & controlling role programming plays at the center of a digital society.
+		  id:: 640b8af1-f1f2-46a0-96ea-e78041795bf9
+		- **[Preparation](https://www.hv.se/globalassets/dokument/stodja/paper-theme-2-5.pdf):** Learners completing an introductory course in computing should be better prepared to take their next step in life, should that be deeper into programming or not.
+		  id:: 640b8af1-7e6d-427b-a52f-01067398242f
 	- And 5 design principles that can be used when developing open educational resources:
 		- **[[Explicitly Teach the Implicit]]**: ((6400a95d-d257-4d51-b4f9-a7282db36262))
 		- **[[Process Over Product]]**: ((6400a984-31da-4801-925e-1ceb534b20f3))

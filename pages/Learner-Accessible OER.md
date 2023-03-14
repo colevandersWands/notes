@@ -1,1 +1,5 @@
-- {{embed ((640ba9f1-4f32-4b0f-bfaf-1112f2432413))}}
+- The ultimate tier of open-source education resources is **learner-accessible open educational resources**. These are any learning materials that are not only open-source, but developed at a level that a learner could realistically understand, and modify for their context. Having all pieces of a course be student-accessible is not realistic, but striving to have as much as possible will go a long way to empowering learners & educators.
+  id:: 640baa1d-fd1c-44f6-89bf-2de5d8cdcec8
+- Materials from [[De Nepo]] are written with this standard in mind. An example is the [[Module/Welcome to JS]] and [[Study Lenses]]. The source code for Study Lenses is not student-accessible, but materials written for it are. Welcome to JS includes parsons problems, fill-in-the-blanks, worked examples, code tracing, memory visualization, dynamically generated comprehension questions, and much more. Meanwhile all the materials are student-accessible (JavaScript, Markdown, JSON) with no special syntax required.
+  id:: 8462998b-3949-4106-bb5c-46507ce1dc0f
+- [[Forkability]]

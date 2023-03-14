@@ -4,5 +4,5 @@
 	- https://github.com/colevandersWands/js-notional-machine
 	- https://github.com/colevandersWands/js-notional-machine-1
 	- https://github.com/colevandersWands/js-in-order
-		- led to -> https://github.com/DeNepo/debuggercises & https://denepo.github.io/debuggercises/ -- > content + [[Forkable]] learning environment
+		- led to -> https://github.com/DeNepo/debuggercises & https://denepo.github.io/debuggercises/ -- > content + [[Forkability]] learning environment
 			- led to -> [[Module/Inside JS]] + [[Study Lenses]]

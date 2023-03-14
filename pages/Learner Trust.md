@@ -1,6 +1,12 @@
+- meet your learners where they are to accompany them where they want to go.
+- work with/for organizations your learners already trust, then build specifically what they need one small step at a time
+	- *organizations your learners already trust* -> trying to start new organizations is slow and liable to fail (though sometimes it's the right path)
+	- *build specifically what they need* -> [[Reusability Paradox]]
+	- *one small step at a time* ->broader institutional change is slow and an uphill battle
 - Often empirically effective exercises/activities are not the most exciting, and can be counter to what a learner expects when they start learning to program (ie. reading, tracing, summarizing, ...). And the pay-offs for these methods are not as immediately tangible as "just building stuff".
 - Gaining and keeping your learner's trust is (at least) doubly important: #.ol-nested
 	- **Immediate Buy-In**: tapping into a learner's trust will help you teach more effectively when asking the learner to practice a skill who's relevance cannot be felt until later. #.ol-nested
+	  id:: 640b8af1-6b8d-46a6-83a9-a46a5e1e9c99
 	- **Opportunity Cost (2-part)**: If a learner trusts your method they will spend less time seeking out alternative materials. This will help:
 		- By not "losing" time with other materials that may be more rewarding but less effective
 		- By not learning in a way that is inconsistent with or counter to the prescribed curriculum

@@ -73,12 +73,6 @@ file-path:: ../assets/decolonising-cse-global-perspective_1678551115123_0.pdf
   hl-color:: yellow
   id:: 640cb1e7-f1f0-4df6-90ba-516c68714260
   hl-stamp:: 1678553581143
-- Beyond
-  ls-type:: annotation
-  hl-page:: 3
-  hl-color:: green
-  id:: 640cb323-1fb3-4348-8e7e-9b45323ecd9e
-  hl-stamp:: 1678554350191
 - Positioning
   ls-type:: annotation
   hl-page:: 1
@@ -106,3 +100,40 @@ file-path:: ../assets/decolonising-cse-global-perspective_1678551115123_0.pdf
   hl-page:: 2
   hl-color:: blue
   id:: 640cb4bc-258c-4703-8107-26d3f6830014
+- Nasser [21] describes how the“public butchering of non-Latin text” is a “deeply hurtful reminder to every Arabic reader that the digital world was not built for them, and that their culture is an afterthought at best
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 6410c9c6-e6b7-4efc-a55d-f8d569feaa5e
+  hl-stamp:: 1678821848691
+- Writing of Industrial Design, Torreta and Reitsma [19] argue that it “emerged from a specific nature/culture and political situation; it is therefore a situated field that echoes the worldview of where it was created”. In computing’s terms, an apparent lack of values does not mean technology is benign, rather that we have come to presume that efficiency, speed and productivity are values that match societal aspirations.
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 6410d28b-df98-4e06-89a6-636d8d437582
+- Or, is there no modernity without colonialism? [28] Te Rito’s perspective contrasts with those who say the pen was the end of a centuries-old oral tradition and the loss of mana for those who shared the stories.
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 6410d2da-d7ca-40dd-9998-0a15cf022efc
+- Yet, it would be foolish to throw the baby out with the bathwater. Even in describing the dangers of artificial intelligence that fails to account for te ao Māori, Taiuru [20] argues that “digital technologies have a key role to play in advancing solutions to complex areas affecting Māori”.
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 6410d2ef-9f21-43b9-bfae-6cb3f0039eba
+- This, he argues, is because of the link between computing and authority, and it continues today,
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 6410d4e1-1bdf-4dc7-aaef-dc2636786a9c
+- Such events fuel the legacy of distrust, but also cement the view that decolonisation is necessary, but will require significant willingness from all stakeholders.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 6410d629-579f-4661-a4df-5daa2bebb7bc
+- 3 DECOLONISING COMPUTING
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: blue
+  id:: 6410d80e-1a61-45ee-ab20-2d9cc05d3033
+  hl-stamp:: 1678825505116
