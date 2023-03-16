@@ -17,8 +17,10 @@ tags:: narrative
 	- [preparation](((640b8af1-7e6d-427b-a52f-01067398242f)))
 	- [(intellectual) honesty](((640b8af1-a487-4842-85a9-43375a0bbc64)))
 	- [[Open, Useful, Usable, Used]]
-- guiding principles for educational practice and design
+- guiding principles for instructional practice and design
 	- [[Teaching Tech Together/The Rules]]
+	- [[Time is Importance]]
+	- [[Name Things]]
 	- [[Explicitly Teach the Implicit]]
 	- [[Process Over Product]]
 	- [[Full Complexity, Max Simplicity]]

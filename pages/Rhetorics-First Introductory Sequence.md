@@ -5,6 +5,7 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 - we need to #unask what programming languages or paradigms to teach first, and instead ask "how do we teach _how_ and _why_ programming happens?".
 	- how do groups of people fund, develop, deploy and use software to create meaning and shape society?
 	- teaching the details of programming can follow naturally after setting this context.
+	- programming is the creation of meaning through collaborative writing, where the text must also be executable.
 - computing education's ["first"](((63f60cad-216a-41dd-9343-53e4640ebb3a))) could be the [[Rhetorics of Programming]], with different [[Rhetorical Situation]]s defined for different learning paths
 	- _**note**: this is not the same as [[Rhetorical Code Studies]]! I am suggesting to use Rhetorics as a framing mechanism for introductions to programming. I am not suggesting to replace introductory programming with deep-dive rhetorical analysis of software development._
 - these Rhetorical Situations could be layered into a [[Spiderweb Curriculum]].  i can imagine learning paths being described as a [[Knowledge Graph]] of rhetorical situations, where learners get to specialize not by deciding _what_ languages or technologies to learn but by deciding _where_ and _how_ they'd like to apply what they learn.
