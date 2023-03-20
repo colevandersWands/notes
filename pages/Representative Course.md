@@ -21,6 +21,7 @@
 - learners can opt in or out of experiments with full transparency and clear expectations
 	- how to account for this self-selection? #question
 	- how to handle consent? are some sorts of experiments "covered" by joining the RC in the first place, while others require specific consent? #question
+	- [[Action Research in Education: Addressing Gaps in Ethical Principles and Practices]]
 - it's not possible to be a "general representative course" because there is not such thing as a "general learning context".
 	- it would be necessary to have many RC's, one for each context you would like to study
 - RC's could be paying for learners if this is representative of your target context.  a paying RC (or parallel paid course) could help support the research

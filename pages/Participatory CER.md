@@ -1,10 +1,12 @@
 - "with" not "for"
+  id:: 640b8af2-4a25-49e8-a82f-ac3c143e8810
 - I wonder about [[Participatory CER]] (PCER)
   id:: 63f75350-4779-410a-b9f0-168cab1faf2a
 	- How do educators and learners retain ownership of their education while partnering with researchers? #question
+		- [[Action Research in Education: Addressing Gaps in Ethical Principles and Practices]]
 	- How to avoid extraction dynamics in a research-practice partnership? #question
 	- How to balance the [[Speed of Trust]] with the [[Speed of Funding]]? #question
-	- How do researchers maintain intellectual independence and integrity when partnering with practitioner partners? #question
+	- How do researchers maintain intellectual independence and integrity when partnering with practitioners? #question
 	- How to balance rigor & speed to best help learners? #question
 	- How to balance the interests of current vs. future learners when conducting “real-time” experiments? #question
 	- What is the relation between [[Participatory CER]] and [[Culturally Responsive Computing Education]]? #question

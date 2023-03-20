@@ -38,7 +38,28 @@ tags:: bibliography
 		- ((6410d2ef-9f21-43b9-bfae-6cb3f0039eba)) ... ((6410d2da-d7ca-40dd-9998-0a15cf022efc))
 		- ((6410d629-579f-4661-a4df-5daa2bebb7bc))
 		  id:: 6410d303-a5ef-4deb-8aa0-c1e9a27cd21c
-	-
+	- ((6410d80e-1a61-45ee-ab20-2d9cc05d3033))
+		- ((64146857-7527-4dd7-8c86-c0731d78dcd7))
+		- ((64146894-bb81-4215-b267-b715ac90909e))
+		- ((641468b8-5119-4efb-81d6-764e2b8a65ae))
+		- ((641468f3-1be5-4d00-9953-320b5cba319d))
+		- ((6414694e-7015-495f-90a9-decf79434f6d))
+		- ((64146a3f-4adc-4a85-b6b2-badfb0f29904))
+			- [[Matauranga Mãori]]
+		- ((64146bad-5844-49f9-af39-06ddea6ee49a)) ...
+	- ((64146bfe-dab2-4125-ba18-5b81d3184008))
+		- ((64146dea-8eb9-4d65-88b6-155bf63b128d))
+			- [[Clash of ideologies in post-colonial education systems: Convergences and divergence]]
+		- ((64146e5a-563a-49f0-8f1e-c6fa955bb2b4))
+			- sequencing and [[Time is Importance]]
+		- ((64146f04-6f19-4af5-9f08-5a22cda27f48))
+			- [[Rhetorics-First Introductory Sequence]], [[The House of Computing: Integrating Counternarratives into Computer Systems Education]]
+	- ((64146f36-acfc-4ac9-a03f-73b9dfefb568))
+		- ((64146fe3-e928-4ddc-b188-c399d8465b76))
+			- [[Participatory CER]] -> ((640b8af2-4a25-49e8-a82f-ac3c143e8810))
+		- ((64146fbd-30df-43e8-a235-16fe32caea85))
+		-
+		-
 - Mawera Karetai, Samuel Mann, Dhammika Dave Guruge, Sherlock Licorish, and Alison Clear. 2023. Decolonising Computer Science Education - A Global Perspective. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 1097–1102. https://doi.org/10.1145/3545945.3569870
 - ```
   @inproceedings{

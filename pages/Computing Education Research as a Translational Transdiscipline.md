@@ -5,6 +5,7 @@ tags:: bibliography
   In addition to the future exploration and exploitation of the presented TCER model, we propose further characterising CER as a field, applying the TCER model to understand past and con- temporary CER, applying the model to address current challenges in CER, imagining what the field can become, as well as exploring the potential for translational research programmes to maximise the broader impact of computing education research.
 - full paper: ![local copy](../assets/computing-education-research-as-a-translational-transdiscipline_1676996171116_0.pdf), [online](https://wise.vub.ac.be/sites/default/files/publications/SIGCSE_2023.pdf)
 - **Notes:**
+  collapsed:: true
 	- ((63fb3f26-fae2-470b-969b-046e4ca0c385))
 	- ((63fa2ab8-c8f0-4be2-9f55-70699bc26297))
 	- ((63fb2da1-a029-4ede-b63d-1f80d4674be4))

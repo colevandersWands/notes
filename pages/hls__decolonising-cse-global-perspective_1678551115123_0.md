@@ -136,4 +136,74 @@ file-path:: ../assets/decolonising-cse-global-perspective_1678551115123_0.pdf
   hl-page:: 4
   hl-color:: blue
   id:: 6410d80e-1a61-45ee-ab20-2d9cc05d3033
-  hl-stamp:: 1678825505116
+  hl-stamp:: 1679059058373
+- For Rashied and Bhamjee the answer is to identify a post-development ideology that enhances (or at least doesn’t sacrifice) value systems, sovereignty and diversity, and then to cultivate a digital environment to enable that.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 64146857-7527-4dd7-8c86-c0731d78dcd7
+- Tuck and Yang [34] warn us to avoid the mistake of using decolonisation as a metaphor for human rights and social justice, but demands an indigenous framework, land sovereignty and indigenous ways of thinking.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 64146894-bb81-4215-b267-b715ac90909e
+- Sherwood and Anthony [35] describe a strengths-based approach to Indigenous ethics, arguing that “Indigenous people should not be classified as a disempowered vulnerable people but as an empowered yet oppressed peoples through Western constructs situated within colonial structures”.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 641468b8-5119-4efb-81d6-764e2b8a65ae
+- Using this strengths-based approach that respects and accepts that Indigenous people are experts in their lives and knowledges, we can look to Māori successes in computing
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 641468f3-1be5-4d00-9953-320b5cba319d
+- In this framing we need to focus beyond the negative critique of constructions of cultural difference, but on the productive possibilities of the seams among differences [39]. These seams are where we need to be looking for our curriculum. 
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 6414694e-7015-495f-90a9-decf79434f6d
+- Just taking the example of Atamai Iahiko (artificial intelligence) provides many examples and guidelines of practice. One is left wondering how anyone could do AI without matauranga Māori.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 64146a3f-4adc-4a85-b6b2-badfb0f29904
+- In a small, isolated rural community, in the hills of the Bay of Plenty region of Aotearoa, a boy was afraid. 
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 64146bad-5844-49f9-af39-06ddea6ee49a
+- 4 CURRICULUM DEVELOPMENT
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 64146bfe-dab2-4125-ba18-5b81d3184008
+- In attempting to decolonise the 4th Industrial Revolution, Maringe [2] sets out high level principles for decolonising curriculum development. The second of these principles (the first is about a critical visioning process) is that “there are no cross-disciplinary hierarchies of knowledge”. Decolonisation of curriculum therefore involves collaborative knowledge creation rather than the exclusion of other forms of knowledge.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 64146dea-8eb9-4d65-88b6-155bf63b128d
+- The New Zealand re/development of the school (K12) CS curricula into two Digital Technologies and Hangarau Matahiko (DT/HM, [42, 43]) curricula is useful for scene-setting. Crucially, as a first observation, it is not a direct translation. For example, while the English version puts technical intervention first, the te reo version “begins with the Māori world and its relevance to the changing world. They must also focus on the values, skills, and technical knowledge of the world they are familiar with” [43].
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 64146e5a-563a-49f0-8f1e-c6fa955bb2b4
+- But, we argue, this would be the wrong way of looking at it. Bennett [45] uses the term “Anupholesteraphobia” the fear of not being able to cover all the material. Rather than something to cram into an already overcrowded curriculum, we can take from Bennett the approach of seeing Indigenous knowledge as the context for computing, a basis for deeper learning, or even a reason for learning
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 64146f04-6f19-4af5-9f08-5a22cda27f48
+- 5 A WAY FORWARD
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 64146f36-acfc-4ac9-a03f-73b9dfefb568
+- Writing of academic power structures, Maringe [2] argues “decolonising decoloniality provides the most formidable problem in the transformation processes”. It is about “shifting power bases from large global players...a feat nearly impossible by small local players”.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 64146fbd-30df-43e8-a235-16fe32caea85
+- This is not a conclusion, but a vision of an island over the horizon [46]. We have a clear need to decolonise the CSEd curriculum. This will improve the outcomes for Indigenous communities and for a richer computing profession. This decolonisation needs to be done by the Indigenous communities themselves led by Indigenous CS and CSEd practitioners, with assistance, where requested, from allies within the wider CSEd and CS communities.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 64146fe3-e928-4ddc-b188-c399d8465b76
