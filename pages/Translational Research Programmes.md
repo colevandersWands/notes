@@ -3,6 +3,7 @@ alias:: TRP
 - (this page is a much simpler but more visual explanation of TRPs as defined in the [[TCER Model]])
 - The [[TCER Model]] doesn't exist for academic discussion, we wrote this model to imagine how CER can come to life, become more accessible to practitioners, and more intentionally have a [[Broader Impact]] in society.  Translational Research Programmes are one way to turn the static model to a dynamic transdiscipline. By coordinating diverse research projects dealing with different aspects of the same problem over longer periods of time, TRPs can address challenges in CE that are too complex or diffuse for a single researcher or institution.
 	- To be clear, not all research in CER should be translational.  There should always be a place for curiosity-driven research with no guaranteed "pay off" in practice.
+	- TRPs could use [[Agile CER]] & [[Translational Sprints]]
 - To begin explaining TRPs, consider this (oversimplified) space of all CER knowledge on one axis, and all computing education contexts on the other.
 	- ![sigcse_presentation_tcer - beat.040.jpg](../assets/sigcse_presentation_tcer_-_beat.040_1677323073448_0.jpg)
 - You can imagine a TRP as this orange line, it will tap into all bodies of CER knowledge to impact a single computing education context

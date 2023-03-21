@@ -14,7 +14,8 @@ alias:: TCER Model
 				- perhaps extended or multiple TRPs lead to new local transdisciplines?
 				- or the emergence of local transdisciplines and associated expertise make TRPs more feasible?
 			- these transdisciplinary subdisciplines may be the focus of more open-ended funding? #question ((6418f99b-22b1-46ff-80a2-7a0c53c49eea))
-	- #todo, add future works slides from video
-		- new form: horse shoe?
+	- Phase 2 has a narrow focus on running controlled experiments to explore and validate theories.  There are more approaches for exploring and validating theories. We would like to make room for all of them in our model.
+	- consider different layouts for the diagram that better capture the spirit of TCER. this could mean a rounder or spirally diagram, or who knows?
+	- Where are the people? They never appear directly in the model.  A new draft of the TCER model/diagram could represent different stakeholders and their relationships within CER.
 - refrences
 	- [[Computing Education Research as a Translational Transdiscipline]]

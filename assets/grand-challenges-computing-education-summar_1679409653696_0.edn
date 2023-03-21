@@ -1,0 +1,84 @@
+{:highlights
+ [{:id #uuid "6419c256-44a6-4d7f-88b6-83f63a62cfa7",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 222,
+     :x2 592.9445190429688,
+     :y2 445.5078125,
+     :width 720.0000000000001,
+     :height 1017.6806722689076},
+    :rects
+    ({:x1 0,
+      :y1 222,
+      :x2 0,
+      :y2 241.5,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 0,
+      :y1 238,
+      :x2 0,
+      :y2 257.5,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 0,
+      :y1 254,
+      :x2 0,
+      :y2 273.5,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 0,
+      :y1 270,
+      :x2 0,
+      :y2 289.5,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 0,
+      :y1 286,
+      :x2 0,
+      :y2 305.5,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 137.2265625,
+      :y1 367.203125,
+      :x2 592.9404296875,
+      :y2 379.203125,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 137.2265625,
+      :y1 380.4609375,
+      :x2 592.9373779296875,
+      :y2 392.4609375,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 137.2265625,
+      :y1 393.7265625,
+      :x2 592.9445190429688,
+      :y2 405.7265625,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 137.2265625,
+      :y1 406.984375,
+      :x2 592.7261962890625,
+      :y2 418.984375,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 137.2265625,
+      :y1 420.25,
+      :x2 592.937744140625,
+      :y2 432.25,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}
+     {:x1 340.8046875,
+      :y1 433.5078125,
+      :x2 389.3531494140625,
+      :y2 445.5078125,
+      :width 720.0000000000001,
+      :height 1017.6806722689076}),
+    :page 1},
+   :content
+   {:text
+    "The conference on grand challenges, held in Newcastle on 30 and 31 March 2004, occurred at a particularly opportune time. The strand on the educational aspects was particularly relevant and the idea innovative in the sense that this was the first occasion on which a grand challenge event with a focus on educational issues in computing had taken place. This paper provides some of the background and includes a distillation of the educational challenges that emerged from that event."},
+   :properties {:color "green"}}], 
+ :extra {:page 1}}
