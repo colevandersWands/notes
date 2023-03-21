@@ -1,5 +1,7 @@
-- (this page is a much simpler but more visual explanation of TRPs as defined in the [TCER Model]([[Computing Education Research as a Translational Transdiscipline]]))
-- The TCER Model doesn't exist for academic discussion, we wrote this model to imagine how CER can come to life, become more accessible to practitioners, and more intentionally have a [[Broader Impact]] in society.  Translational Research Programmes are one way to turn the static model to a dynamic transdiscipline. By coordinating diverse research projects dealing with different aspects of the same problem over longer periods of time, TRPs can address challenges in CE that are too complex or diffuse for a single researcher or institution.
+alias:: TRP
+
+- (this page is a much simpler but more visual explanation of TRPs as defined in the [[TCER Model]])
+- The [[TCER Model]] doesn't exist for academic discussion, we wrote this model to imagine how CER can come to life, become more accessible to practitioners, and more intentionally have a [[Broader Impact]] in society.  Translational Research Programmes are one way to turn the static model to a dynamic transdiscipline. By coordinating diverse research projects dealing with different aspects of the same problem over longer periods of time, TRPs can address challenges in CE that are too complex or diffuse for a single researcher or institution.
 	- To be clear, not all research in CER should be translational.  There should always be a place for curiosity-driven research with no guaranteed "pay off" in practice.
 - To begin explaining TRPs, consider this (oversimplified) space of all CER knowledge on one axis, and all computing education contexts on the other.
 	- ![sigcse_presentation_tcer - beat.040.jpg](../assets/sigcse_presentation_tcer_-_beat.040_1677323073448_0.jpg)
@@ -14,7 +16,7 @@
 	- ![TRPs are transdisciplinary](../assets/sigcse_presentation_tcer_-_beat.042_1677259641036_0.jpg)
 -
 - While a TRP interacts with all 5 phases of TCER, the phases are not practical for _planning_ a TRP.
-	- for planning purposes [process markers]([[Evaluating Translational Research: a Process Marker Model]]) and [[Agile CER]] would be more useful
+	- for planning purposes [process markers]([[Evaluating Translational Research: a Process Marker Model]]) and [[Agile Computing Education Research]] would be more useful
 	- to plan and evaluate the [[Broader Impact]]s of a TRP, the [inclusion-immediacy criterion]([[Impacts for whom? Assessing inequalities in NSF-funded broader impacts using the Inclusion-Immediacy Criterion]]) can be helpful: ![inclusion-immediacy criterion table](../assets/inclusion-immediacy-criterion-table.png)
 - References
 	- [[Evaluating Translational Research: a Process Marker Model]]

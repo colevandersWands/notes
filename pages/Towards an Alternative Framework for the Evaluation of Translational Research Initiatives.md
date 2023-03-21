@@ -16,15 +16,15 @@ tags:: bibliography
 		- *Institutional Proximity*: norms, rules, values that influence how actors behave
 			- [[Research Methods Handbook]] ((6401fd6e-e888-463b-a852-a71b65738694))
 		- *Geographical Proximity*
-		- i wonder about Proximities
-			- how do these proximities interact with [[Trading Zones]]? #question
-			- how to address proximities in [[Participatory CER]]? #question
+		- i wonder about [[Proximities]]
+			- how do these [[Proximities]] interact with [[Trading Zones]]? #question
+			- how to address [[Proximities]] in [[Participatory Computing Education Research]]? #question
 			  id:: 6403969b-2032-4643-8a77-516b0c771772
 	- ((6403983c-a150-4b0a-ad92-26f8b4fbcd4e))
 		- *Programme Theories*: ((64039876-a410-42cd-9f4f-99a037b52776))
 	- ((64039b30-f1c1-40c6-aa57-1922c6f78aa4))
 		- ((64039c04-a257-4c6e-9a19-eb656794db9a))
-		- [[Participatory CER]], [[Trading Zones]] , {{embed ((6403968f-ac02-4684-aae4-280910abc9dc)) }}
+		- [[Participatory Computing Education Research]], [[Trading Zones]] , {{embed ((6403968f-ac02-4684-aae4-280910abc9dc)) }}
 - **Cites:**
 	- [[Evaluating Translational Research: a Process Marker Model]]
 - MOLAS-GALLART, Jordi, et al. Towards an alternative framework for the evaluation of translational research initiatives. *Research Evaluation*, 2016, 25.3: 235-243.

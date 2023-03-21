@@ -20,7 +20,7 @@ tags:: bibliography
 	- ((63fb45b3-0554-406d-871e-3be8bc92a859))
 		- [[Conceptualizing the Researcher-Theory Relation]]
 		- education "outreach" can be neo-colonialism
-		- antithesis to [[Participatory CER]]
+		- antithesis to [[Participatory Computing Education Research]]
 	- ((63fb4683-f597-45e2-a3fd-ab0a7f4821d9))
 		- the quadrant is more morally neutral than I'd first expected
 	- ((63fb4826-4bee-4330-9239-822bd194cf99))
@@ -34,9 +34,9 @@ tags:: bibliography
 		- a continuum model for categorizing the evolution of trading zones over time
 		- this figure situates a (hypothetical) emerging trading zone at different stages in it's development. it's an example for illustrative purposes only
 		- the story begins with a trading zone and ends with a new discipline: ((63fb6a56-9f77-4d3c-85fd-98df1d59b645))
-			- -> ([TCER]([[Computing Education Research as a Translational Transdiscipline]])) ((63fb69db-5e9f-45c8-962a-888acbb07b4e))
+			- -> ([[CER as a TT]]) ((63fb69db-5e9f-45c8-962a-888acbb07b4e))
 		- ((63fb6a9f-6087-4704-92f4-0de9fc77f77a))
-			- -> ([TCER]([[Computing Education Research as a Translational Transdiscipline]])) ((63fb6adc-7eef-4066-b8a3-faefff81e4d2))
+			- -> ([[CER as a TT]]) ((63fb6adc-7eef-4066-b8a3-faefff81e4d2))
 	- ((63fb6b5e-e5d5-41c7-9c75-a9bf164fa4bd))
 	- ((63fb6bc6-92b9-4a32-87da-59763b24690a))
 		- ((63f7534f-d573-4b96-a09b-ba1f6567337a))

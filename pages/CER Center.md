@@ -19,10 +19,10 @@
 		- by welcoming and supporting new generations of CE researcher
 	- promotes quality [[Broader Impact]]s & accountability in CER
 		- defined/measure by principles from CRCE & other such theories
-		- with outreach to & [participation]([[Participatory CER]]) with  practitioners, learners, industry, policy, et al.
+		- with outreach to & [participation]([[Participatory Computing Education Research]]) with  practitioners, learners, industry, policy, et al.
 	- Coordinate trans-disciplinary research efforts to develop, improve, promote, and disseminate best practices in CE.
 		- by overseeing [[Translational Research Programmes]] defined by targeted Broader Impacts
-			- possibly executed with as [[Agile CER]]
+			- possibly executed with as [[Agile Computing Education Research]]
 		- in partnership with diverse researchers & practitioners
 		- by operating and/or supporting [[Representative Course]]s
 		- coordinating funding proposals

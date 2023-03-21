@@ -4,7 +4,7 @@ tags:: bibliography
 - full book: ![local copy](../assets/Research-Methods-Handbook-1649270384_1677850406700_0.pdf), [online](https://open.library.okstate.edu/gognresearchmethods/)
 	- [slides](https://www.slideshare.net/eLearnCenter/research-methods-uoc-2013)
 - **Notes:**
-	- i am studying this book to better prepare [[Agile CER]]
+	- i am studying this book to better prepare [[Agile Computing Education Research]]
 	- ((6401fe71-5473-4b77-bd95-9da06ece67d7))
 		- ((6401f8c1-c7c5-49da-8f56-129d6767bf88))
 			- Theoretical Stance --> [[Conceptualizing the Researcher-Theory Relation]]
@@ -44,7 +44,7 @@ tags:: bibliography
 				- [[Translational Research Programmes]]
 			- ((64023114-53f3-4bd0-9806-a09114aada9d)) - could also help with [[Research-Practice Partnership]] and [[Translational Research Programmes]]
 				- 1. creation of collective glossaries
-				  2. definition of boundary objects - [[Trading Zones]]
+				  2. definition of [[Boundary Objects]] - [[Trading Zones]]
 				  3. use of combined problem- and solution- oriented approaches
 				  4. inclusion of a facilitator of inter- and trans- disicplinary research within the research team
 				  5. promotion of reflexivity by accompanying research

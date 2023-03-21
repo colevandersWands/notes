@@ -56,7 +56,7 @@ tags:: bibliography
 			- [[Rhetorics-First Introductory Sequence]], [[The House of Computing: Integrating Counternarratives into Computer Systems Education]]
 	- ((64146f36-acfc-4ac9-a03f-73b9dfefb568))
 		- ((64146fe3-e928-4ddc-b188-c399d8465b76))
-			- [[Participatory CER]] -> ((640b8af2-4a25-49e8-a82f-ac3c143e8810))
+			- [[Participatory Computing Education Research]] -> ((640b8af2-4a25-49e8-a82f-ac3c143e8810))
 		- ((64146fbd-30df-43e8-a235-16fe32caea85))
 		-
 		-

@@ -1,0 +1,5 @@
+- {{embed ((64039f5d-6e06-4163-9f0b-85c726e63b84))}}
+- references:
+	- [[Proximity and Innovation: a Critical Assessment]]
+-
+-

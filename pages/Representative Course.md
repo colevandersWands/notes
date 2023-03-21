@@ -1,6 +1,6 @@
 - (working title, derived from "representative sample")
 - any computing course participating in research and with a close [proximity]([[Proximity and Innovation: a Critical Assessment]]) to those you'd like to reach with your work.
-	- How could you measure the proximity of two courses? you would need to account for learning objectives, practical constraints, learner & educator profile, ... and different proximities would need to be weighted differently depending on the research questions.  #question [[DARE]]
+	- How could you measure the proximity of two courses? you would need to account for learning objectives, practical constraints, learner & educator profile, ... and different [[Proximities]] would need to be weighted differently depending on the research questions.  #question [[DARE]]
 	- (a lot of these ideas are inspired by my experience doing R&D work in small bootcamps)
 - A [[Representative Course]] is first and foremost a course, the quality of education must come first
 	- each learner & educator can engage with the research side of the course as much or little as they're interested/able
@@ -16,7 +16,7 @@
 - a RC is not just an extended [[Research-Practice Partnership]]
 	- I understand research-practice partnerships to be more scoped collaborations between specific researchers and practitioners
 	- while an RC is a course equipped for more general research, where a variety of overlapping and staggered research projects can take place
-- when possible RC's should practice [[Participatory CER]]. after all, as a researcher you are intervening in someone's learner
+- when possible RC's should practice [[Participatory Computing Education Research]]. after all, as a researcher you are intervening in someone's learner
 	- when not, there should be a valid experimental reason
 - learners can opt in or out of experiments with full transparency and clear expectations
 	- how to account for this self-selection? #question

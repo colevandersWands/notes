@@ -1,12 +1,12 @@
 - i wonder about [[Decolonizing CE]]
 	- ((640caaf3-ca94-4701-97b0-e54a356162bc))
-	- would [[Agile CER]] be helpful? #question
-		- i can see it going either way (or both, or neither): the model is imagined for [[Participatory CER]] and unexpected directions, but it is also inspired by a very specific culture (agile software development)
+	- would [[Agile Computing Education Research]] be helpful? #question
+		- i can see it going either way (or both, or neither): the model is imagined for [[Participatory Computing Education Research]] and unexpected directions, but it is also inspired by a very specific culture (agile software development)
 	- would the [[Own-able Code School]] be helpful? #question
 		- it is premised on peer learning and [[Learner-Accessible OER]], so even if it's not ideal as-is hopefully it gives learners the agency to adapt as they need
 		- ((640cadc2-9fc8-4812-b725-39ae07f22f73))
 	- how can [[Representative Course]]s be run to support decolonization?  they're a slippery slope.  #question
-	- do [[Trading Zones]] and [proximities]([[Proximity and Innovation: a Critical Assessment]]) have anything to offer? #question
+	- do [[Trading Zones]] and [[Proximities]] have anything to offer? #question
 	-
 - references
 	- [[Decolonising Computer Science Education: A Global Perspective]]

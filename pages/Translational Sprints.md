@@ -1,5 +1,5 @@
 - ## Abstract
-	- Translational Sprints (TSs) are a work-in-progress model for delivering rapid and affordable improvements to a curriculum in [participation]([[Participatory CER]]) with learners and educators. This model arose in response to questions such as:
+	- Translational Sprints (TSs) are a work-in-progress model for delivering rapid and affordable improvements to a curriculum in [participation]([[Participatory Computing Education Research]]) with learners and educators. This model arose in response to questions such as:
 		- {{embed ((63f75350-4779-410a-b9f0-168cab1faf2a))}}
 	- Translational Sprints apply qualitative, quantitative and design methodologies across 6 different stages:
 		- 0. Relationship & Trust: get acquainted and establish expectations for culture, power and trust.

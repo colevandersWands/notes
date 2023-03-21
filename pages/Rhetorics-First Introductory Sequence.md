@@ -24,6 +24,9 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 		- ACE expects that you will not learn everything in class but will do lots of on-the-job training.
 		- by defining ACE courses with a rhetorical situation you can spend (relatively) little time in the classroom preparing learners to integrate quickly on the job, where they could do most of their technical learning
 		  id:: 640a4abb-d665-4571-a09f-0f7e5a71fa1a
+	- would a rhetorics-first introductory sequence count as a transdisciplinary merging of ethics and computing? -> [[Integrating Ethics into Computer Science Education: Multi-, Inter-, and Transdisciplinary Approaches]] #question
+	  id:: 641906bb-6313-4add-91b1-3ba237fd4d30
+		- ((641922cc-5219-446c-971b-809e642874e6)) ...
 	- what could be adapted from literary education to help learners understand programs in a R-F curriculum? ie. text analysis strategies, critical lenses, ... #question
 		- [[Study Lenses/Ask Me]]
 	- would focusing on the [[Rhetorics of Programming]] productively "fill" time in the curriculum so that technical learning objectives can be spaced out to a [learnable density]([[Learning to Program is Easy]])? #question

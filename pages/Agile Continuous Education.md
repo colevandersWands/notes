@@ -1,3 +1,5 @@
+alias:: ACE
+
 - references
 	- [[Introducing Agile Continuous Education (ACE): Opportunities and Challenges]]
 		- ((6401cd40-fcc3-4e6d-ba53-3499c126fc74))
@@ -19,7 +21,7 @@
 - ACE describes the need to entwine educational sciences and practice, but what i've seen offers no clear models for how this could work. A few thoughts on how ACE could be adopted in [[Computing Education]] :
 	- [TCER]([[Computing Education Research as a Translational Transdiscipline]]) gives a conceptual framework for connecting research to practice in computing education
 	- [[Translational Research Programmes]] help approach large, seemingly untractable, problems
-	- [[Agile CER]] methodologies keep learners at the center and all [[CER Stakeholders]] in the loop
+	- [[Agile Computing Education Research]] methodologies keep learners at the center and all [[CER Stakeholders]] in the loop
 	- [[Translational Sprints]] provide a way to continuously and flexibly deliver rigorously-designed education
 	- micromasters in an ACE setting could be ideal venues to host [[Representative Course]]s
 - MIT's response to [[An Avalanche is Coming]]?
