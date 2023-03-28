@@ -3,12 +3,14 @@ audience:: tbd
 
 - barely an outline
 	- a societally engaged, [participatory]([[Participatory Computing Education Research]]), [translational transdiscipline]([[Translational Computing Education Research Model]]) that is (somewhat) unified by [[CERbert Problems]]
-	- there are [[CER Center]]s, that conduct [[Open Research]], coordinate [[Translational Research Programmes]] and [[Theoretical Research Programmes]], foster [[Trading Zones]]/[[Boundary Objects]], ...
-	- [[CER Center]]s support [[Representative Course]]s
+	- there are [[Computing Education Research Center]]s, that conduct [[Open Research]], coordinate [[Translational Research Programmes]] and [[Theoretical Research Programmes]], foster [[Trading Zones]]/[[Boundary Objects]], ...
+	- [[Computing Education Research Center]]s support [[Representative Course]]s
 		- by helping to coordinate and support [[Research-Practice Partnership]]s
 		- or even by hosting the [[Representative Course]] themselves
-	- There are inter- & transdisciplinary CER grad programs that prepare people to find their place in this field
-		- inspiration: [[Integrating Ethics into Computer Science Education: Multi-, Inter-, and Transdisciplinary Approaches]]
+	- help to imagine new roles for computing and new computing professions, then helping make this a reality through education
+		- [[Social Dreaming Together – Envisioning Decolonised Computer Science Education]]
+		- [[Integrating Ethics into Computer Science Education: Multi-, Inter-, and Transdisciplinary Approaches]]
+		- computing education can do more than this -> ((641f1a76-e97f-4698-8ac8-f475c90ff2f8))
 	- ... what's the story here?  now it's just a bunch of ideas
 	- [[First Principles]]
 - this may just be a big dream, but ((63f7534f-d573-4b96-a09b-ba1f6567337a))

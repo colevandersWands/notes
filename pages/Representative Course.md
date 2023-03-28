@@ -8,11 +8,11 @@
 - "Representative Course" is an adjective, not a title.  A course could temporarily be a RC if it is participating in study, or could be set up with this in mind
 - RC's are designed to be [[Trading Zones]].  They should be welcoming of any unexpected source of collaboration that stands to benefit learners.
 - RC's can be hosted many ways:
-	- a [[CER Center]] may host them as outreach and to help build community within CER
+	- a [[Computing Education Research Center]] may host them as outreach and to help build community within CER
 	- [[Translational Research Programmes]] may host them for longitudinal studies, especially helpful for #phase/2 #phase/4
 	- they may be hosted elsewhere, perhaps by a school, with additional support from researchers
 - the research coordinator(s) should handle the infrastructure for data collection and analysis.  contributing should be minimal extra effort for educators
-	- a "permanent" RC run by a [[CER Center]] or other organization could even have experimental support integrated in it's physical and digital infrastructure
+	- a "permanent" RC run by a [[Computing Education Research Center]] or other organization could even have experimental support integrated in it's physical and digital infrastructure
 - a RC is not just an extended [[Research-Practice Partnership]]
 	- I understand research-practice partnerships to be more scoped collaborations between specific researchers and practitioners
 	- while an RC is a course equipped for more general research, where a variety of overlapping and staggered research projects can take place

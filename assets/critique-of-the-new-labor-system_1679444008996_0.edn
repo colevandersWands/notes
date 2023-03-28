@@ -1,0 +1,458 @@
+{:highlights
+ [{:id #uuid "641a48f8-972f-4306-a563-7c93c86ea1cf",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 14,
+     :x2 633.8135986328125,
+     :y2 584.0703125,
+     :width 719.9999999999999,
+     :height 931.7647058823528},
+    :rects
+    ({:x1 0,
+      :y1 14,
+      :x2 0,
+      :y2 33.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 30,
+      :x2 0,
+      :y2 49.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 46,
+      :x2 0,
+      :y2 65.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 62,
+      :x2 0,
+      :y2 81.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 78,
+      :x2 0,
+      :y2 97.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 94,
+      :x2 0,
+      :y2 113.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 110,
+      :x2 0,
+      :y2 129.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 126,
+      :x2 0,
+      :y2 145.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 142,
+      :x2 0,
+      :y2 161.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 158,
+      :x2 0,
+      :y2 177.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 174,
+      :x2 0,
+      :y2 193.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 395.9375,
+      :x2 626.284912109375,
+      :y2 410.9375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 411.75,
+      :x2 626.8261108398438,
+      :y2 426.75,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 427.5625,
+      :x2 592.26220703125,
+      :y2 442.5625,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 443.3984375,
+      :x2 616.5083618164062,
+      :y2 458.3984375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 458.9296875,
+      :x2 619.7548217773438,
+      :y2 473.9296875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 474.7421875,
+      :x2 627.0093383789062,
+      :y2 489.7421875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 490.5546875,
+      :x2 587.830322265625,
+      :y2 505.5546875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 506.078125,
+      :x2 633.8135986328125,
+      :y2 521.078125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 521.890625,
+      :x2 628.0601806640625,
+      :y2 536.890625,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 537.7265625,
+      :x2 622.4044189453125,
+      :y2 552.7265625,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 553.2578125,
+      :x2 608.3463745117188,
+      :y2 568.2578125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 569.0703125,
+      :x2 369.26959228515625,
+      :y2 584.0703125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}),
+    :page 1},
+   :content
+   {:text
+    "There are sustained international efforts to increase the number and percentage of people of color who pursue STEM education and careers. These initiatives are most widely justified as means to provide human capital for technology companies. Particularly for women of color (African American, Native American, Latinx) in the US, far too many digital inclusion endeavors entrench women of color, sometimes unwittingly, in a labor system that treats them merely as commodities. As a result, women of color either avoid lives in computing or leave them. To display and critique some of the aspects of this phenomenon, we discuss it in comparison to the labor system of sharecropping in the southern US after the Civil War. We challenge those who fund, design, implement, and evaluate efforts at diversity and inclusion to see women of color not as commodities, but as agents with interests in social and economic emancipation and autonomy."},
+   :properties {:color "green"}}
+  {:id #uuid "641a4b43-3ebd-485d-8eae-2273ea27e335",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 14,
+     :x2 623.0335693359375,
+     :y2 707.2109375,
+     :width 719.9999999999999,
+     :height 931.7647058823528},
+    :rects
+    ({:x1 0,
+      :y1 14,
+      :x2 0,
+      :y2 33.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 30,
+      :x2 0,
+      :y2 49.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 46,
+      :x2 0,
+      :y2 65.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 62,
+      :x2 0,
+      :y2 81.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 78,
+      :x2 0,
+      :y2 97.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 94,
+      :x2 0,
+      :y2 113.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 597.8671875,
+      :x2 599.8897094726562,
+      :y2 612.8671875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 613.3984375,
+      :x2 596.0964965820312,
+      :y2 628.3984375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 629.25,
+      :x2 600.9601440429688,
+      :y2 644.25,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 645.0546875,
+      :x2 623.0335693359375,
+      :y2 660.0546875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 660.5859375,
+      :x2 580.322509765625,
+      :y2 675.5859375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 676.3984375,
+      :x2 580.0564575195312,
+      :y2 691.3984375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 692.2109375,
+      :x2 363.8937683105469,
+      :y2 707.2109375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}),
+    :page 2},
+   :content
+   {:text
+    "Data like these have ignited a swell of initiatives to provide girls and women of color the technical skills to enter and persist in computer science. Hundreds of millions of government and non-profit dollars have been spent supporting such programs. The most widely accepted justification for this response stems not from social justice arguments, but from the global need for human capital for the information technology industry (Popat and Starkey, 2019).3 This reasoning provides occasion for pause and reflection."},
+   :properties {:color "green"}}
+  {:id #uuid "641a4c5f-6b87-4c78-8a69-699d8fa62fcb",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 78,
+     :x2 628.6702270507812,
+     :y2 793.0703125,
+     :width 719.9999999999999,
+     :height 931.7647058823528},
+    :rects
+    ({:x1 0,
+      :y1 78,
+      :x2 0,
+      :y2 97.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 94,
+      :x2 0,
+      :y2 113.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 110,
+      :x2 0,
+      :y2 129.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 126,
+      :x2 0,
+      :y2 145.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 142,
+      :x2 0,
+      :y2 161.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 340.3849792480469,
+      :y1 699.2734375,
+      :x2 628.6702270507812,
+      :y2 714.2734375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 715.078125,
+      :x2 577.477294921875,
+      :y2 730.078125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 730.9140625,
+      :x2 595.6970825195312,
+      :y2 745.9140625,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 746.4453125,
+      :x2 627.289794921875,
+      :y2 761.4453125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 762.2578125,
+      :x2 582.5504150390625,
+      :y2 777.2578125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 778.0703125,
+      :x2 142.8253173828125,
+      :y2 793.0703125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}),
+    :page 3},
+   :content
+   {:text
+    "We highlight three aspects of sharecropping from the southern US context: semblance of desirability, constraints due to unquenchable debt, and differential effects. When relying solely on national or global economic justifications for diversity, efforts to broaden participation in STEM among people of color, and especially girls/women of color, can foster these features."},
+   :properties {:color "green"}}
+  {:id #uuid "641a4d32-a6a5-438e-93cb-fdc57a26b965",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 84.7265625,
+     :y1 431.796875,
+     :x2 620.3824462890625,
+     :y2 446.796875,
+     :width 719.9999999999999,
+     :height 931.7647058823528},
+    :rects
+    ({:x1 84.7265625,
+      :y1 431.796875,
+      :x2 620.3824462890625,
+      :y2 446.796875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}),
+    :page 4},
+   :content
+   {:text
+    "And program curricula often focus on mastering in-demand and employable skills."},
+   :properties {:color "green"}}
+  {:id #uuid "641a4eb8-c711-48f1-b5c0-16f969dc735d",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 30,
+     :x2 623.9254150390625,
+     :y2 619.9296875,
+     :width 719.9999999999999,
+     :height 931.7647058823528},
+    :rects
+    ({:x1 0,
+      :y1 30,
+      :x2 0,
+      :y2 49.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 46,
+      :x2 0,
+      :y2 65.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 278.8753356933594,
+      :y1 573.3046875,
+      :x2 623.9254150390625,
+      :y2 588.3046875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 589.1171875,
+      :x2 555.0858764648438,
+      :y2 604.1171875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 604.9296875,
+      :x2 562.6768188476562,
+      :y2 619.9296875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}),
+    :page 4},
+   :content
+   {:text
+    "Coding programs often measure their success by how well they help participants accomplish short-term goals like mastering a programming language, learning a tool, or applying for higher education."},
+   :properties {:color "green"}}
+  {:id #uuid "641a5026-8b3d-4e5b-9094-70260f7f3023",
+   :page 6,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 14,
+     :x2 613.4846801757812,
+     :y2 478.4453125,
+     :width 719.9999999999999,
+     :height 931.7647058823528},
+    :rects
+    ({:x1 0,
+      :y1 14,
+      :x2 0,
+      :y2 33.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 30,
+      :x2 0,
+      :y2 49.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 46,
+      :x2 0,
+      :y2 65.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 415.984375,
+      :x2 613.4846801757812,
+      :y2 430.984375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 431.796875,
+      :x2 600.9550170898438,
+      :y2 446.796875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 447.6328125,
+      :x2 594.832275390625,
+      :y2 462.6328125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 84.7265625,
+      :y1 463.4453125,
+      :x2 310.5711975097656,
+      :y2 478.4453125,
+      :width 719.9999999999999,
+      :height 931.7647058823528}),
+    :page 6},
+   :content
+   {:text
+    "We urge those who develop, implement, fund, or evaluate efforts about diversity and inclusion in computing and STEM to consider more than just the skills they impart. They should also examine the labor systems into which those with the newly minted capacities will enter. "},
+   :properties {:color "green"}}], 
+ :extra {:page 6}}

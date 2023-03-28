@@ -52,3 +52,9 @@ file-path:: ../assets/computing-education-research-as-a-translational-transdisci
   hl-page:: 2
   hl-color:: green
   id:: 6401cecd-93cf-4790-a11e-b4af3af67eb4
+- Non-Academic R&D Partners: Ideally a TRP involves the entities it would like to impact. If not possible, stand-ins with similar constraints are acceptable.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 641c9d9b-7184-43f1-8d95-bb0d7d9d118c
+  hl-stamp:: 1679596962490

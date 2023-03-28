@@ -906,5 +906,51 @@
    :content
    {:text
     "A field as broad as CER has a wide range of stakeholders with varying roles. Inspired by the immediacy axis of the InclusionImmediacy Criterion (IIC) described by Woodson [ 58], we first define three broad categories of CER stakeholders:• Intrinsic Stakeholders: Anyone directly contributing to bodies of knowledge in CER.• Direct Stakeholders: Anyone directly benefiting from the outputs of CER.• Extrinsic Stakeholders: Anyone indirectly benefiting from progress in CER."},
-   :properties {:color "green"}}], 
- :extra {:page 4}}
+   :properties {:color "green"}}
+  {:id #uuid "641c9d9b-7184-43f1-8d95-bb0d7d9d118c",
+   :page 6,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 142,
+     :x2 347.4431457519531,
+     :y2 249.6796875,
+     :width 719.9999999999999,
+     :height 931.7647058823528},
+    :rects
+    ({:x1 0,
+      :y1 142,
+      :x2 0,
+      :y2 161.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 0,
+      :y1 158,
+      :x2 0,
+      :y2 177.5,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 92.00370788574219,
+      :y1 211.8984375,
+      :x2 347.4431457519531,
+      :y2 223.8984375,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 92.0078125,
+      :y1 224.7890625,
+      :x2 346.0636901855469,
+      :y2 236.7890625,
+      :width 719.9999999999999,
+      :height 931.7647058823528}
+     {:x1 92.0078125,
+      :y1 237.6796875,
+      :x2 237.9397735595703,
+      :y2 249.6796875,
+      :width 719.9999999999999,
+      :height 931.7647058823528}),
+    :page 6},
+   :content
+   {:text
+    "Non-Academic R&D Partners: Ideally a TRP involves the entities it would like to impact. If not possible, stand-ins with similar constraints are acceptable."},
+   :properties {:color "red"}}], 
+ :extra {:page 6}}

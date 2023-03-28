@@ -31,4 +31,10 @@ tags:: narrative
 		- Reading or listening to lots of english is not easy for everyone. Depending on your goals, you may need to eventually use english with programming. But that doesn't mean it's helpful to combine both objectives (english & programming) at the beginning.
 		- How does this relate to [[PRIMM]] or [[PRISMM]] ?
 	- can [[Large Language Models]] and other code generators be combined with [[Study Lenses]] to generate tailored curricula? #question [[Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula]]
-- a rough [[TPACK]] analysis of [[Study Lenses]] implemented as a client/server for web dev: ![study-lenses-tpack.svg](../assets/study-lenses-tpack_1677768353671_0.svg)
+	- how does study lenses compare to other things out there? and in which ways? #question
+		- https://www.codespec.org/ ([paper](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICER2022V2/6/da576267-ed8d-11ec-a76e-16bb50361d1f/OUT/icer2022v2-6.pdf)): same challenge, different exercise type (pseudo -> parsons -> faded parsons -> fix bugs -> write code).  
+		  id:: 641a5554-5ba6-4331-8dc6-ad12254e8d82
+			- is codespec a [[Spiral Curriculum]]? #question
+			  id:: 641b1ef8-5cf5-46ec-93ab-923b7fb99ff1
+		- https://futurecoder.io/: several run options available (console, snoop, Python Tutor, birsdeye)
+-

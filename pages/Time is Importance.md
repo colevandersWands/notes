@@ -1,0 +1,6 @@
+- one of the strongest tools I've found when designing a curriculum is time.  making time for something in the curriculum sends the implicit message that it's important, it is not easy to learn, and there will
+- this is hard though, because time is also the tightest resource.  but less can be more.
+	- (do as I say, not as a I do ;)
+	- ((6419d03b-2c7f-43c5-b7fd-02ef9dde4bf9))
+	- does covering less material but with more selectivity, and more time per topic lead to better outcomes in the long term? Or is there a real value in superficially covering more topics? #question
+	-

@@ -1,8 +1,10 @@
+alias:: CERC
+
 - ![cer-center.svg](../assets/cer-center_1678041981960_0.svg)
 -
 - a CER Center:
 	- -> believes in plurality of truth and ownership
-	- -> conceives of [[CER]] as a [translational transdiscipline]([[Computing Education Research as a Translational Transdiscipline]])
+	- -> conceives of [[CER]] as a [translational transdiscipline]([[Translational Computing Education Research Model]])
 	- is a digital culture and community center
 		- transformational progress comes from [[Radical Novelty]]
 		- which comes from perspectives you do not already hold -> [[Trading Zones]],
@@ -28,8 +30,11 @@
 		- coordinating funding proposals
 		- through involvement with open / community projects like [CodeYourFuture](https://codeyourfuture.io/) or [[De Nepo]]
 	- engages in advocacy and outreach as appropriate
+- i wonder about [[Computing Education Research Center]]s
+	- would they be best focused on one context, like the raspberry pi foundation? #question
+	- ((641b1d7f-cafb-4280-a9ed-78a2e7d4da58))
 -
 - possible inspirations
-	- https://mitili.mit.edu/
 	- https://computingeducationresearch.org/
+	- https://mitili.mit.edu/
 	- https://santafe.edu/ ?

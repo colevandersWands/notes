@@ -53,6 +53,8 @@ tags:: bibliography
 		- ((64146e5a-563a-49f0-8f1e-c6fa955bb2b4))
 			- sequencing and [[Time is Importance]]
 		- ((64146f04-6f19-4af5-9f08-5a22cda27f48))
+			- **Anupholesteraphobia:** The fear of not being able to cover all the material.
+			  id:: 6419d03b-2c7f-43c5-b7fd-02ef9dde4bf9
 			- [[Rhetorics-First Introductory Sequence]], [[The House of Computing: Integrating Counternarratives into Computer Systems Education]]
 	- ((64146f36-acfc-4ac9-a03f-73b9dfefb568))
 		- ((64146fe3-e928-4ddc-b188-c399d8465b76))

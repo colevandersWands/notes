@@ -6,8 +6,11 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 	- how do groups of people fund, develop, deploy and use software to create meaning and shape society?
 	- teaching the details of programming can follow naturally after setting this context.
 	- programming is the creation of meaning through collaborative writing, where the text must also be executable.
-- computing education's ["first"](((63f60cad-216a-41dd-9343-53e4640ebb3a))) could be the [[Rhetorics of Programming]], with different [[Rhetorical Situation]]s defined for different learning paths
 	- _**note**: this is not the same as [[Rhetorical Code Studies]]! I am suggesting to use Rhetorics as a framing mechanism for introductions to programming. I am not suggesting to replace introductory programming with deep-dive rhetorical analysis of software development._
+	-
+- [What is programming anyway?]([[Module/Welcome to JS/1. What Is Programming]])
+-
+- Computing education's ["first"](((63f60cad-216a-41dd-9343-53e4640ebb3a))) could be the [[Rhetorics of Programming]], with different [[Rhetorical Situation]]s defined for different learning paths.
 - these Rhetorical Situations could be layered into a [[Spiderweb Curriculum]].  i can imagine learning paths being described as a [[Knowledge Graph]] of rhetorical situations, where learners get to specialize not by deciding _what_ languages or technologies to learn but by deciding _where_ and _how_ they'd like to apply what they learn.
 	- this approach could make it easier to approach the "CS0"/"programming for non-majors"/"programming in X discipline" question by providing one introductory class that sets the stage for a wide variety of paths: CS, software development, [[Conversational Programmers]], ...
 	- [[Integrating Ethics into Introductory Programming Classes]] becomes natural, a Rhetorical Situation prioritizes bigger questions over technical details

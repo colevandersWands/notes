@@ -1,9 +1,1 @@
-- programs as learnable(?) computer UIs
-  id:: 6401c5cc-ef60-40d6-b377-b153675ee767
-	- High-level programming languages like JavaScript are a compromise between how people think and how a computer works. Programming languages are not always easy for people to learn but they're definitely easier than directly telling a computer what to do (writing 1's and 0's).
-	- Because humans are so much better at learning and understanding than computers are (for now), programming languages have been designed to leave all the hard work for us. It's our job to make sure our instructions for the computer are perfectly structured and do exactly what we want. The computer just _*parses*_ (interprets) our code and follows the instructions without any understanding or thinking.
-	- You can think of a programing language as the developer's UI for the computer. Because this UI isn't very intuitive it helps to spend a lot of time studying syntax and other details before writing.
-		- This is why it helps to focus on _*understanding*_ programs before writing them? #question [[PRIMM]]
-	- [[Learnable Programming]] said it best:
-		- {{embed ((63fe150f-e253-4a4b-921c-8ce09ac5c995))}}
-	- Until the future when computers & programming are understandable to human thought, we're stuck with programming systems where we do the hard work of understand computers.
+- {{embed ((6422c88e-33f3-4090-86de-6616f7e23ea2))}}

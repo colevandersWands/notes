@@ -11,7 +11,7 @@ tags:: design
 	- enables the curriculum designer to guide learners through specific skill sequences while traversing the spiral
 - Proofs of Concept:
 	- [live demo](https://study-lenses-demo.onrender.com/spiral-curriculum?--defaults)
-	- [Just Enough JavaScript]([[Module/Welcome to JS/Just Enough JavaScript]])
+	- [Just Enough JavaScript]([[Module/Welcome to JS/2. Just Enough JavaScript]])
 		- actual chapters
 		  collapsed:: true
 			- 0. errors
@@ -59,6 +59,8 @@ tags:: design
 			  11. **DOM I/O**: Given a user interface (HTML+CSS) and real-time expected outputs, write code with the same behavior.   Exercises have various amounts of scaffolding including labeled goals and template code.  No code review checklist or study support are provided beyond what's available in an IDE + browser.
 			-
 			-
+- i wonder about [[Spiral Curriculum]]
+	- ((641b1ef8-5cf5-46ec-93ab-923b7fb99ff1))
 - **Citations**:
 	- the term "spiral curriculum": [nelson '21]([[Teaching and Assessing Programming Language Tracing]]), [Xie et al. '19]([[A Theory of Instruction for Introductory Programming Skills]]), [schneiderman, '77]([[Teaching Programming: A Spiral Approach to Syntax and Semantics]])
 -

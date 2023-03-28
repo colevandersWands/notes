@@ -170,5 +170,225 @@
    :content
    {:text
     "This paper investigates the relationship between learning a programming language and learning a natural language, and how this may influence the way in which text-based programming is taught in schools. To do this, I used action research to conduct an experimental study in a school in England with 60 students aged12-13 years old. A control group was taught with the exemplar materials developed for the initial study of PRIMM (Predict, Run, Investigate, Modify, Make). For the experimental group, the exemplar PRIMM materials were adapted to include additional activities used to support reading and writing in natural language education. The baseline test found no significant difference between the two groups prior to the intervention, whilst the experimental group achieved a significantly higher score than the control group in the posttest. This indicates that the inclusion of additional language-focused exercises made a positive impact on students’ learning. A focus group was also carried out to explore students’ views of learning a text-based programming language compared to a natural language. Analysis of these comments suggests that a positive view of foreign or native languages may benefit students' belief in their ability to learn a text-based programming language, whilst negative preconceptions can discourage students."},
+   :properties {:color "green"}}
+  {:id #uuid "6422d801-04a6-4424-bb58-993e6b433887",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 46,
+     :x2 453.1160888671875,
+     :y2 575.3828125,
+     :width 943,
+     :height 1220.3529411764707},
+    :rects
+    ({:x1 0,
+      :y1 46,
+      :x2 0,
+      :y2 65.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 62,
+      :x2 0,
+      :y2 81.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 78,
+      :x2 0,
+      :y2 97.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 94,
+      :x2 0,
+      :y2 113.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 110,
+      :x2 0,
+      :y2 129.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 218.765625,
+      :y1 472.234375,
+      :x2 453.1160888671875,
+      :y2 487.734375,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 489.6171875,
+      :x2 453.0413513183594,
+      :y2 505.1171875,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 507.1875,
+      :x2 453.0858154296875,
+      :y2 522.6875,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 524.75,
+      :x2 453.0081787109375,
+      :y2 540.25,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 542.3125,
+      :x2 453.03558349609375,
+      :y2 557.8125,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 559.8828125,
+      :x2 298.24493408203125,
+      :y2 575.3828125,
+      :width 943,
+      :height 1220.3529411764707}),
+    :page 2},
+   :content
+   {:text
+    "Matching exercises are a tool widely implemented by teachers when learning the meaning and form of vocabulary in native and foreign languages [19, 46]. The purpose of this method is to match a word with its definition, and this is supposed to be particularly good for learning and reviewing the lexical semantics of vocabulary [12]. "},
+   :properties {:color "green"}}
+  {:id #uuid "6422d82c-bce4-42c9-873d-5ae0b5a07221",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 126,
+     :x2 453.2073669433594,
+     :y2 715.75,
+     :width 943,
+     :height 1220.3529411764707},
+    :rects
+    ({:x1 0,
+      :y1 126,
+      :x2 0,
+      :y2 145.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 142,
+      :x2 0,
+      :y2 161.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 158,
+      :x2 0,
+      :y2 177.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 174,
+      :x2 0,
+      :y2 193.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 190,
+      :x2 0,
+      :y2 209.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 206,
+      :x2 0,
+      :y2 225.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 222,
+      :x2 0,
+      :y2 241.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 0,
+      :y1 238,
+      :x2 0,
+      :y2 257.5,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 298.23748779296875,
+      :y1 559.8828125,
+      :x2 452.379638671875,
+      :y2 575.3828125,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 577.4453125,
+      :x2 453.2073669433594,
+      :y2 592.9453125,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 595.015625,
+      :x2 453.0057067871094,
+      :y2 610.515625,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 612.578125,
+      :x2 453.01116943359375,
+      :y2 628.078125,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 629.9609375,
+      :x2 452.8421630859375,
+      :y2 645.4609375,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 647.5546875,
+      :x2 452.8880615234375,
+      :y2 663.0546875,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 665.1171875,
+      :x2 452.96893310546875,
+      :y2 680.6171875,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 682.6875,
+      :x2 452.93927001953125,
+      :y2 698.1875,
+      :width 943,
+      :height 1220.3529411764707}
+     {:x1 83.203125,
+      :y1 700.25,
+      :x2 266.265625,
+      :y2 715.75,
+      :width 943,
+      :height 1220.3529411764707}),
+    :page 2},
+   :content
+   {:text
+    "Another receptive tool that is often used with children is colour coding words based on their grammatical class [55]. The use of colours and number of categories can be applied as the instructor chooses (e.g. nouns are blue, adjectives are red, prepositions are green). Using the same colour coding system throughout the teaching material is said to help learners make connections between words, identify patterns, pay more attention to the function of words, and ultimately remember grammatical rules [4]."},
+   :properties {:color "green"}}
+  {:id #uuid "6422d93a-be38-4e61-9c17-3015e8384a02",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 101.7265625,
+     :y1 717.8203125,
+     :x2 334.97186279296875,
+     :y2 733.3203125,
+     :width 943,
+     :height 1220.3529411764707},
+    :rects
+    ({:x1 101.7265625,
+      :y1 717.8203125,
+      :x2 334.97186279296875,
+      :y2 733.3203125,
+      :width 943,
+      :height 1220.3529411764707}),
+    :page 2},
+   :content {:text "A type of activity that focuses more"},
    :properties {:color "green"}}], 
- :extra {:page 8}}
+ :extra {:page 1}}
