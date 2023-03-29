@@ -43,7 +43,7 @@ tags:: narrative
 		- *_the learner_*: this role is taken on when someone's objective is to attain the objectives of the training
 		- *_the companion_*: taken on when someone is helping another to attain a course objective, but has not yet mastered the objective themselves
 		- *_the teacher_*: taken on when someone is helping another to attain a course objective, and has mastered the object
-		- *_the overseer_*: taken on when someone is assessing and tracking others' progress through the course objectives.  an individual will often take on the role of their own or a peer's overseer
+		- *_the caretaker_*: taken on when someone is assessing and tracking others' progress through the course objectives.  an individual will often take on the role of their own or a peer's overseer
 	- It is hypothesized that for any methodology or tool to effectively reach the defined target settings, it must address each of these four roles on a more even footing and with a more similar message than is typically present in computing education resources.  All roles are taken on by engaged adults, and so a strong change in tone or medium should not be required (in contrast to ie. artifacts created for younger audiences).
 	- All actors will need a solid understanding of the same core principles of computing education, clearly and actionably stated:
 	  collapsed:: true
