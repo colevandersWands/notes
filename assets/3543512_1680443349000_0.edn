@@ -1,0 +1,1120 @@
+{:highlights
+ [{:id #uuid "642987ed-08a0-4ca4-b14e-b0493315ebff",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 62,
+     :x2 654.7456665039062,
+     :y2 300.125,
+     :width 720,
+     :height 1066.6666666666665},
+    :rects
+    ({:x1 0,
+      :y1 62,
+      :x2 0,
+      :y2 81.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 78,
+      :x2 0,
+      :y2 97.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 94,
+      :x2 0,
+      :y2 113.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 235.921875,
+      :x2 652.6715087890625,
+      :y2 251.421875,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 252.1484375,
+      :x2 654.7456665039062,
+      :y2 267.6484375,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 268.390625,
+      :x2 652.5888061523438,
+      :y2 283.890625,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 284.625,
+      :x2 194.4884033203125,
+      :y2 300.125,
+      :width 720,
+      :height 1066.6666666666665}),
+    :page 1},
+   :content
+   {:text
+    "Problem. K-12 teachers face many challenges when teaching a new subject like computer science (CS). They are often far removed from the research being conducted to identify evidence-driven solutions to these challenges. Likewise, researchers are also often removed from the challenges of classroom practices that teachers face when teaching CS."},
+   :properties {:color "green"}}
+  {:id #uuid "642987f2-620c-4b20-8250-015ff88402f6",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 126,
+     :x2 654.8349609375,
+     :y2 365.0625,
+     :width 720,
+     :height 1066.6666666666665},
+    :rects
+    ({:x1 0,
+      :y1 126,
+      :x2 0,
+      :y2 145.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 142,
+      :x2 0,
+      :y2 161.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 158,
+      :x2 0,
+      :y2 177.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 82.8203125,
+      :y1 300.8515625,
+      :x2 652.5364379882812,
+      :y2 316.3515625,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 317.09375,
+      :x2 654.8349609375,
+      :y2 332.59375,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 333.3359375,
+      :x2 652.529296875,
+      :y2 348.8359375,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 349.5625,
+      :x2 645.6270141601562,
+      :y2 365.0625,
+      :width 720,
+      :height 1066.6666666666665}),
+    :page 1},
+   :content
+   {:text
+    "Research Questions. To create a collaborative process for teachers and researchers outside of a research practice partnership, we piloted a facilitated process in which CS middle school teachers and CS education researchers collaboratively created CS teacher practice briefs. Our research question for this study was: In what ways are teachers impacted by the process of creating teacher practice briefs in collaboration with researchers?"},
+   :properties {:color "green"}}
+  {:id #uuid "642987f7-4ddb-4c75-8f3e-8cb064be2904",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 190,
+     :x2 653.0360717773438,
+     :y2 430.015625,
+     :width 720,
+     :height 1066.6666666666665},
+    :rects
+    ({:x1 0,
+      :y1 190,
+      :x2 0,
+      :y2 209.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 206,
+      :x2 0,
+      :y2 225.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 222,
+      :x2 0,
+      :y2 241.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 82.828125,
+      :y1 365.8046875,
+      :x2 653.0360717773438,
+      :y2 381.3046875,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 382.046875,
+      :x2 652.3291015625,
+      :y2 397.546875,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 398.2734375,
+      :x2 652.566650390625,
+      :y2 413.7734375,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 414.515625,
+      :x2 648.755126953125,
+      :y2 430.015625,
+      :width 720,
+      :height 1066.6666666666665}),
+    :page 1},
+   :content
+   {:text
+    "Methodology. We conducted a qualitative study, using a semi-structured interview protocol to interview five teachers and three researchers to gain an understanding of how this process impacted the participants. We used thematic content analysis to identify several subthemes across our pre-established themes: motivation for teachers to participate, impacts on teachers, perceived impacts on students, and impacts on researchers."},
+   :properties {:color "green"}}
+  {:id #uuid "642987fa-44d7-4fd8-9918-b7fda82b8b3d",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 254,
+     :x2 654.7711791992188,
+     :y2 478.71875,
+     :width 720,
+     :height 1066.6666666666665},
+    :rects
+    ({:x1 0,
+      :y1 254,
+      :x2 0,
+      :y2 273.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 270,
+      :x2 0,
+      :y2 289.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 82.828125,
+      :y1 430.75,
+      :x2 654.7711791992188,
+      :y2 446.25,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 446.9765625,
+      :x2 652.5596313476562,
+      :y2 462.4765625,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0625,
+      :y1 463.21875,
+      :x2 176.9413604736328,
+      :y2 478.71875,
+      :width 720,
+      :height 1066.6666666666665}),
+    :page 1},
+   :content
+   {:text
+    "Findings. We found that the impact on teachers mirrored impacts found on teachers who engage in Research Practice Partnerships, including increased self-efficacy, expanded professional networks, and changed classroom practices."},
+   :properties {:color "green"}}
+  {:id #uuid "642987fe-7786-4444-8574-2c569e117d35",
+   :page 1,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 302,
+     :x2 654.8224487304688,
+     :y2 576.1328125,
+     :width 720,
+     :height 1066.6666666666665},
+    :rects
+    ({:x1 0,
+      :y1 302,
+      :x2 0,
+      :y2 321.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 318,
+      :x2 0,
+      :y2 337.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 334,
+      :x2 0,
+      :y2 353.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 350,
+      :x2 0,
+      :y2 369.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 0,
+      :y1 366,
+      :x2 0,
+      :y2 385.5,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 82.828125,
+      :y1 479.4609375,
+      :x2 654.8224487304688,
+      :y2 494.9609375,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0703125,
+      :y1 495.6875,
+      :x2 652.3306884765625,
+      :y2 511.1875,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0703125,
+      :y1 511.9296875,
+      :x2 652.5836181640625,
+      :y2 527.4296875,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0703125,
+      :y1 528.171875,
+      :x2 654.5125732421875,
+      :y2 543.671875,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0703125,
+      :y1 544.3984375,
+      :x2 652.5620727539062,
+      :y2 559.8984375,
+      :width 720,
+      :height 1066.6666666666665}
+     {:x1 68.0703125,
+      :y1 560.6328125,
+      :x2 235.25550842285156,
+      :y2 576.1328125,
+      :width 720,
+      :height 1066.6666666666665}),
+    :page 1},
+   :content
+   {:text
+    "Implications. By bringing researchers and educators together with a clear focus on equity-based problems of practice in CS education, the results display a multitude of positive impacts. Teachers indicate that they are are positively impacted, researchers develop a clear understanding of realistic practices, and students are peripherally impacted through changed practices in the classroom. Therefore, the most significant contribution to advance the disciplinary understanding is the potential for this new process to decrease the gap between research and practice."},
+   :properties {:color "green"}}
+  {:id #uuid "64298ab2-e76c-4c92-9230-efe7f06f6a40",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 446,
+     :x2 734.1616821289062,
+     :y2 756.3046875,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 0,
+      :y1 446,
+      :x2 0,
+      :y2 465.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 0,
+      :y1 462,
+      :x2 0,
+      :y2 481.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 0,
+      :y1 478,
+      :x2 0,
+      :y2 497.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 92.890625,
+      :y1 677.53125,
+      :x2 733.8190307617188,
+      :y2 696.53125,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.2890625,
+      :y1 697.453125,
+      :x2 733.8788452148438,
+      :y2 716.453125,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.2890625,
+      :y1 717.3828125,
+      :x2 734.1616821289062,
+      :y2 736.3828125,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.2890625,
+      :y1 737.3046875,
+      :x2 293.3553466796875,
+      :y2 756.3046875,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 2},
+   :content
+   {:text
+    "Although RPPs have been shown to have positive impacts, RPPs are multi-year projects that can require significant resources and time commitments from all involved parties. Even when RPPs are able to receive appropriate levels of funding, the intensity and longevity of RPPs can be a barrier for practitioners to participate. "},
+   :properties {:color "green"}}
+  {:id #uuid "642c3db8-bb63-4c11-823f-9cb7e3caa093",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 93.171875,
+     :y1 491,
+     :x2 347.5235595703125,
+     :y2 510,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 93.171875,
+      :y1 491,
+      :x2 124.26376342773438,
+      :y2 510,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 139.2109375,
+      :y1 491,
+      :x2 347.5235595703125,
+      :y2 510,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 3},
+   :content {:text "2.1.1 School-University Partnerships."},
+   :properties {:color "purple"}}
+  {:id #uuid "642c3df2-efb3-4757-bf44-d13280daa0af",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 76.5703125,
+     :y1 393.7734375,
+     :x2 601.5336303710938,
+     :y2 412.7734375,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 76.5703125,
+      :y1 393.7734375,
+      :x2 99.38959503173828,
+      :y2 412.7734375,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 114.3359375,
+      :y1 393.7734375,
+      :x2 601.5336303710938,
+      :y2 412.7734375,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 3},
+   :content
+   {:text
+    "2.1 Collaborative Activities to Bridge the Researcher-Teacher Divide"},
+   :properties {:color "purple"}}
+  {:id #uuid "642c3eb7-7fec-41f6-96cb-145d5b09bac9",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 510,
+     :x2 732.6770477294922,
+     :y2 857.046875,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 0,
+      :y1 510,
+      :x2 0,
+      :y2 529.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 118.57499694824219,
+      :y1 818.109375,
+      :x2 732.6770477294922,
+      :y2 837.109375,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 117.2578125,
+      :y1 838.046875,
+      :x2 170.7828826904297,
+      :y2 857.046875,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 3},
+   :content
+   {:text
+    " A comprehensive mission that is broader in its outreach and scope than the mission of any partner "},
+   :properties {:color "green"}}
+  {:id #uuid "642c3eda-49fd-4b42-b805-ed4234c837f4",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 93.1796875,
+     :y1 1009.9921875,
+     :x2 367.41119384765625,
+     :y2 1028.9921875,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 93.1796875,
+      :y1 1009.9921875,
+      :x2 124.27938842773438,
+      :y2 1028.9921875,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 139.2265625,
+      :y1 1009.9921875,
+      :x2 367.41119384765625,
+      :y2 1028.9921875,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 3},
+   :content {:text "2.1.2 Teacher–Researcher Communities."},
+   :properties {:color "purple"}}
+  {:id #uuid "642c3f54-84dc-410d-bc36-9c7ad95e31c4",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 92.890625,
+     :y1 465.546875,
+     :x2 318.966064453125,
+     :y2 484.546875,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 92.890625,
+      :y1 465.546875,
+      :x2 123.98883056640625,
+      :y2 484.546875,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 138.921875,
+      :y1 465.546875,
+      :x2 318.966064453125,
+      :y2 484.546875,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 4},
+   :content {:text "2.1.3 Teacher as Researcher Role."},
+   :properties {:color "purple"}}
+  {:id #uuid "642c3f96-be4d-4b38-a42b-ffcb86e91278",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 366,
+     :x2 734.2492065429688,
+     :y2 663.875,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 0,
+      :y1 366,
+      :x2 0,
+      :y2 385.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 0,
+      :y1 382,
+      :x2 0,
+      :y2 401.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 0,
+      :y1 398,
+      :x2 0,
+      :y2 417.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 442.5128173828125,
+      :y1 585.1015625,
+      :x2 733.5369262695312,
+      :y2 604.1015625,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.2890625,
+      :y1 605.0234375,
+      :x2 734.2492065429688,
+      :y2 624.0234375,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.2890625,
+      :y1 624.953125,
+      :x2 733.7691040039062,
+      :y2 643.953125,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.2890625,
+      :y1 644.875,
+      :x2 481.2332763671875,
+      :y2 663.875,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 4},
+   :content
+   {:text
+    " This type of work, where a teacher takes on the role of a researcher in their classroom, mirrors what is known as action research and can be very beneficial. In general, action research is the process where participants (i.e., teachers) “examine their own educational practice systematically and carefully”"},
+   :properties {:color "green"}}
+  {:id #uuid "642c3fa9-96da-4bc8-959c-9d29bdfc0b99",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 92.890625,
+     :y1 676.9765625,
+     :x2 204.89332580566406,
+     :y2 695.9765625,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 92.890625,
+      :y1 676.9765625,
+      :x2 123.98101806640625,
+      :y2 695.9765625,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 138.9140625,
+      :y1 676.9765625,
+      :x2 204.89332580566406,
+      :y2 695.9765625,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 4},
+   :content {:text "2.1.4 Coaching."},
+   :properties {:color "purple"}}
+  {:id #uuid "642c3fc7-3b57-497e-a13c-1fd99e3e14c0",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 446,
+     :x2 736.6251831054688,
+     :y2 755.75,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 0,
+      :y1 446,
+      :x2 0,
+      :y2 465.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 0,
+      :y1 462,
+      :x2 0,
+      :y2 481.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 203.53286743164062,
+      :y1 696.8984375,
+      :x2 733.8495178222656,
+      :y2 715.8984375,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 75.7890625,
+      :y1 716.828125,
+      :x2 736.6251831054688,
+      :y2 735.828125,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.2890625,
+      :y1 736.75,
+      :x2 732.2708740234375,
+      :y2 755.75,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 4},
+   :content
+   {:text
+    "However, in literature, coaching is presented as mostly uni-directional with(1) researchers coaching teachers on instructional practices involving new curricula and pedagogical practices and (2) other more experienced teachers coaching teachers with less experience [6, 48]"},
+   :properties {:color "green"}}
+  {:id #uuid "642c3fdc-8514-4e6b-b527-07ac07cfadf8",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 76.2890625,
+     :y1 833.6015625,
+     :x2 459.4559020996094,
+     :y2 852.6015625,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 76.2890625,
+      :y1 833.6015625,
+      :x2 99.10684967041016,
+      :y2 852.6015625,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 114.0390625,
+      :y1 833.6015625,
+      :x2 459.4559020996094,
+      :y2 852.6015625,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 4},
+   :content
+   {:text "2.2 Factors that Influence Collaborations’ Success"},
+   :properties {:color "purple"}}
+  {:id #uuid "642c3ff0-faad-42e3-9d66-82739d166961",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 92.8984375,
+     :y1 970.3125,
+     :x2 270.8671875,
+     :y2 989.3125,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 92.8984375,
+      :y1 970.3125,
+      :x2 123.98883056640625,
+      :y2 989.3125,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 138.9140625,
+      :y1 970.3125,
+      :x2 270.8671875,
+      :y2 989.3125,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 4},
+   :content {:text "2.2.1 Differing Priorities. "},
+   :properties {:color "purple"}}
+  {:id #uuid "642c40a3-f5ac-449a-95a7-ca45c9ae81d4",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 93.171875,
+     :y1 134.5546875,
+     :x2 261.7308044433594,
+     :y2 153.5546875,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 93.171875,
+      :y1 134.5546875,
+      :x2 124.27157592773438,
+      :y2 153.5546875,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 139.21875,
+      :y1 134.5546875,
+      :x2 261.7308044433594,
+      :y2 153.5546875,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 5},
+   :content {:text "2.2.2 Power Imbalances."},
+   :properties {:color "purple"}}
+  {:id #uuid "642c40f6-2dca-42ef-80f1-cb07348784b9",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 46,
+     :x2 733.7894287109375,
+     :y2 213.328125,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 0,
+      :y1 46,
+      :x2 0,
+      :y2 65.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 285.0708312988281,
+      :y1 174.4140625,
+      :x2 733.7894287109375,
+      :y2 193.4140625,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.5703125,
+      :y1 194.328125,
+      :x2 495.57861328125,
+      :y2 213.328125,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 5},
+   :content
+   {:text
+    "This imbalance is often referred to as a power hierarchy and can inhibit reaching overall project goals [8, 9, 17, 23, 30, 32, 41]"},
+   :properties {:color "green"}}
+  {:id #uuid "642c41d6-cc30-42d2-9909-90c7a9dd2640",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 93.1796875,
+     :y1 428.125,
+     :x2 181.0390625,
+     :y2 447.125,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 93.1796875,
+      :y1 428.125,
+      :x2 124.26376342773438,
+      :y2 447.125,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 139.2109375,
+      :y1 428.125,
+      :x2 181.0390625,
+      :y2 447.125,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 5},
+   :content {:text "2.2.3 Trust. "},
+   :properties {:color "purple"}}
+  {:id #uuid "642c4215-594e-4762-b836-fd85a704b090",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 286,
+     :x2 736.9351196289062,
+     :y2 526.8359375,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 0,
+      :y1 286,
+      :x2 0,
+      :y2 305.5,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 314.80743408203125,
+      :y1 487.8984375,
+      :x2 736.9351196289062,
+      :y2 506.8984375,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 76.578125,
+      :y1 507.8359375,
+      :x2 576.1973266601562,
+      :y2 526.8359375,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 5},
+   :content
+   {:text
+    " Reliance on roles and responsibilities that are established upfront help ensure that proper boundaries are set and trust is maintained. "},
+   :properties {:color "green"}}
+  {:id #uuid "642c42f4-4ea4-495f-96dd-a4730cd3f00e",
+   :page 9,
+   :position
+   {:bounding
+    {:x1 130,
+     :y1 122,
+     :x2 680,
+     :y2 498,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects (),
+    :page 9},
+   :content {:text "[:span]", :image 1680622322276},
+   :properties {:color "red"}}
+  {:id #uuid "642c4313-d4bc-44df-b707-c00203d34ee2",
+   :page 8,
+   :position
+   {:bounding
+    {:x1 76.2890625,
+     :y1 506.7421875,
+     :x2 317.58154296875,
+     :y2 525.7421875,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 76.2890625,
+      :y1 506.7421875,
+      :x2 101.59375,
+      :y2 525.7421875,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 114.046875,
+      :y1 506.7421875,
+      :x2 317.58154296875,
+      :y2 525.7421875,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 8},
+   :content {:text "3.1 Research Design Overview"},
+   :properties {:color "purple"}}
+  {:id #uuid "642c4421-a81e-44a3-8228-9e43bbe5bd8b",
+   :page 11,
+   :position
+   {:bounding
+    {:x1 76.5703125,
+     :y1 724.1484375,
+     :x2 365.7153625488281,
+     :y2 743.1484375,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 76.5703125,
+      :y1 724.1484375,
+      :x2 99.39740753173828,
+      :y2 743.1484375,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 114.34375,
+      :y1 724.1484375,
+      :x2 365.7153625488281,
+      :y2 743.1484375,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 11},
+   :content {:text "3.5 Our TPB Implementation Process"},
+   :properties {:color "purple"}}
+  {:id #uuid "642c44ef-ae4d-46fd-a89f-3bf15cc327de",
+   :page 15,
+   :position
+   {:bounding
+    {:x1 93.171875,
+     :y1 642.65625,
+     :x2 281.0625,
+     :y2 661.65625,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 93.171875,
+      :y1 642.65625,
+      :x2 124.26376342773438,
+      :y2 661.65625,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 139.2109375,
+      :y1 642.65625,
+      :x2 281.0625,
+      :y2 661.65625,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 15},
+   :content {:text "4.1.2 Extrinsic Motivation. "},
+   :properties {:color "purple"}}
+  {:id #uuid "642c4672-5dd8-4e7a-bde3-c124cb66d14c",
+   :page 21,
+   :position
+   {:bounding
+    {:x1 61,
+     :y1 121,
+     :x2 748,
+     :y2 539,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects (),
+    :page 21},
+   :content {:text "[:span]", :image 1680623214681},
+   :properties {:color "red"}}
+  {:id #uuid "642c4697-0a66-4458-9520-fece0c21b353",
+   :page 21,
+   :position
+   {:bounding
+    {:x1 76.5703125,
+     :y1 691.609375,
+     :x2 486.9500732421875,
+     :y2 710.609375,
+     :width 809.9999999999999,
+     :height 1200},
+    :rects
+    ({:x1 76.5703125,
+      :y1 691.609375,
+      :x2 101.875,
+      :y2 710.609375,
+      :width 809.9999999999999,
+      :height 1200}
+     {:x1 114.34375,
+      :y1 691.609375,
+      :x2 486.9500732421875,
+      :y2 710.609375,
+      :width 809.9999999999999,
+      :height 1200}),
+    :page 21},
+   :content
+   {:text "5.1 Comparing Prior Theories and Research Findings"},
+   :properties {:color "purple"}}
+  {:id #uuid "642c4702-5753-489e-9308-8390e77656f1",
+   :page 23,
+   :position
+   {:bounding
+    {:x1 68.15625,
+     :y1 733.75,
+     :x2 347.9130859375,
+     :y2 750.25,
+     :width 721,
+     :height 1068.1481481481483},
+    :rects
+    ({:x1 68.15625,
+      :y1 733.75,
+      :x2 88.47053527832031,
+      :y2 750.25,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 101.78125,
+      :y1 733.75,
+      :x2 347.9130859375,
+      :y2 750.25,
+      :width 721,
+      :height 1068.1481481481483}),
+    :page 23},
+   :content {:text "5.2 Alternative Explanations of Findings"},
+   :properties {:color "purple"}}
+  {:id #uuid "642c4744-628d-4e2b-845e-558f11d54450",
+   :page 24,
+   :position
+   {:bounding
+    {:x1 67.8984375,
+     :y1 427.3203125,
+     :x2 379.30010986328125,
+     :y2 443.8203125,
+     :width 721,
+     :height 1068.1481481481483},
+    :rects
+    ({:x1 67.8984375,
+      :y1 427.3203125,
+      :x2 88.21920013427734,
+      :y2 443.8203125,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 101.515625,
+      :y1 427.3203125,
+      :x2 379.30010986328125,
+      :y2 443.8203125,
+      :width 721,
+      :height 1068.1481481481483}),
+    :page 24},
+   :content {:text "5.4 Types of Contributions Made by Findings"},
+   :properties {:color "purple"}}
+  {:id #uuid "642c4753-4a5a-4b78-ac02-a7c4dbea142f",
+   :page 24,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 318,
+     :x2 655.7037963867188,
+     :y2 572.4140625,
+     :width 721,
+     :height 1068.1481481481483},
+    :rects
+    ({:x1 0,
+      :y1 318,
+      :x2 0,
+      :y2 337.5,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 0,
+      :y1 334,
+      :x2 0,
+      :y2 353.5,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 0,
+      :y1 350,
+      :x2 0,
+      :y2 369.5,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 82.6796875,
+      :y1 502.703125,
+      :x2 653.3709106445312,
+      :y2 519.203125,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 67.8984375,
+      :y1 520.4375,
+      :x2 655.008056640625,
+      :y2 536.9375,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 67.8984375,
+      :y1 538.1640625,
+      :x2 653.1044921875,
+      :y2 554.6640625,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 67.8984375,
+      :y1 555.9140625,
+      :x2 655.7037963867188,
+      :y2 572.4140625,
+      :width 721,
+      :height 1068.1481481481483}),
+    :page 24},
+   :content
+   {:text
+    "One of the challenges addressed in this research study, as compared to RPPs, is the decrease in time spent on the project. RPPs are designed in a way that often spans multiple years. However, time barriers often impact the overall projects. Therefore, we designed this partnership to span one semester, which therefore decreased, however did not eradicate, the time commitment barrier."},
+   :properties {:color "green"}}
+  {:id #uuid "642c47e7-c9f0-4471-a6be-32942e5b1127",
+   :page 24,
+   :position
+   {:bounding
+    {:x1 67.8984375,
+     :y1 627.4921875,
+     :x2 275.7863464355469,
+     :y2 643.9921875,
+     :width 721,
+     :height 1068.1481481481483},
+    :rects
+    ({:x1 67.8984375,
+      :y1 627.4921875,
+      :x2 88.21138763427734,
+      :y2 643.9921875,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 101.5078125,
+      :y1 627.4921875,
+      :x2 275.7863464355469,
+      :y2 643.9921875,
+      :width 721,
+      :height 1068.1481481481483}),
+    :page 24},
+   :content {:text "5.5 Strengths and Limitations"},
+   :properties {:color "purple"}}
+  {:id #uuid "642c47fd-09f3-4997-ac85-39491ae8ed86",
+   :page 25,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 94,
+     :x2 653.7108154296875,
+     :y2 260.765625,
+     :width 721,
+     :height 1068.1481481481483},
+    :rects
+    ({:x1 0,
+      :y1 94,
+      :x2 0,
+      :y2 113.5,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 0,
+      :y1 110,
+      :x2 0,
+      :y2 129.5,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 82.9375,
+      :y1 208.7890625,
+      :x2 653.4131469726562,
+      :y2 225.2890625,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 67.609375,
+      :y1 226.5234375,
+      :x2 653.7108154296875,
+      :y2 243.0234375,
+      :width 721,
+      :height 1068.1481481481483}
+     {:x1 68.15625,
+      :y1 244.265625,
+      :x2 330.9828186035156,
+      :y2 260.765625,
+      :width 721,
+      :height 1068.1481481481483}),
+    :page 25},
+   :content
+   {:text
+    "Further, the TPB process was a catalyst for these impacts; however, what remains unclear is whether the researcher-teacher collaborative meetings led to these impacts or whether the creation of the TPBs did—or a combination of both"},
+   :properties {:color "green"}}], 
+ :extra {:page 25}}

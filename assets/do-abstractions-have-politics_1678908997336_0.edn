@@ -308,5 +308,343 @@
    :content
    {:text
     "The expansion of computer science (CS) education in K–12 and higher-education in the United States has prompted deeper engagement with equity that moves beyond inclusion toward a more critical CS education. Rather than frame computing as a value-neutral tool, a justice-centered approach to equitable CS education draws on critical pedagogy to ensure the rightful presence of political struggles by emphasizing the development of not only knowledge and skills but also CS disciplinary identities. While recent efforts have integrated ethics into several areas of the undergraduate CS curriculum, critical approaches for teaching data structures and algorithms in particular are undertheorized. Basic Data Structures remains focused on runtimecentered algorithm analysis. We argue for affordance analysis, a more critical algorithm analysis based on an affordance account of value embedding. Drawing on critical methods from science and technology studies, philosophy of technology, and human-computer interaction, affordance analysis examines how the design of computational abstractions such as data structures and algorithms embody affordances, which in turn embody values with political consequences. We illustrate 5 case studies of how affordance analysis refutes social determination of technology, foregrounds the limitations of data abstractions, and implicates the design of algorithms in disproportionately distributing benefits and harms to particular social identities within the matrix of domination."},
+   :properties {:color "green"}}
+  {:id #uuid "642822ab-f773-44b8-9da1-7c683d38a566",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 670,
+     :x2 462.0711669921875,
+     :y2 956.2421875,
+     :width 937.9999999999999,
+     :height 1213.8823529411764},
+    :rects
+    ({:x1 0,
+      :y1 670,
+      :x2 0,
+      :y2 689.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 686,
+      :x2 0,
+      :y2 705.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 702,
+      :x2 0,
+      :y2 721.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 718,
+      :x2 0,
+      :y2 737.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 734,
+      :x2 0,
+      :y2 753.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 750,
+      :x2 0,
+      :y2 769.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 290.2412414550781,
+      :y1 828.3046875,
+      :x2 459.1480407714844,
+      :y2 846.3046875,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 75.0390625,
+      :y1 846.625,
+      :x2 460.5533752441406,
+      :y2 864.625,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 75.0390625,
+      :y1 864.9453125,
+      :x2 459.9530334472656,
+      :y2 882.9453125,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 75.0390625,
+      :y1 883.2734375,
+      :x2 459.8584289550781,
+      :y2 901.2734375,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 75.0390625,
+      :y1 901.59375,
+      :x2 459.8495788574219,
+      :y2 919.59375,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 75.0390625,
+      :y1 919.921875,
+      :x2 462.0711669921875,
+      :y2 937.921875,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 75.0390625,
+      :y1 938.2421875,
+      :x2 401.3188171386719,
+      :y2 956.2421875,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}),
+    :page 2},
+   :content
+   {:text
+    "Affordances are relational properties of objects that make “specific outcomes more likely given the circumstances provided that the subject aims to bring about these outcomes” [15]. For example, “a chair affords sitting, a doorknob affords turning, a mouse affords moving the cursor on the screen and clicking at a particular location, and a touchscreen affords tapping and swiping” [9]."},
+   :properties {:color "green"}}
+  {:id #uuid "64282318-7a46-4cb2-a31e-38ed9b39d0ac",
+   :page 2,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 329.7578125,
+     :x2 866.072998046875,
+     :y2 1201.5,
+     :width 937.9999999999999,
+     :height 1213.8823529411764},
+    :rects
+    ({:x1 493.4296875,
+      :y1 329.7578125,
+      :x2 865.1876831054688,
+      :y2 347.7578125,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 348.078125,
+      :x2 862.2794189453125,
+      :y2 366.078125,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 475.9296875,
+      :y1 366.3984375,
+      :x2 866.072998046875,
+      :y2 384.3984375,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 384.7265625,
+      :x2 863.0779418945312,
+      :y2 402.7265625,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 403.046875,
+      :x2 757.665283203125,
+      :y2 421.046875,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1134,
+      :x2 0,
+      :y2 1153.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1150,
+      :x2 0,
+      :y2 1169.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1166,
+      :x2 0,
+      :y2 1185.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1182,
+      :x2 0,
+      :y2 1201.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}),
+    :page 2},
+   :content
+   {:text
+    "To identify the affordances of a programming abstraction, consider its Application Programming Interface (API), which“lists the affordances that a software entity makes available”[1]. Data structures often implement abstract data types that provide common programming interfaces [17]."},
+   :properties {:color "green"}}
+  {:id #uuid "64282492-72fd-4920-bbd2-329e5ef6703e",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 76.5703125,
+     :x2 866.0247802734375,
+     :y2 897.5,
+     :width 937.9999999999999,
+     :height 1213.8823529411764},
+    :rects
+    ({:x1 793.3761596679688,
+      :y1 76.5703125,
+      :x2 862.3224487304688,
+      :y2 94.5703125,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 94.8984375,
+      :x2 863.07421875,
+      :y2 112.8984375,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 113.21875,
+      :x2 866.0247802734375,
+      :y2 131.21875,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 862,
+      :x2 0,
+      :y2 881.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 878,
+      :x2 0,
+      :y2 897.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}),
+    :page 4},
+   :content
+   {:text
+    " Affordance analysis advances beyond “deep tech ethics” [11] by implicating the design of abstractions in the outcomes that they produce."},
+   :properties {:color "green"}}
+  {:id #uuid "642824d1-aa33-4eb3-937c-185f272608d9",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 424.71875,
+     :x2 863.0779418945312,
+     :y2 1201.5,
+     :width 937.9999999999999,
+     :height 1213.8823529411764},
+    :rects
+    ({:x1 629.66748046875,
+      :y1 424.71875,
+      :x2 862.2730102539062,
+      :y2 442.71875,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 443.0390625,
+      :x2 863.0779418945312,
+      :y2 461.0390625,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 461.3671875,
+      :x2 799.7339477539062,
+      :y2 479.3671875,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1166,
+      :x2 0,
+      :y2 1185.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1182,
+      :x2 0,
+      :y2 1201.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}),
+    :page 4},
+   :content
+   {:text
+    "Affordance analysis recognizes and critiques how abstractions embody values, but it provides less direction for redressing design values and limitations."},
+   :properties {:color "green"}}
+  {:id #uuid "64282584-245b-4e80-b70a-d23b2483eb52",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 534.65625,
+     :x2 865.6043090820312,
+     :y2 1345.5,
+     :width 937.9999999999999,
+     :height 1213.8823529411764},
+    :rects
+    ({:x1 675.8973388671875,
+      :y1 534.65625,
+      :x2 865.6043090820312,
+      :y2 552.65625,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 552.984375,
+      :x2 863.079833984375,
+      :y2 570.984375,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 571.3046875,
+      :x2 863.0819091796875,
+      :y2 589.3046875,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 589.625,
+      :x2 863.0758056640625,
+      :y2 607.625,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 607.953125,
+      :x2 863.076171875,
+      :y2 625.953125,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 478.15625,
+      :y1 626.2734375,
+      :x2 703.08642578125,
+      :y2 644.2734375,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1262,
+      :x2 0,
+      :y2 1281.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1278,
+      :x2 0,
+      :y2 1297.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1294,
+      :x2 0,
+      :y2 1313.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1310,
+      :x2 0,
+      :y2 1329.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}
+     {:x1 0,
+      :y1 1326,
+      :x2 0,
+      :y2 1345.5,
+      :width 937.9999999999999,
+      :height 1213.8823529411764}),
+    :page 4},
+   :content
+   {:text
+    "To move beyond universalizing assumptions, affordance analysis must be considered in dialogue with ecological concerns over how data structures and algorithms are developed: the design practices, design narratives, design sites, and design pedagogies that create contemporary social conditions [9]"},
    :properties {:color "green"}}], 
  :extra {:page 4}}

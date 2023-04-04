@@ -13,6 +13,7 @@ audience:: tbd
 		- computing education can do more than this -> ((641f1a76-e97f-4698-8ac8-f475c90ff2f8))
 	- ... what's the story here?  now it's just a bunch of ideas
 	- [[First Principles]]
+	- [[CERbert Problems]]
 - this may just be a big dream, but ((63f7534f-d573-4b96-a09b-ba1f6567337a))
 	- ((6418f99b-22b1-46ff-80a2-7a0c53c49eea))
 	- goal: [[One Future for CER]] helps lay the foundations for ^ such a funding proposal

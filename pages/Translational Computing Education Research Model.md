@@ -1,5 +1,6 @@
 alias:: TCER Model
 
+- "all models are wrong, some are useful" - hopefully this one is useful
 - The foundation of Translational Computing Education Research is the [[Translational Continuum]]
 - Here's the current diagram of TCER: ((63fb3f26-fae2-470b-969b-046e4ca0c385))
 - The structure and vocabulary of the TCER Model could be used to organize [[Translational Research Programmes]], which could be used to target broad challenges in [[CE]] and (hopefully) to secure more substantial funding and collaborations

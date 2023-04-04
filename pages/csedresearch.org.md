@@ -1,0 +1,11 @@
+- https://csedresearch.org/
+-
+- [[Early Findings on the Impacts of Developing Evidence-Based Practice Briefs on Middle School Computer Science Teachers]]
+	- how do practice briefs compare to raspberry pi Pedagogical Quick Reads? #question
+	  id:: 642b271e-626b-4f04-b978-6eb9aeedf922
+	- ![CSTA-Bi-Multilingual-Practice-Briefs-2021.pdf](../assets/CSTA-Bi-Multilingual-Practice-Briefs-2021_1680444402694_0.pdf), [online](https://csedresearch.org/wp-content/uploads/practice-briefs/CSTA-Bi-Multilingual-Practice-Briefs-2021.pdf)
+	- ![CSTA-Increasing-Middle-School-Girls-Practice-Briefs-2021.pdf](../assets/CSTA-Increasing-Middle-School-Girls-Practice-Briefs-2021_1680444410646_0.pdf), [online](https://csedresearch.org/wp-content/uploads/practice-briefs/CSTA-Increasing-Middle-School-Girls-Practice-Briefs-2021.pdf)
+	- ![CSTA-Cultural-Relevance-Practice-Briefs-2021.pdf](../assets/CSTA-Cultural-Relevance-Practice-Briefs-2021_1680444415650_0.pdf), [online](https://csedresearch.org/wp-content/uploads/practice-briefs/CSTA-Cultural-Relevance-Practice-Briefs-2021.pdf)
+		-
+		-
+		-
