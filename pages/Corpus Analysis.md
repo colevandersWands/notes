@@ -1,0 +1,4 @@
+- "When in doubt, count." - #adam
+- proof of concepts
+	- #adam's function API
+	- https://github.com/DeNepo/corpus-analysis

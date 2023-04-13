@@ -1,8 +1,10 @@
-- (working title, derived from "representative sample")
+- working title
+	- derived from "model organism"
+	- alternatives: "representative course" from "representative sample"
 - any computing course participating in research and with a close [proximity]([[Proximity and Innovation: a Critical Assessment]]) to those you'd like to reach with your work.
 	- How could you measure the proximity of two courses? you would need to account for learning objectives, practical constraints, learner & educator profile, ... and different [[Proximities]] would need to be weighted differently depending on the research questions.  #question [[DARE]]
 	- (a lot of these ideas are inspired by my experience doing R&D work in small bootcamps)
-- A [[Representative Course]] is first and foremost a course, the quality of education must come first
+- A [[Model Course]] is first and foremost a course, the quality of education must come first
 	- each learner & educator can engage with the research side of the course as much or little as they're interested/able
 	- {{embed ((63f75350-4779-410a-b9f0-168cab1faf2a))}}
 - "Representative Course" is an adjective, not a title.  A course could temporarily be a RC if it is participating in study, or could be set up with this in mind

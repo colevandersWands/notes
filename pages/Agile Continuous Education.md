@@ -23,5 +23,5 @@ alias:: ACE
 	- [[Translational Research Programmes]] help approach large, seemingly untractable, problems
 	- [[Agile Computing Education Research]] methodologies keep learners at the center and all [[CER Stakeholders]] in the loop
 	- [[Translational Sprints]] provide a way to continuously and flexibly deliver rigorously-designed education
-	- micromasters in an ACE setting could be ideal venues to host [[Representative Course]]s
+	- micromasters in an ACE setting could be ideal venues to host [[Model Course]]s
 - MIT's response to [[An Avalanche is Coming]]?
