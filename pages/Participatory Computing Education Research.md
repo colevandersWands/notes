@@ -6,6 +6,7 @@ title:: Participatory Computing Education Research
 - I wonder about [[Participatory Computing Education Research]] (PCER)
   id:: 63f75350-4779-410a-b9f0-168cab1faf2a
 	- How do educators and learners retain ownership of their education while partnering with researchers? #question
+	  id:: 64309fe9-52ae-4843-bd86-47c40402bb40
 		- [[Action Research in Education: Addressing Gaps in Ethical Principles and Practices]]
 	- How to avoid extraction dynamics in a research-practice partnership? #question
 	- How to balance the [[Speed of Trust]] with the [[Speed of Funding]]? #question
