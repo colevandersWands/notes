@@ -3,7 +3,7 @@ audience:: tbd
 
 - barely an outline
 	- a societally engaged, [participatory]([[Participatory Computing Education Research]]), [translational transdiscipline]([[Translational Computing Education Research Model]]) that is (somewhat) unified by [[CERbert Problems]]
-	- there are [[Computing Education Research Center]]s, that conduct [[Open Research]], coordinate [[Translational Research Programmes]] and [[Theoretical Research Programmes]], foster [[Trading Zones]]/[[Boundary Objects]], ...
+	- there are [[Computing Education Research Center]]s, that conduct [[Open Research]], coordinate [[Translational Research Programmes]] and [[Theoretical Research Programmes]], foster [[Trading Zone]]/[[Boundary Objects]], ...
 	- [[Computing Education Research Center]]s support [[Model Course]]s
 		- by helping to coordinate and support [[Research-Practice Partnership]]s
 		- or even by hosting the [[Model Course]] themselves

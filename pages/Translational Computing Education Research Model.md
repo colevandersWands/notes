@@ -7,7 +7,7 @@ alias:: TCER Model
 - **Future Work:**
 	- emphasize the transitions / liminal zones, like in [[Evaluating Translational Research: a Process Marker Model]]
 	- the initial model if very high level, and does not well describe how to conceptualize involvement across different educational contexts.
-		- Perhaps CER is globally an [interdiscipline](((6418f99c-2686-4525-a486-26020e96d3db))). And local [transdisciplines](((6418f99c-e7da-4483-b96b-e7af1f89a915))) arise as depth of expertise, [[Boundary Objects]] and bodies of knowledge accumulate at specific [[Trading Zones]] #question
+		- Perhaps CER is globally an [interdiscipline](((6418f99c-2686-4525-a486-26020e96d3db))). And local [transdisciplines](((6418f99c-e7da-4483-b96b-e7af1f89a915))) arise as depth of expertise, [[Boundary Objects]] and bodies of knowledge accumulate at specific [[Trading Zone]] #question
 			- question inspired by [[Integrating Ethics into Computer Science Education: Multi-, Inter-, and Transdisciplinary Approaches]]
 			- for examples, the transdiscipline of k12 CER, or of professional CE, or of university CS education, or of [ethics & computing](((641903e5-2010-4848-858b-ee70d29521cf)))
 			- what's the relationship to these local transdisciplines and [[TRP]]s? #question

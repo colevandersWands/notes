@@ -6,7 +6,7 @@
 		- it is premised on peer learning and [[Learner-Accessible OER]], so even if it's not ideal as-is hopefully it gives learners the agency to adapt as they need
 		- ((640cadc2-9fc8-4812-b725-39ae07f22f73))
 	- how can [[Model Course]]s be run to support decolonization?  they're a slippery slope.  #question
-	- do [[Trading Zones]] and [[Proximities]] have anything to offer? #question
+	- do [[Trading Zone]] and [[Proximities]] have anything to offer? #question
 	-
 - references
 	- [[Decolonising Computer Science Education: A Global Perspective]]

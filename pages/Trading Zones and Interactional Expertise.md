@@ -29,7 +29,8 @@ tags:: bibliography
 	- ((63fb4c0f-198c-4c6c-8a6f-668ed69c95e9))
 	- ((63fb4c74-30ed-4ba9-b80f-0e01e04c8da7))
 	- ((63fb50e1-9846-4d6f-8bac-4d950fa3ae53))
-		- Interactional experts can participate in, but not necessarily contribute to, other fields in their trading zone
+		- Interactional experts can participate in, but not necessarily contribute to, other fields in their [[Trading Zone]]
+		  id:: 64416d57-fb75-4e7d-bf5f-3fdcca1db9a4
 	- ((63fb6896-8949-4e7e-8c91-7d56f01c916a))
 		- a continuum model for categorizing the evolution of trading zones over time
 		- this figure situates a (hypothetical) emerging trading zone at different stages in it's development. it's an example for illustrative purposes only

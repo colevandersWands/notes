@@ -12,7 +12,7 @@ tags:: bibliography
 		  id:: 6418f99c-2686-4525-a486-26020e96d3db
 		- **Transdisciplinary:** ((6418e9b8-1e40-4b84-b09d-6e691e34c6e0))
 		  id:: 6418f99c-e7da-4483-b96b-e7af1f89a915
-			- [[Trading Zones]], [[Proximities]], [[Boundary Objects]]
+			- [[Trading Zone]], [[Proximities]], [[Boundary Objects]]
 		- #question. how does this compare with [[Multidisciplinarity, Interdisciplinarity, and Transdisciplinarity in Health Research, Services, Education and Policy: 1. Definitions, Objectives and Evidence of Effectiveness]]
 	- ((641903e5-2010-4848-858b-ee70d29521cf))
 	- ((64190629-e2ba-4c36-8cec-ae3f15441701))

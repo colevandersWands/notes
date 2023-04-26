@@ -21,6 +21,10 @@ tags:: meta
 	- ? status
 	- [with PDFs](https://www.youtube.com/watch?v=vIDyXyEj_FI)
 -
+- how to deal with globally ambiguous terms like "identity", not the same in math as in CER
+	- name spaces and aliases? eg. `identity/math`, `identity/human`
+	- for now, just going with globals. can find a solution after more experience and several nuisances
+-
 - targeting audience
 	- https://maggieappleton.com/assumed-audience
 	- use some sort of #audience tag to clarify what is written with who in mind?

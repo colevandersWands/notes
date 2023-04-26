@@ -1,0 +1,14 @@
+- (on hold until after some more practice with: [[LaTeX]], [[Mathematical Reading, Writing, Translating]], [[Mathematical and Scientific Writing]], [[Handout 7: Mathematical Writing Exercises Solutions]] )
+-
+- why study category theory
+	- curiosity and interest
+	- get some math in my life again
+	- to think about and plan research more clearly
+	- understanding it could help design better courses
+	- it's useful for [[Functional Programming]] and programming in general
+	-
+-
+- the study of constructs ([[object]]s) and structure-preserving maps ([[morphism]]s)
+-
+- {{embed ((64457935-8303-4218-852f-afc2e1ed79be))}}
+-

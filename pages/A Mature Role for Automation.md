@@ -1,0 +1,8 @@
+- [[as Code]]
+-
+- ## [Part 1](https://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/)
+-
+- ## [Part 2](https://www.kitchensoap.com/2013/08/20/a-mature-role-for-automation-part-ii/)
+	- ### Two: The “Compensatory” Principle
+		- [[Micromaterials]] #adam
+-

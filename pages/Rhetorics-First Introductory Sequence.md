@@ -38,7 +38,7 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 	  id:: 640caaf3-ca94-4701-97b0-e54a356162bc
 - below is one possible introductory sequence designed around snowballing rhetorical situations instead of technical objectives
 	- **note**: I have been teaching this way for the last few years. Not always overtly but it has informed how i set expectations for learners, sequence learning objectives, and design projects.
-		- The course i ran began with collaboration skills around markdown files, then project management with simple HTML/CSS projects, then Design Thinking and User Empathy (still with only HTML/CSS).  Only after 2 months of this did we move on to JS.
+		- The course i helped run began with collaboration skills around markdown files, then project management with simple HTML/CSS projects, then Design Thinking and User Empathy (still with only HTML/CSS).  Only after 2 months of this did we move on to JS.
 		- feedback and results have been good.  the strongest encouragement i get is from the many learners who say they found their place in software development as designers or project coordination, even if the JS programming never clicked for them. i don't believe this would be possible with a more conventional programming-first approach
 		- [[Full Complexity, Max Simplicity]], [[Whole Game]], [[Process Over Product]]
 	- **Big Picture 1**: *multiple humans collaborating on one body of text*.

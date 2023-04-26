@@ -1,6 +1,6 @@
 tags:: narrative
 
-- >  Below is [a thesis proposal](https://github.com/colevandersWands/thesis-proposal) written in early 2020, bad timing.  The dissertation never happened but this still tells a good story and well-describes what I've worked towards ever since.
+- >  Below is [a thesis proposal](https://github.com/colevandersWands/thesis-proposal) written in early 2020, bad timing.  The dissertation never happened but this still tells a good story and well-describes what I've worked towards ever since. (thank you Julie!)
 	- #todo - revise for this format, add intralinks
 - (toc?)
 - Many great resources, curricula, tools & learning environments have been developed for novice programmers.  However there are practical limitations to using these interventions in real life. I'll focus on the context of adults (~18 years+) attempting to learn software development in a short period of time (< 1 year) outside of academic institutions.  This accounts for a largest population of learners out there, yet is under-represented in the computing education literature which has focused on university students and younger (as far as I can tell).

@@ -10,7 +10,7 @@ alias:: Representative Course
 	- each learner & educator can engage with the research side of the course as much or little as they're interested/able
 	- {{embed ((63f75350-4779-410a-b9f0-168cab1faf2a))}}
 - "Model Course" is an adjective, not a title.  A course could temporarily be a RC if it is participating in study, or could be set up with this in mind
-- MC's are designed to be [[Trading Zones]].  They should be welcoming of any unexpected source of collaboration that stands to benefit learners.
+- MC's are designed to be [[Trading Zone]].  They should be welcoming of any unexpected source of collaboration that stands to benefit learners.
 - MC's can be hosted many ways:
 	- a [[Computing Education Research Center]] may host them as outreach and to help build community within CER
 	- [[Translational Research Programmes]] may host them for longitudinal studies, especially helpful for #phase/2 #phase/4

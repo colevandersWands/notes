@@ -41,7 +41,7 @@ title:: Participatory Computing Education Research
 	- [[Community-Based Participatory Research]]
 - related
 	- [[Research-Practice Partnership]]
-	- [[Trading Zones]]
+	- [[Trading Zone]]
 	- Medicine has some done some solid thinking on participatory research
 		- [[Engagement Rubric]] from [PCORI]([[Patient-Centered Outcomes Research Institute]])
 	- [[Consensus Building]]

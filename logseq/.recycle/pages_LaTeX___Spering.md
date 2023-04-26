@@ -1,0 +1,6 @@
+- $i: X \overset{\cong}{\to} Y$
+- $(A \wedge B) \vee C \iff D$
+- $\mathbb{C} \mathbb{O} \mathbb{R} \mathbb{N}$
+- $\forall x \in \mathbb{N}, \exists y \in \mathbb{Q} \mid x = y$
+-
+-
