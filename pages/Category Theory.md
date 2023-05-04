@@ -1,14 +1,17 @@
 - (on hold until after some more practice with: [[LaTeX]], [[Mathematical Reading, Writing, Translating]], [[Mathematical and Scientific Writing]], [[Handout 7: Mathematical Writing Exercises Solutions]] )
 -
 - why study category theory
+	- to think about and plan research more clearly
+		- ((641c9d9b-7184-43f1-8d95-bb0d7d9d118c))
+	- understanding it could help design better courses
 	- curiosity and interest
 	- get some math in my life again
-	- to think about and plan research more clearly
-	- understanding it could help design better courses
 	- it's useful for [[Functional Programming]] and programming in general
 	-
 -
+- In category theory you study **Categories**.  In normal life the word "category" loosely refers to a *type of thing*.  In mathematics, a category is a much more specific concept than in normal life.  In normal life you can define a category with a general rule such as "all books telling a fictional story".  But in math you need to be more specific about your categories, to properly define a category you need to be clearly answer these 3 questions:
+	- ...
+	- ...
+	- ...
+-
 - the study of constructs ([[object]]s) and structure-preserving maps ([[morphism]]s)
--
-- {{embed ((64457935-8303-4218-852f-afc2e1ed79be))}}
--

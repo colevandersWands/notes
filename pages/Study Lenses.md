@@ -32,7 +32,7 @@ tags:: narrative
 		- How does this relate to [[PRIMM]] or [[PRISMM]] ?
 	- can [[Large Language Models]] and other code generators be combined with [[Study Lenses]] to generate tailored curricula? #question [[Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula]]
 	- how does study lenses compare to other things out there? and in which ways? #question
-		- https://www.codespec.org/ ([paper](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICER2022V2/6/da576267-ed8d-11ec-a76e-16bb50361d1f/OUT/icer2022v2-6.pdf)): same challenge, different exercise type (pseudo -> parsons -> faded parsons -> fix bugs -> write code).  
+		- [Codespec]([[Codespec: A Computer Programming Practice Environment]]): same challenge, different exercise type (pseudo -> parsons -> faded parsons -> fix bugs -> write code).
 		  id:: 641a5554-5ba6-4331-8dc6-ad12254e8d82
 			- is codespec a [[Spiral Curriculum]]? #question
 			  id:: 641b1ef8-5cf5-46ec-93ab-923b7fb99ff1

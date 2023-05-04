@@ -51,4 +51,4 @@
                           :page 36},
                :content {:text "However, there is another way to write this composition, called diagrammatic order. Instead of g ○ f, we would write f; g : A → C, meaning “do f, then do g.” Given an element a ∈ A, represented by a: {☺ } → A, we have an element a; f; g."},
                :properties {:color "green"}}],
- :extra {:page 8}}
+ :extra {:page 50}}

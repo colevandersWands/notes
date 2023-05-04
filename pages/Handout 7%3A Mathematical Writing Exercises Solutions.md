@@ -1,5 +1,31 @@
 tags:: reference
 
 - ![local copy](../assets/solutions-handout7-mathwriting_1682495511486_0.pdf), [online](https://modelingsimulation.github.io/TeachingWriting2020/Resources/solutions-handout7-mathwriting.pdf)
--
--
+- **Exercises:** find the problems with these excerpts then rewrite them
+	- ((644b7f3a-dce9-4749-974c-fd8e9c042695))
+	  collapsed:: true
+		- *before*: ((644b7f13-8f17-44fc-a740-5c45901b81d4))
+		- *after*: Let f (t) be Gryffindor’s score t minutes into a game against Slytherin. ((644b7f4b-e3e9-4d07-9ff3-a9ef0e1d2d6d))
+		- key information
+			- gryffindor is playing slytherin
+			- gryffindor's score $g$ is computable at any point in time $t$ during the game against slytherine:
+				- game times form a set ordered of real numbers: $T := \{ t \in \mathbb{R} : 0 <= t <= \textit{end of game} \}$
+				- gryffindor scores form an ordered set of integers: $G := \{ g_t \in \mathbb{N} :  g_t   \text{  is gryffindor's score at time  } t \}$
+			- there exists a [[surjective]] mapping from T to G defined for all of T:
+				- $f : T \to G$
+			- f is globberfluxible at $t = 3$
+				- this term is not defined, but we know when it applies
+	- ((644bef9a-bf97-4299-a82f-cbdd448289ea))
+		- *before*: The function $x^2 + 1$ is even
+		- *after 1:* all elements in the codomain of function $f: x \to x^2 + 1$ (defined over $\mathbb{N}$) are even
+	- ((6452023a-5fed-47c4-ad25-2a5d165c8fee))
+		- *before:* On a compact space every real-values continuous function $f$ is bounded.
+		- *after 1:* Every real-valued, continuous function on a compact space is bounded.
+	- ((64520296-87d2-4aee-8c63-a9c4569def1e))
+	-
+- **Notes:**
+	- ((64490b90-7858-49d5-be4d-b9aeeaffb9e4))
+		- [[Rhetorical Situation]]
+		- how similar are the rhetorics of formal notation to the [[Rhetorics of Programming]]? is there an implied [[Notional Machine]] audience for your notation? #question
+	- ((64490cf3-e06e-4ccb-b432-42ebe51eed2d))
+		- nested loops?
