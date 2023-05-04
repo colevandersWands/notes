@@ -1,0 +1,2 @@
+-
+- ![local copy](../assets/LockhartsLament_1683209311290_0.pdf), [online](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)

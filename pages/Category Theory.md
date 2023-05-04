@@ -1,4 +1,4 @@
-- (on hold until after some more practice with: [[LaTeX]], [[Mathematical Reading, Writing, Translating]], [[Mathematical and Scientific Writing]], [[Handout 7: Mathematical Writing Exercises Solutions]] )
+- (on hold until after some more study with: [[LaTeX]], [[Mathematical Reading, Writing, Translating]], [[Mathematical and Scientific Writing]], [[Handout 7: Mathematical Writing Exercises Solutions]], [[A Mathematician's Lament]] )
 -
 - why study category theory
 	- to think about and plan research more clearly
