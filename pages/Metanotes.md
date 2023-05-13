@@ -14,6 +14,10 @@ tags:: meta
 	- [Beyond iTunes for Papers]([[Beyond iTunes for Papers: Redefining the Unit of Interaction in Literature Review Tools]])
 	- [[Metanotes/Discourse Graphs]]
 	- existing tools: https://elicit.org/ (https://ought.org/), https://www.researchrabbit.ai/
+	- simpler, Zotero integration?
+		- https://blog.logseq.com/citation-needed-how-to-use-logseqs-zotero-integration/
+		- https://discuss.logseq.com/t/comprehensive-zotero-plugin/8571
+		- https://medium.com/@pkmbeth/how-to-use-the-zotero-logseq-integration-57f1fe07df1e
 -
 - using tags
 	- authors, topics, ... ?

@@ -136,7 +136,7 @@ tags:: narrative
 - Sorva, J. (2010, October). Reflections on threshold concepts in computer programming and beyond. In Proceedings of the 10th Koli calling international conference on computing education research (pp. 21-30).
 - Sorva, J., & Seppälä, O. (2014, November). Research-based design of the first weeks of CS1. In Proceedings of the 14th Koli Calling International Conference on Computing Education Research (pp. 71-80).
 - Sajaniemi, J. (2002, September). An empirical analysis of roles of variables in novice-level procedural programs. In Proceedings IEEE 2002 Symposia on Human Centric Computing Languages and Environments (pp. 37-39). IEEE.
-- Shafto, P., & Goodman, N. (2008). Teaching games: Statistical sampling assumptions for learning in pedagogical situations. In Proceedings of the 30th annual conference of the Cognitive Science Society (pp. 1632-1637). Austin, TX: Cognitive Science Society.
+- [[Teaching Games: Statistical Sampling Assumptions for Learning in Pedagogical Situations]]
 - Sheard, J., Carbone, A., Lister, R., Simon, B., Thompson, E., & Whalley, J. L. (2008, June). Going SOLO to assess novice programmers. In Proceedings of the 13th annual conference on Innovation and technology in computer science education (pp. 209-213).
 - Santos, Á., Gomes, A., & Mendes, A. (2013, October). A taxonomy of exercises to support individual learning paths in initial programming learning. In 2013 IEEE Frontiers in Education Conference (FIE) (pp. 87-93). IEEE.
 - Shih, Y. F., & Alessi, S. M. (1993). Mental models and transfer of learning in computer programming. Journal of Research on Computing in Education, 26(2), 154-175.

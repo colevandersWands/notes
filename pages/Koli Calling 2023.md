@@ -1,0 +1,45 @@
+-
+- https://www.kolicalling.fi/call-for-papers/
+	- ***Discussion papers*** with up to 10 pages **single-column** excluding references and, optionally, supplemental material disseminate and discuss new ideas and promising initiatives in computing education practice or research. They will be reviewed based on the quality of the discussion, their use of appropriate evidence or argumentation, and their potential to be of interest to the community. **Examples **of discussion papers include:
+		- *Proposition papers*, which propose an innovation, debate a theoretical issue, or advance a cause. The argumentation must be solidly grounded in the research literature. A discussion paper must provide fresh perspectives or insights and present a compelling case to indicate how it promotes discussion and raises questions for future research to answer.
+-
+- relevant references
+	- about suggestions in exploratory learning
+		- [[The Double-edged Sword of Pedagogy: Modeling the Effect of Pedagogical Contexts on Preschoolers’ Exploratory Play]]
+		- [[Teaching Games: Statistical Sampling Assumptions for Learning in Pedagogical Situations]]
+		- [[Prior expectations in pedagogical situations]]
+		- [[Applications of Variation Theory in Computing Education]]
+		- [[A rational account of pedagogical reasoning: Teaching by, and learning from, examples]]
+	- recommendation
+		- [[Unifying recommendation and active learning for information filtering and recommender systems]]
+		- [[Personalized Learning Environments Based on Knowledge Graphs and The Zone of Proximal Development]]
+	- impact of llms (lenses help understand generated code)
+		- [[The End of Programming]]
+	- misconceptions
+	- to sort
+		- [[Exploring didactic models for programming]]
+		- [[Fostering Program Comprehension in Novice Programmers - Learning Activities and Learning Trajectories]]
+		- [[On Use of Theory in Computing Education Research]]
+		- [[What Do CS1 Syllabi Reveal About Our Expectations of Introductory Programming Students?]]
+		- [[The Programmer's Brain]]
+		- [[The Abstraction Transition Taxonomy: Developing Desired Learning Outcomes through the Lens of Situated Cognition]]
+		- [[Teaching Programming: A Spiral Approach to Syntax and Semantics]]
+		- [[Teaching and Assessing Programming Language Tracing]]
+		- [[Stochastic Tree-Based Generation of Program-Tracing Practice Questions]]
+		- [[PRIMM: Exploring pedagogical approaches for teaching text-based programming in school]]
+		- ? [[Past, Present and Future of Computing Education Research: A Global Perspective]]
+		- [[Not Seeing the Forest for the Trees: Novice Programmers and the SOLO Taxonomy]]
+		- [[Let's Ask Students About Their Programs, Automatically]]
+		- [[Learning to Program is Easy]]
+		- [[Investigating the Relationship Between Programming and Natural Languages Within the PRIMM Framework]]
+		- [[Grand Theories or Design Guidelines? Perspectives on the role of theory in Computing Education Research]]
+		- [[From Code Complexity Metrics to Program Comprehension]]
+		- [[Fostering Program Comprehension in Novice Programmers - Learning Activities and Learning Trajectories]]
+		- [[Exploring didactic models for programming]]
+		- [[Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula]]
+		- [[Vygotsky's Zone of Proximal Development: Instructional Implications and Teachers' Professional Development]]
+		- [[Exploring Just In Time Code Comprehension in Lab Based Programming Excercises]]
+		- [[When Wrong is Right: The Instructional Power of Multiple Conceptions]]
+		- [[Comparing and Contrasting Different Algorithms Leads to Increased Student Learning]]
+		- [[Flexible Low-cost Activities to Develop Novice Code  Comprehension Skills in Schools]]
+		- [[Block Model – an Educational Model of Program Comprehension as a Tool for a Scholarly Approach to Teaching]]

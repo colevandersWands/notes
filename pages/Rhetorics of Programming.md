@@ -11,8 +11,10 @@
 	  id:: 6401c5cc-2dd2-48e4-99cc-3741ef1a0e96
 		- the progression of courses/modules could add layers and complexity to the RS
 		- the constraints placed by the RS would help define learning objectives -> [[Spiderweb Curriculum]]
-		- can this address issues with over-engineered learning objectives? (#todo dig into CSK8 episode references)
+		- can this address issues with over-engineered learning objectives? (#todo dig into [[CSK8]] episode references)
 		  id:: 640b8af2-6ad7-443f-b60e-ec4477a4ecd5
+	- [[A Mathematician's Lament]] -> A Programmer's Lament? #question
+		- How does teaching "computational thinking" fit into this? and [[Notional Machine]]s? and [[Rhetorics-First Introductory Sequence]]?
 - [[Rhetorical Code Studies]]
 -
 -

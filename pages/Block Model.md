@@ -14,3 +14,6 @@
 	- [Sue Sentance](https://helloworld.raspberrypi.org/articles/hw14-the-i-in-primm)
 	- [teachcomputing.org](https://blog.teachcomputing.org/quick-read-understanding-program-comprehension-using-the-block-model/)
 	- [Raspberry Pi Quick Read](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+12+-+Block+Model.pdf)
+	- [[Fostering Program Comprehension in Novice Programmers - Learning Activities and Learning Trajectories]]
+	- [[Block Model – an Educational Model of Program Comprehension as a Tool for a Scholarly Approach to Teaching]]
+-

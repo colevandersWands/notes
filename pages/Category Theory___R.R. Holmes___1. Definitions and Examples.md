@@ -10,6 +10,7 @@
 		- [[associativity]]: ((64456ec6-edc4-4f05-883a-eae84cfa8e96))
 		- [[identity]]: ((64456ed3-2484-49a0-8693-aa169af7ca0b))
 		- ((64456e89-fda0-473a-80bb-1b5185dc2bd6))
+	- This is the "*With a family of collections of morphisms*" definition according to [[nLab]] -> https://ncatlab.org/nlab/show/category#foundations
 - [[subcategory]]: ((64456f65-b5a5-49aa-90c5-e7e16c117fa5))
 	-
 	-
