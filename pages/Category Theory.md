@@ -11,7 +11,8 @@
   id:: 645a0a6e-1c19-4e1e-9190-1b6aa87e799e
 -
 - ## Explaining to Me
-- what are the foundational questions of [[Category Theory]]?
+-
+- old try. what are the foundational questions of [[Category Theory]]?
 	- try working backwards from definitions: [[class]]/[[object]], [[category]], [[morphism]], composition (associativity, identity), ((645a0f1b-2e59-4b30-9a06-9d6bd0e9626c))
 		- *class/object*: what is a "thing", how can you create groups of similar things?  (is this question why the books all start with sets?)
 		- *morphism*: what can you do with these things?

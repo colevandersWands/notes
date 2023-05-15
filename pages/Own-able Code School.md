@@ -1,4 +1,4 @@
-tags:: narrative
+tags::  home,  narrative
 
 -
 - (more rough than a draft)

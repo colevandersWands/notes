@@ -1,4 +1,4 @@
-tags:: narrative
+tags::  home, narrative
 
 - (... more story ...)
 - Some principles behind Study Lenses:
@@ -38,3 +38,54 @@ tags:: narrative
 			  id:: 641b1ef8-5cf5-46ec-93ab-923b7fb99ff1
 		- https://futurecoder.io/: several run options available (console, snoop, Python Tutor, birsdeye)
 -
+	- relevant references
+	  id:: 645e9782-e8fc-4e31-a958-0dbe9aeb6fe5
+		- about suggestions in exploratory learning
+			- [[The Double-edged Sword of Pedagogy: Modeling the Effect of Pedagogical Contexts on Preschoolers’ Exploratory Play]]
+			- [[Teaching Games: Statistical Sampling Assumptions for Learning in Pedagogical Situations]]
+			- [[Prior expectations in pedagogical situations]]
+			- [[Applications of Variation Theory in Computing Education]]
+			- [[A rational account of pedagogical reasoning: Teaching by, and learning from, examples]]
+		- recommendation
+			- [[Unifying recommendation and active learning for information filtering and recommender systems]]
+			- [[Personalized Learning Environments Based on Knowledge Graphs and The Zone of Proximal Development]]
+		- impact of llms (lenses help understand generated code)
+			- [[The End of Programming]]
+		- pedagogical foundation
+			- [[Why Minimal Guidance During Instruction Does Not Work An Analysis of the Failure of Constructivist Discovery Problem Based Experiential and Inquiry]]
+			- [[Do Learners Really Know Best? Urban Legends in Education]]
+			- [[Vygotsky's Zone of Proximal Development: Instructional Implications and Teachers' Professional Development]]
+			- [[The Abstraction Transition Taxonomy: Developing Desired Learning Outcomes through the Lens of Situated Cognition]]
+			- [[When Wrong is Right: The Instructional Power of Multiple Conceptions]]
+			- [[PRIMM: Exploring pedagogical approaches for teaching text-based programming in school]]
+			- [[Block Model – an Educational Model of Program Comprehension as a Tool for a Scholarly Approach to Teaching]]
+			- [[Fostering Program Comprehension in Novice Programmers - Learning Activities and Learning Trajectories]]
+			- [[Learning to Program is Easy]]
+		- misconceptions
+		- situating in CER (theory/practice, research/design, phases, ...)
+			- [[Grand Theories or Design Guidelines? Perspectives on the role of theory in Computing Education Research]]
+			  collapsed:: true
+				- {{embed ((645fa857-7e4f-44eb-a702-8bed28c312cf))}}
+				- is the quadrant a principled or representational model? #question
+			- [[Conceptualizing the Researcher-Theory Relation]]
+			- [[On Use of Theory in Computing Education Research]]
+			- [[Computing Education Research as a Translational Transdiscipline]]
+		- to sort
+			- [[Exploring didactic models for programming]]
+			- [[Fostering Program Comprehension in Novice Programmers - Learning Activities and Learning Trajectories]]
+			- [[What Do CS1 Syllabi Reveal About Our Expectations of Introductory Programming Students?]]
+			- [[The Programmer's Brain]]
+			- [[Teaching Programming: A Spiral Approach to Syntax and Semantics]]
+			- [[Teaching and Assessing Programming Language Tracing]]
+			- [[Stochastic Tree-Based Generation of Program-Tracing Practice Questions]]
+			- ? [[Past, Present and Future of Computing Education Research: A Global Perspective]]
+			- [[Not Seeing the Forest for the Trees: Novice Programmers and the SOLO Taxonomy]]
+			- [[Let's Ask Students About Their Programs, Automatically]]
+			- [[Investigating the Relationship Between Programming and Natural Languages Within the PRIMM Framework]]
+			- [[From Code Complexity Metrics to Program Comprehension]]
+			- [[Exploring didactic models for programming]]
+			- [[Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula]]
+			- [[Exploring Just In Time Code Comprehension in Lab Based Programming Excercises]]
+			- [[Comparing and Contrasting Different Algorithms Leads to Increased Student Learning]]
+			- [[Flexible Low-cost Activities to Develop Novice Code  Comprehension Skills in Schools]]
+- {{embed ((645e9782-e8fc-4e31-a958-0dbe9aeb6fe5))}}

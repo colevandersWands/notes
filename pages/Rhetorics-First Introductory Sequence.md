@@ -1,6 +1,6 @@
-tags:: narrative
-audience:: tbd
 id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
+tags::  home,  narrative
+audience:: tbd
 
 - we need to #unask what programming languages or paradigms to teach first, and instead ask "how do we teach _how_ and _why_ programming happens?".
 	- how do groups of people fund, develop, deploy and use software to create meaning and shape society?
@@ -16,6 +16,7 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 	- [[Integrating Ethics into Introductory Programming Classes]] becomes natural, a Rhetorical Situation prioritizes bigger questions over technical details
 - i wonder about [[Rhetorics-First Introductory Sequence]]
 	- is [[PRISMM]] just another pretty acronym, or could it be a useful starting point for Rhetorical curriculum design? #question
+	  id:: 64416d57-8c39-47df-aee2-95b79258e9e3
 	- are [[Large Language Models]] a boon to rhetorics-first teaching?  Rhetorics-First is [[PRISMM]]-heavy, so educators won't need to manually create all examples. and the issues surrounding LLM and other code generators (security, IP, efficiency, ...) all make great talking points.   #question
 	  id:: 640a4775-f253-4bb0-926e-d0e8a903e252
 		- not just the code that it generates, but also the chat bots? and refining code through chat?

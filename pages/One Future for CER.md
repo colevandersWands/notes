@@ -1,4 +1,4 @@
-tags:: narrative
+tags::  home, narrative
 audience:: tbd
 
 - barely an outline

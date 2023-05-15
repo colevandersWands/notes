@@ -131,5 +131,17 @@
                                    :height 931.7647058823528}),
                           :page 14},
                :content {:text "To explore the notion of a generative effect we need "},
-               :properties {:color "green"}}],
- :extra {:page 21}}
+               :properties {:color "green"}}
+              {:id #uuid "64623e13-d10d-4e90-8d34-76c1eb42d8c2",
+               :page 16,
+               :position {:bounding {:x1 118,
+                                     :y1 423.1162109375,
+                                     :x2 671,
+                                     :y2 572.1162109375,
+                                     :width 789.9999999999999,
+                                     :height 1022.3529411764705},
+                          :rects (),
+                          :page 16},
+               :content {:text "[:span]", :image 1684160017026},
+               :properties {:color "blue"}}],
+ :extra {:page 16}}

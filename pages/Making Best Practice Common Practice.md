@@ -1,4 +1,4 @@
-tags:: narrative
+tags:: home, narrative
 
 - >  Below is [a thesis proposal](https://github.com/colevandersWands/thesis-proposal) written in early 2020, bad timing.  The dissertation never happened but this still tells a good story and well-describes what I've worked towards ever since. (thank you Julie!)
 	- #todo - revise for this format, add intralinks

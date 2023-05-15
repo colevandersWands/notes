@@ -1,6 +1,7 @@
 tags:: meta
 
 - Metatags: tags applied to notes or blocks that describe their role in the graph, not their content
+	- #home -> things to appear on the home page
 	- #bibliography
 	- #narrative
 	- #question

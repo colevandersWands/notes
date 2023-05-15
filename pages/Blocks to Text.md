@@ -1,4 +1,4 @@
-tags:: narrative
+tags:: home, narrative
 
 - > [[Blocks to Text]] is adapted (read: copy-pasted) from a [github organization](https://github.com/blocks-to-text/)  I made in 2019 about supporting the transition(s) learners make as they move from programming with blocks to programming with text.  The github organization is many things:
 	- more enthusiastic and confident than rigorous and informed
