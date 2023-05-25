@@ -6,6 +6,7 @@
 -
 - There are a few ways to find your way through all these notes:
 	- Look through the pages tagged with #home
+	- Check out the [[connecting]] board
 	- Explore open #question's
 	- Use the search icon in the upper left
 	- [Scroll the list of all pages](https://evancole.be/#/all-pages)

@@ -5,6 +5,7 @@ tags:: #bibliography
 	- [blog](https://kevinl.info/do-abstractions-have-politics/)
 - **Notes:**
 	- *Affordance Theory:* ((642822ab-f773-44b8-9da1-7c683d38a566))
+	  id:: 64416d54-78df-4eee-a9ed-b4584c8975d9
 	- ((64282318-7a46-4cb2-a31e-38ed9b39d0ac))
 	- ((64282492-72fd-4920-bbd2-329e5ef6703e))
 	- ((642824d1-aa33-4eb3-937c-185f272608d9))

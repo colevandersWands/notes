@@ -4,7 +4,7 @@ tags:: bibliography
 - full paper: ![local copy](../assets/integrating-ethics_1677757081449_0.pdf) , [online](https://dl.acm.org/doi/pdf/10.1145/3408877.3432510)
 - **Notes:**
 	- ((64008c50-b394-4934-bece-87cca4b4cf7e))
-	- this paper seems to take the approach of [[Coding to Learn]] ethics.
+	- this paper seems to take the approach of [[Programming to Learn]] ethics.
 		- maybe it's better to embed ethics *before* coding?  ((3407d0a0-b397-4f51-a74a-a40ea466a0d8))
 - FIESLER, Casey, et al. Integrating Ethics into Introductory Programming Classes. In: *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education*. 2021. p. 1027-1033.
 - ```

@@ -16,3 +16,13 @@ file-path:: ../assets/tamp-theory-of-applied-mind-programming_1683920592691_0.pd
   hl-page:: 14
   hl-color:: green
   id:: 645e9751-4023-473f-84e2-d1a1254b3a83
+- Perkins et al. noted that students first need to view tracing as valuable and feel confident in doing so. Their students were working in code they wrote, yet still, they struggled to understand what their code was doing, and what it was supposed to do
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: green
+  id:: 64650a7e-9096-4c25-8bfc-9516eeede6a4
+- Designing code – the whole game
+  ls-type:: annotation
+  hl-page:: 268
+  hl-color:: green
+  id:: 64650b09-3d25-47ee-be00-8b0ea42e0883

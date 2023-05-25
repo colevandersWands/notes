@@ -1,0 +1,3 @@
+- references
+	- [[Integrating Ethics into Introductory Programming Classes]]
+	- [[Integrating Ethics into Computer Science Education: Multi-, Inter-, and Transdisciplinary Approaches]]
