@@ -14,6 +14,9 @@ tags:: bibliography
 		- [[Notional Machine]]s don't make a subjective meaning
 	- ((646f5a3f-adc6-45ed-b713-662ad9aa1129))
 		- "surrenders control" of code -> running it, the computer takes over.  PR, your colleagues.  User uses the software, [[Devs watching QA test the product]].
+	- **Coding and Composing with Two Triangles**
+	  id:: 64761851-cb2e-4723-889d-c8ea92730933
+		- ![combined-figure-1-2-coding-with-power.svg](../assets/combined-figure-1-2-coding-with-power_1685461108334_0.svg)
 	- the paper compares editors to compilers.  is this an interesting perspective for novice-friendly errors and warnings? #question
 		- ((646f6c71-e901-44b3-892e-5c2b48330b0f))
 		- ((646f6c8a-7baa-4792-9381-d6323a74b88b))

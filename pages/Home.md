@@ -9,9 +9,10 @@
 	- Check out the [[connecting]] board
 	- Explore open #question's
 	- Use the search icon in the upper left
-	- [Scroll the list of all pages](https://evancole.be/#/all-pages)
-	- [Explore the graph](https://evancole.be/#/graph)
+	- [Scroll the list of all pages](https://evancole.be/notes/#/all-pages)
+	- [Explore the graph](https://evancole.be/notes/#/graph)
 -
 - [GitHub: @colevandersWands](https://github.com/colevandersWands)
 - [Notes Source](https://github.com/colevandersWands/notes)
 - evan dot cole at vub dot be
+-

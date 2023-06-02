@@ -17,6 +17,14 @@
 		- How does teaching "computational thinking" fit into this? and [[Notional Machine]]s? and [[Rhetorics-First Introductory Sequence]]?
 - [[Rhetorical Code Studies]]
 -
+- some diagrams that focus narrowly on the text and the no/computer
+	- **Collaborative Writing**
+	  id:: 647618a3-f9e5-40c2-8065-b8108df6ee49
+		- ![1-1-collaborative-writing.svg](../assets/1-1-collaborative-writing_1685461230743_0.svg)
+	- **Collaborative Development**
+	  id:: 647618a8-dcc3-4625-9140-9e44e10a1959
+		- ![1-2-collaborative-coding.svg](../assets/1-2-collaborative-coding_1685461243762_0.svg){:height 765, :width 619}
+-
 -
 - developers vs. programmers:
 	- https://computinged.wordpress.com/2012/05/21/we-need-to-produce-far-more-software-developers-than-programmers-how-do-we-change/

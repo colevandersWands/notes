@@ -1,8 +1,10 @@
 tags:: bibliography
 
-- **Abstract:** The phrase ‘trading zone’ is often used to denote any kind of interdisciplinary partnership in which two or more perspectives are combined and a new, shared language develops. In this paper we distinguish between different types of trading zone by asking whether the collaboration is co-operative or coerced and whether the end-state is a heterogeneous or homogeneous culture. In so doing, we find that the voluntary development of a new language community—what we call an inter-language trading zone—represents only one of four possible configurations. In developing this argument we show how different modes of collaboration result in different kinds of trading zone, how different kinds of trading zone may be ‘nested’ inside each other and discuss how a single collaboration might move between different kinds of trading zone over time. One implication of our analysis is that interactional expertise is a central component of at least one class of trading zone
-- full paper: ![local copy](../assets/collins_et_al._-_2007_-_trading_zones_and_interactional_expertise_1677409314695_0.pdf), [online](http://www.worldpece.org/sites/default/files/artifacts/media/pdf/collins_et_al._-_2007_-_trading_zones_and_interactional_expertise.pdf)
-- **Notes:**
+- ## Abstract
+	- The phrase ‘trading zone’ is often used to denote any kind of interdisciplinary partnership in which two or more perspectives are combined and a new, shared language develops. In this paper we distinguish between different types of trading zone by asking whether the collaboration is co-operative or coerced and whether the end-state is a heterogeneous or homogeneous culture. In so doing, we find that the voluntary development of a new language community—what we call an inter-language trading zone—represents only one of four possible configurations. In developing this argument we show how different modes of collaboration result in different kinds of trading zone, how different kinds of trading zone may be ‘nested’ inside each other and discuss how a single collaboration might move between different kinds of trading zone over time. One implication of our analysis is that interactional expertise is a central component of at least one class of trading zone
+- ## Full Paper
+	- ![local copy](../assets/collins_et_al._-_2007_-_trading_zones_and_interactional_expertise_1677409314695_0.pdf), [online](http://www.worldpece.org/sites/default/files/artifacts/media/pdf/collins_et_al._-_2007_-_trading_zones_and_interactional_expertise.pdf)
+- ## Notes
 	- ? ((63fb3d1f-15c6-4175-a728-6b8ef6b05a00))
 	- ((63fb3db3-eed6-4618-b6c1-664a386f5fbf))
 		- [[Conceptualizing the Researcher-Theory Relation]]
@@ -42,19 +44,20 @@ tags:: bibliography
 	- ((63fb6bc6-92b9-4a32-87da-59763b24690a))
 		- ((63f7534f-d573-4b96-a09b-ba1f6567337a))
 	-
-- **Cites:**
+- ## Citations
 	- [[Institutional Ecology, 'Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39]]
-- COLLINS, Harry; EVANS, Robert; GORMAN, Mike. Trading zones and interactional expertise. *Studies in History and Philosophy of Science Part A*, 2007, 38.4: 657-666.
-- ```
-  @article{collins2007trading,
-    title={Trading zones and interactional expertise},
-    author={Collins, Harry and Evans, Robert and Gorman, Mike},
-    journal={Studies in History and Philosophy of Science Part A},
-    volume={38},
-    number={4},
-    pages={657--666},
-    year={2007},
-    publisher={Elsevier}
-  }
-  ```
-	-
+- ## Cite Me
+	- COLLINS, Harry; EVANS, Robert; GORMAN, Mike. Trading zones and interactional expertise. *Studies in History and Philosophy of Science Part A*, 2007, 38.4: 657-666.
+	- ```
+	  @article{collins2007trading,
+	    title={Trading zones and interactional expertise},
+	    author={Collins, Harry and Evans, Robert and Gorman, Mike},
+	    journal={Studies in History and Philosophy of Science Part A},
+	    volume={38},
+	    number={4},
+	    pages={657--666},
+	    year={2007},
+	    publisher={Elsevier}
+	  }
+	  ```
+		-

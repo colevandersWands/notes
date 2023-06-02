@@ -1,10 +1,11 @@
 tags:: bibliography
 
-- **Introduction:**
+- ## Introduction
 	- ((646f5782-8fff-4836-9496-a8caac2504f8))
 	- ((646f5789-2f7d-4c10-874b-d57b9cca7b17))
-- full paper: ![local copy](../assets/10.4324_9781003287483-31_chapterpdf_1685018454931_0.pdf), [online](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003287483-31/selective-review-computing-education-research-lauri-malmi-aditya-johri)
-- **Notes:**
+- ## The Paper
+	- ![local copy](../assets/10.4324_9781003287483-31_chapterpdf_1685018454931_0.pdf), [online](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003287483-31/selective-review-computing-education-research-lauri-malmi-aditya-johri)
+- ## Notes
 	- ((646f57be-e9d4-46fb-b5f9-53ecc96982fe))
 		- ((646f57c6-1433-47c7-8483-480924598fb4))
 			- [[Rhetorics of Programming]], [[Module/Welcome to JS/1. What Is Programming]]
@@ -16,14 +17,15 @@ tags:: bibliography
 			- [[Module/Behavior, Strategy, Implementation]]
 		- ((646f57f2-4552-4dbd-9896-d3f95769da42))
 			- [[Study Lenses]]
-- Malmi L, Johri A. A Selective Review of Computing Education Research. International Handbook of Engineering Education Research. 2023:573-93.
-- ```
-  @article{malmi2023selective,
-    title={A Selective Review of Computing Education Research},
-    author={Malmi, Lauri and Johri, Aditya},
-    journal={International Handbook of Engineering Education Research},
-    pages={573--593},
-    year={2023},
-    publisher={Routledge}
-  }
-  ```
+- ## Cite Me
+	- Malmi L, Johri A. A Selective Review of Computing Education Research. International Handbook of Engineering Education Research. 2023:573-93.
+	- ```
+	  @article{malmi2023selective,
+	    title={A Selective Review of Computing Education Research},
+	    author={Malmi, Lauri and Johri, Aditya},
+	    journal={International Handbook of Engineering Education Research},
+	    pages={573--593},
+	    year={2023},
+	    publisher={Routledge}
+	  }
+	  ```
