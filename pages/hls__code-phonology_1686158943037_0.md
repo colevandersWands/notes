@@ -1,0 +1,8 @@
+file:: [code-phonology_1686158943037_0.pdf](../assets/code-phonology_1686158943037_0.pdf)
+file-path:: ../assets/code-phonology_1686158943037_0.pdf
+
+- When children learn to read, they almost invariably start with oral reading: reading the words and sentences out loud. Experiments have shown that when novices read text aloud, their comprehension is better then when reading in silence. This is attributed to the fact that reading aloud focuses the child’s attention to the text. We hypothesize that reading code aloud could support program comprehension in a similar way, encouraging novice programmers to pay attention to details. To this end we explore how novices read code, and we found that novice programmers vocalize code in different ways, sometimes changing vocalization within a code snippet. We are thus lead to believe that in order to teach novices to read code aloud, an agreed upon way of reading code is needed. As such, this paper proposes studying code phonology, ultimately leading to a shared understanding about how code should be read aloud, such that this can be practiced. In addition to being valuable as an educational and diagnostic tool for novices, we believe that pair programmers could also benefit from standardized communication about code, and that it could support improved tools for visually and physically disabled programmers.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 6480becf-00f9-4ff6-9f95-8a1923bedfa0

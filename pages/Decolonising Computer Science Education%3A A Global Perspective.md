@@ -1,8 +1,10 @@
 tags:: bibliography
 
-- **Abstract:** ((640ca87e-bc23-4219-b5c2-d6a14a520f37))
-- full paper: ![local copy](../assets/decolonising-cse-global-perspective_1678551115123_0.pdf), [online](https://dl.acm.org/doi/pdf/10.1145/3545945.3569870)
-- **Notes:**
+- ## Abstract
+	- ((640ca87e-bc23-4219-b5c2-d6a14a520f37))
+- ## Full Paper
+	- ![local copy](../assets/decolonising-cse-global-perspective_1678551115123_0.pdf), [online](https://dl.acm.org/doi/pdf/10.1145/3545945.3569870)
+- ## Notes
 	- this is a [[Radical Novelty]] for me, not much to say but highlighting passages for now
 	- ((640cb46b-bc6d-42c9-abb1-2956e7b3df71))
 		- ((640caa28-14ae-4738-abe8-fc9eac6c80fa))
@@ -61,25 +63,25 @@ tags:: bibliography
 			- [[Participatory Computing Education Research]] -> ((640b8af2-4a25-49e8-a82f-ac3c143e8810))
 		- ((64146fbd-30df-43e8-a235-16fe32caea85))
 		-
-		-
-- Mawera Karetai, Samuel Mann, Dhammika Dave Guruge, Sherlock Licorish, and Alison Clear. 2023. Decolonising Computer Science Education - A Global Perspective. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 1097–1102. https://doi.org/10.1145/3545945.3569870
-- ```
-  @inproceedings{
-    10.1145/3545945.3569870,
-    author = {Karetai, Mawera and Mann, Samuel and Guruge, Dhammika Dave and Licorish, Sherlock and Clear, Alison},
-    title = {Decolonising Computer Science Education - A Global Perspective},
-    year = {2023},
-    isbn = {9781450394314},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3545945.3569870},
-    doi = {10.1145/3545945.3569870},
-    abstract = {There is an increasing recognition that computing education and the profession of computing has failed indigenous learners around the world. In this paper we argue for a reform of tertiary education's computing curricula so that they address the needs of both indigenous and non-indigenous learners. To achieve this, we must first consider the role of computing as a negative colonising force that continues to the present. This paper integrates traditional methods of storytelling to provide context for a reframing of computing as a decolonising force. A case study of the New Zealand context where Mori have been underserved by both computing education and the computing profession, is used to identify systemic barriers. We propose a process of partnership that empowers indigenous communities to work with industry and education to imagine a computing profession that positively contributes to thriving decolonised practice. And then how can computer science education contribute to that? We then canvas some potential directions a transformation of computing education might take. This paper is not intended to replace or pre-empt partnerships or indigenous self-determination, but to inspire computer science educators towards developing an approach that improves outcomes for all learners.},
-    booktitle = {Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1},
-    pages = {1097–1102},
-    numpages = {6},
-    keywords = {decolonise, computer science, indigenous, education, curriculum},
-    location = {Toronto ON, Canada},
-    series = {SIGCSE 2023}
-  }
-  ```
+## Cite Me
+	- Mawera Karetai, Samuel Mann, Dhammika Dave Guruge, Sherlock Licorish, and Alison Clear. 2023. Decolonising Computer Science Education - A Global Perspective. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 1097–1102. https://doi.org/10.1145/3545945.3569870
+	- ```
+	  @inproceedings{
+	    10.1145/3545945.3569870,
+	    author = {Karetai, Mawera and Mann, Samuel and Guruge, Dhammika Dave and Licorish, Sherlock and Clear, Alison},
+	    title = {Decolonising Computer Science Education - A Global Perspective},
+	    year = {2023},
+	    isbn = {9781450394314},
+	    publisher = {Association for Computing Machinery},
+	    address = {New York, NY, USA},
+	    url = {https://doi.org/10.1145/3545945.3569870},
+	    doi = {10.1145/3545945.3569870},
+	    abstract = {There is an increasing recognition that computing education and the profession of computing has failed indigenous learners around the world. In this paper we argue for a reform of tertiary education's computing curricula so that they address the needs of both indigenous and non-indigenous learners. To achieve this, we must first consider the role of computing as a negative colonising force that continues to the present. This paper integrates traditional methods of storytelling to provide context for a reframing of computing as a decolonising force. A case study of the New Zealand context where Mori have been underserved by both computing education and the computing profession, is used to identify systemic barriers. We propose a process of partnership that empowers indigenous communities to work with industry and education to imagine a computing profession that positively contributes to thriving decolonised practice. And then how can computer science education contribute to that? We then canvas some potential directions a transformation of computing education might take. This paper is not intended to replace or pre-empt partnerships or indigenous self-determination, but to inspire computer science educators towards developing an approach that improves outcomes for all learners.},
+	    booktitle = {Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1},
+	    pages = {1097–1102},
+	    numpages = {6},
+	    keywords = {decolonise, computer science, indigenous, education, curriculum},
+	    location = {Toronto ON, Canada},
+	    series = {SIGCSE 2023}
+	  }
+	  ```

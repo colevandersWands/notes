@@ -36,5 +36,6 @@ alias:: CERC
 -
 - possible inspirations
 	- https://computingeducationresearch.org/
+	  id:: 64416d53-fb8d-40d4-8295-6cb300162d74
 	- https://mitili.mit.edu/
 	- https://santafe.edu/ ?

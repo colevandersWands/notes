@@ -1,4 +1,5 @@
-- (on hold until after some more study with: [[LaTeX]], [[Mathematical Reading, Writing, Translating]], [[Mathematical and Scientific Writing]], [[Handout 7: Mathematical Writing Exercises Solutions]], !! [[A Mathematician's Lament]] !!)
+- (on hold until after some more study with: [[LaTeX]], [[Mathematical Reading, Writing, Translating]], [[Mathematical and Scientific Writing]], [[Handout 7: Mathematical Writing Exercises Solutions]], [[A Mathematician's Lament]])
+	- start with [[Introduction to Categories and Categorical Logic]]?
 -
 - why study category theory
 	- to think about and plan research more clearly

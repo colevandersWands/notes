@@ -1,18 +1,20 @@
-- What you're reading is a big work in-progress; I'm trying to organize everything I've learned, experienced and designed while teaching programming into something you might find helpful.
+- These are my notes, old ones and new ones, on all sorts of things. Mostly about teaching programming for now because I've been busy with this lately.  But there are other things mixed in and there will be more as I slowly move more old notes to this site.
 -
 - Don't look for a master plan (just yet at least). For now I'm starting with the first thing that comes to mind then following that train of thought. When that train reaches its terminus, I open a random file (notes, code, PDF, anything) and start from there.
 -
-- Special thanks all of my students whose patience and collaboration made this possible, all the developers who shared their experience and teaching advice, and my colleagues who made sure I had the time to focus on designing education.
--
 - There are a few ways to find your way through all these notes:
-	- Look through the pages tagged with #home
+	- Look through the pages tagged with #narrative
 	- Check out the [[connecting]] board
 	- Explore open #question's
 	- Use the search icon in the upper left
 	- [Scroll the list of all pages](https://evancole.be/notes/#/all-pages)
 	- [Explore the graph](https://evancole.be/notes/#/graph)
+	- [Clone the notes](https://github.com/colevandersWands/notes) and open them locally with Logseq
 -
+- [evancole.be](https://evancole.be)
+- email at evancole dot be
 - [GitHub: @colevandersWands](https://github.com/colevandersWands)
-- [Notes Source](https://github.com/colevandersWands/notes)
-- evan dot cole at vub dot be
+-
+-
+-
 -
