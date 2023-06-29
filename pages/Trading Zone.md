@@ -13,6 +13,7 @@
 		- dyslexia (gablab)
 		- compared to natural language acquisition - [[Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages]]
 		  id:: 64416d57-6afe-4a4d-be01-65dadf734d8b
+		- https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic?s=09
 	- natural language education
 	  id:: 63fb32ea-91b0-4fe2-b1f6-368e4b555ff1
 - references:

@@ -1,13 +1,14 @@
 tags:: bibliography
 
-- **Abstract:**
+- ## Abstract
 	- ((642987ed-08a0-4ca4-b14e-b0493315ebff))
 	- ((642987f2-620c-4b20-8250-015ff88402f6))
 	- ((642987f7-4ddb-4c75-8f3e-8cb064be2904))
 	- ((642987fa-44d7-4fd8-9918-b7fda82b8b3d))
 	- ((642987fe-7786-4444-8574-2c569e117d35))
-- **Full Paper:** ![3543512.pdf](../assets/3543512_1680443349000_0.pdf)
-- **Notes:**
+- ## Full Paper
+	- ![3543512.pdf](../assets/3543512_1680443349000_0.pdf)
+- ## Notes
 	- [[Research-Practice Partnership]]
 	- {{embed ((63f75350-4779-410a-b9f0-168cab1faf2a))}}
 	- ((642b271e-626b-4f04-b978-6eb9aeedf922))
@@ -48,3 +49,5 @@ tags:: bibliography
 	- ((642c4753-4a5a-4b78-ac02-a7c4dbea142f))
 - ((642c47e7-c9f0-4471-a6be-32942e5b1127))
 	- ((642c47fd-09f3-4997-ac85-39491ae8ed86))
+	-
+-

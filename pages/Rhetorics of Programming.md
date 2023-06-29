@@ -1,3 +1,5 @@
+alias:: "Big Picture" Diagrams
+
 - [[Rhetorics-First Introductory Sequence]] , [[Spiderweb Curriculum]]
 - [[Full Complexity, Max Simplicity]], [[Whole Game]], [[Spiderweb Curriculum]]
 - i wonder about the [[Rhetorics of Programming]]
@@ -16,6 +18,9 @@
 	- [[A Mathematician's Lament]] -> A Programmer's Lament? #question
 		- How does teaching "computational thinking" fit into this? and [[Notional Machine]]s? and [[Rhetorics-First Introductory Sequence]]?
 - [[Rhetorical Code Studies]]
+	- [[rhetorical { code } studies : discovering.arguments in.and.around.code]]
+	- https://electronicbookreview.com/essay/the-code-is-not-the-text-unless-it-is-the-text/
+- https://criticalcodestudies.com/
 -
 - some diagrams that focus narrowly on the text and the no/computer
 	- **Collaborative Writing**

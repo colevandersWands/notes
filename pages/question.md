@@ -7,3 +7,15 @@ tags:: meta
 	- ...
 -
 - What does a "working developer" actually need to do? Which of these skills can and can't be efficiently/effectively learned on the job?
+-
+- What does low-tech training for high-tech jobs look like?  Not [[CS Unplugged]], but full job trainings.
+	- _learner constraints_: connectivity, access to devices, access to power, time, place to study, social expectations, ...
+	- _outcomes_: ready for digital work, either to build local projects or to earn higher salaries from remote work
+	- _approaches_: coding & tracing on paper? online/offline learning environment? low-power build chains & dev environments? better mobile development tooling?  teaching/learning technologies suited to these constraints?
+		- what first technical projects could these graduates work on that could bootstrap future cohorts?  electricity infrastructure? local networks?
+		- https://scholar.google.com/scholar?hl=nl&as_sdt=0%2C5&q=Battery-Free+Game+Boy&btnG=&oq=evan+cole
+	-
+- how many ways can these ideas be reconsiled?
+	- ... (phone notes)
+	-
+-
