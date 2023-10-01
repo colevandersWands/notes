@@ -1,0 +1,8 @@
+- #reference
+- ## Full Book
+	- ![local copy](../assets/Hello_World_The_Big_Book_of_Pedagogy_1686146689310_0.pdf), [online](https://helloworld.raspberrypi.org/books/big_book_of_pedagogy)
+- ## Notes
+	- [[CERC]] -> ((64416d53-fb8d-40d4-8295-6cb300162d74))
+	- [[Pedagogy Quick Reads]]
+	-
+-

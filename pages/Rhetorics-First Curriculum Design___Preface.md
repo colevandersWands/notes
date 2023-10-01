@@ -1,0 +1,4 @@
+- > à la [[Category Theory/for Scientists]] and [[Abstract Algebra/Theory and Applications]]
+- ## Purpose and Audience
+- ## How to Read this Paper
+-

@@ -1,0 +1,11 @@
+- non-developer objectives
+	- [[Bringing “High-level” Down to Earth: Gaining Clarity in Conversational Programmer Learning Goals]]
+	- [[Purpose-first Programming: A Programming Learning Approach for Learners Who Care Most About What Code Achieves]]
+	- [[Avoiding the Turing Tarpit: Learning Conversational Programming by Starting from Code’s Purpose]]
+- rhetorics & code
+	- [[Coding with power: Toward a rhetoric of computer coding and composition]]
+	- [[rhetorical { code } studies : discovering.arguments in.and.around.code]]
+- PRIMM
+	- [[PRIMM: Exploring pedagogical approaches for teaching text-based programming in school]]
+	- [[Teaching computer programming with PRIMM: a sociocultural perspective]]
+-

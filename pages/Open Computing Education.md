@@ -1,4 +1,4 @@
-tags:: narrative
+tags::  home,  narrative
 
 -
 	- > [[Open Computing Education]] is a WIP, adapted from a [github repository](https://github.com/colevandersWands/fosdem-2019) I made in 2019 with big ideas about accessibly open-sourced computing education. It is many things:

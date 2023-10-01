@@ -1,0 +1,50 @@
+tags:: bibliography
+
+- **Abstract:**
+	- ((642987ed-08a0-4ca4-b14e-b0493315ebff))
+	- ((642987f2-620c-4b20-8250-015ff88402f6))
+	- ((642987f7-4ddb-4c75-8f3e-8cb064be2904))
+	- ((642987fa-44d7-4fd8-9918-b7fda82b8b3d))
+	- ((642987fe-7786-4444-8574-2c569e117d35))
+- **Full Paper:** ![3543512.pdf](../assets/3543512_1680443349000_0.pdf)
+- **Notes:**
+	- [[Research-Practice Partnership]]
+	- {{embed ((63f75350-4779-410a-b9f0-168cab1faf2a))}}
+	- ((642b271e-626b-4f04-b978-6eb9aeedf922))
+	- ((64298ab2-e76c-4c92-9230-efe7f06f6a40))
+		- [[Translational Sprints]] #question
+	- ((642c3df2-efb3-4757-bf44-d13280daa0af))
+		- ((642c3db8-bb63-4c11-823f-9cb7e3caa093))
+			- goal: research and disseminate best practices
+			- full participation of practitioners
+			- similar to Professional Development Schools (PDS)
+			- ((642c3eb7-7fec-41f6-96cb-145d5b09bac9))
+		- ((642c3eda-49fd-4b42-b805-ed4234c837f4))
+			- Communities of Research Practices (CoRPs)
+		- ((642c3f54-84dc-410d-bc36-9c7ad95e31c4))
+			- ((642c3f96-be4d-4b38-a42b-ffcb86e91278))
+			- [[Action Research]], [[Action-Design Research]]
+		- ((642c3fa9-96da-4bc8-959c-9d29bdfc0b99))
+			- ((642c3fc7-3b57-497e-a13c-1fd99e3e14c0))
+	- ((642c3fdc-8514-4e6b-b527-07ac07cfadf8))
+		- [[Negotiating Trust, Power and Culture in a Research-Practice Partnership]]
+		- [[Boundary Objects]], [[Trading Zones and Interactional Expertise]]
+		- ((642c3ff0-faad-42e3-9d66-82739d166961))
+			- [[Design-Centric Research-Practice Partnerships: Three Key Lenses for Building Productive Bridges Between Theory and Practice]]
+		- ((642c40a3-f5ac-449a-95a7-ca45c9ae81d4))
+			- ((642c40f6-2dca-42ef-80f1-cb07348784b9))
+		- ((642c41d6-cc30-42d2-9909-90c7a9dd2640))
+			- ((642c4215-594e-4762-b836-fd85a704b090))
+	- ((642c4313-d4bc-44df-b707-c00203d34ee2))
+		- ((642c42f4-4ea4-495f-96dd-a4730cd3f00e))
+- ((642c4421-a81e-44a3-8228-9e43bbe5bd8b))
+	- teachers only for first 5 weeks
+	- then identify and invite relevant researchers
+- ((642c44ef-ae4d-46fd-a89f-3bf15cc327de))
+- ((642c4697-0a66-4458-9520-fece0c21b353))
+	- ((642c4672-5dd8-4e7a-bde3-c124cb66d14c))
+- ((642c4702-5753-489e-9308-8390e77656f1))
+- ((642c4744-628d-4e2b-845e-558f11d54450))
+	- ((642c4753-4a5a-4b78-ac02-a7c4dbea142f))
+- ((642c47e7-c9f0-4471-a6be-32942e5b1127))
+	- ((642c47fd-09f3-4997-ac85-39491ae8ed86))

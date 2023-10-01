@@ -7,7 +7,7 @@
 	  5. **Make:** Students design a new program that uses the same structures but solves a new problem (e.g. has a new function).
 - references
 	- [PRIMM: encouraging talk in programming lessons](https://www.raspberrypi.org/blog/primm-talk-in-programming-lessons-research-seminar/)
-	- [Using PRIMM to structure programming lessons](https://static.teachcomputing.org/pedagogy/QR11-PRIMM.pdf?ref=national-centre-for-computing-education&_ga=2.46945317.367157475.1677691480-180243046.1676023361)
+	- [[Using PRIMM to structure programming lessons]]
 	- [PRIMM Portal](https://primmportal.com/)
 	- [[Teaching computer programming with PRIMM: a sociocultural perspective]]
 	- [[PRIMM: Exploring pedagogical approaches for teaching text-based programming in school]]

@@ -1,0 +1,21 @@
+- $f: X \to Y$.  f(Y) is a lens/perspective on X selected per purpose
+	- ((64450bfd-0457-4552-8185-f7966c50fc35))
+	- [[Study Lenses]]
+- **Exercise 1.1**: ((6445044a-f1c7-473d-918a-42b76bdb3d73)) $f: X \to Y$ is said to be:
+	- *order-preserving:* $\forall x_i, x_j \in X: x_i \leq x_j \Rightarrow f(x_i) \leq f(x_j)$
+	- *metric-preserving:* $|x_i - x_j| = |f(x_i) - f(x_j)|$
+	- *addition-preserving:* $f(x_i + x_j) = f(x_i) + f(x_j)$
+- ((64450432-7302-44da-a183-fbc003e44d6a))
+	- [[Heisenbug]], [[Sampling Error]], [[Generative Effects]], [[Selection Bias]]
+-
+- ## 1.1.1 A first look at [[Generative Effects]]
+- ((64450c60-e409-40c9-af33-2a4f425666a5))
+	- a sort of system (Object)
+	- a sort of observation ([[morphism]])
+	- a system-level operation that is not preserved by the observation (lost information/detail)
+- Alice's operation: $\phi = \begin{cases}  true & \text{ if   } • \leftrightarrow * \\ false & otherwise  \end{cases}$
+	- "lossy" when composed with $\lor$.  it can be that both composed functions have the same AliceValue, but their composition does not.
+- ((64623e13-d10d-4e90-8d34-76c1eb42d8c2))
+	- 21, 11->12->22->23->13
+-
+-

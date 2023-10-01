@@ -1,0 +1,21 @@
+tags:: bibliography, reference
+
+- ## Full Book
+	- ![local copy](../assets/rhetorical-code-studies_1684845634231_0.pdf), [online](https://library.oapen.org/bitstream/id/bd197f2f-4411-445e-a7e5-9f89c41fc21a/1006145.pdf)
+- **Notes:**
+	- [[Rhetorics of Programming]], [[Rhetorics-First Introductory Sequence]], [[Rhetorics-First Curriculum Design]]
+	- ((646db39d-ae33-4307-abf9-cfda6dd93bbd)) ((646db3c7-b661-42c7-ab24-6e6e76f3d170))
+	- ((646db426-5aae-45d5-b9b4-2a3e343acff9))
+	- ((646d167d-86bf-4ad4-9424-481c4e3e3e21))
+	- ((646d169a-4779-462f-b868-321a42a2fb21))
+	- ((646cb49f-cc46-440c-a448-fd511e31bb0a))
+	- ((646db6c5-14a1-438b-9859-821ccd0a363c))
+		- near-discipline precedence
+	- ((646db70b-1a43-481b-ba6d-0b9013af5740))
+		- one [[Rhetorical Situation]] for each programming context/domain
+	- ((646d16e9-9488-49b7-af3a-43d8dfd53b8f))
+		- [[Do Abstractions Have Politics? Toward a More Critical Algorithm Analysis]] -> ((64416d54-78df-4eee-a9ed-b4584c8975d9))
+	- ((646d1df7-5891-4555-b640-2a8f5ac482c3))
+	- ((646d1cba-474f-452f-9c95-94c5b672aee3))
+		- the diagram
+	-

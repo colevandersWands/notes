@@ -1,2 +1,4 @@
-- [[Negotiating Trust, Power and Culture in a Research-Practice Partnership]]
-- [[Trading Zones]]
+- references
+	- [[Negotiating Trust, Power and Culture in a Research-Practice Partnership]]
+	- [[Mapping Roles in Research-Practice Partnerships - A Systematic Literature Review]]
+- [[Trading Zone]]

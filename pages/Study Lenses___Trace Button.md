@@ -2,7 +2,7 @@
 	- learners can configure the trace to focus on different aspects of the program's execution
 	- to help learn how to discuss a program's execution, the trace uses some technical vocabulary
 	- the trace button can be used to check hand-written [Trace Tables]([[Study Lenses/Trace Tables]])
-	- implemented using [aran](https://github.com/lachrist/aran), a library for JavaScript instrumentation. (thank you Laurent!)
+	- implemented using [[Aran]], a library for JavaScript instrumentation. (thank you Laurent!)
 	- admittedly, it's not the most user friendly for now.  but it has potential
 - tracing the same code with different configurations
 	- ![study-lenses-trace-button.gif](../assets/study-lenses-trace-button_1677431504635_0.gif)

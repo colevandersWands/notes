@@ -1,6 +1,6 @@
-tags:: narrative
-audience:: tbd
 id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
+tags::  home,  narrative
+audience:: tbd
 
 - we need to #unask what programming languages or paradigms to teach first, and instead ask "how do we teach _how_ and _why_ programming happens?".
 	- how do groups of people fund, develop, deploy and use software to create meaning and shape society?
@@ -16,6 +16,7 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 	- [[Integrating Ethics into Introductory Programming Classes]] becomes natural, a Rhetorical Situation prioritizes bigger questions over technical details
 - i wonder about [[Rhetorics-First Introductory Sequence]]
 	- is [[PRISMM]] just another pretty acronym, or could it be a useful starting point for Rhetorical curriculum design? #question
+	  id:: 64416d57-8c39-47df-aee2-95b79258e9e3
 	- are [[Large Language Models]] a boon to rhetorics-first teaching?  Rhetorics-First is [[PRISMM]]-heavy, so educators won't need to manually create all examples. and the issues surrounding LLM and other code generators (security, IP, efficiency, ...) all make great talking points.   #question
 	  id:: 640a4775-f253-4bb0-926e-d0e8a903e252
 		- not just the code that it generates, but also the chat bots? and refining code through chat?
@@ -38,7 +39,7 @@ id:: 6401bcd3-ec4a-465c-9574-3591c7a12757
 	  id:: 640caaf3-ca94-4701-97b0-e54a356162bc
 - below is one possible introductory sequence designed around snowballing rhetorical situations instead of technical objectives
 	- **note**: I have been teaching this way for the last few years. Not always overtly but it has informed how i set expectations for learners, sequence learning objectives, and design projects.
-		- The course i ran began with collaboration skills around markdown files, then project management with simple HTML/CSS projects, then Design Thinking and User Empathy (still with only HTML/CSS).  Only after 2 months of this did we move on to JS.
+		- The course i helped run began with collaboration skills around markdown files, then project management with simple HTML/CSS projects, then Design Thinking and User Empathy (still with only HTML/CSS).  Only after 2 months of this did we move on to JS.
 		- feedback and results have been good.  the strongest encouragement i get is from the many learners who say they found their place in software development as designers or project coordination, even if the JS programming never clicked for them. i don't believe this would be possible with a more conventional programming-first approach
 		- [[Full Complexity, Max Simplicity]], [[Whole Game]], [[Process Over Product]]
 	- **Big Picture 1**: *multiple humans collaborating on one body of text*.

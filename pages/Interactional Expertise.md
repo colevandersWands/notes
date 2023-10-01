@@ -1,0 +1,7 @@
+- ((64416d57-fb75-4e7d-bf5f-3fdcca1db9a4))
+-
+- [[Trading Zone]]
+-
+- references
+	- [[Trading Zones and Interactional Expertise]]
+-

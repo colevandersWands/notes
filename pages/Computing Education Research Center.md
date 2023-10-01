@@ -7,7 +7,7 @@ alias:: CERC
 	- -> conceives of [[CER]] as a [translational transdiscipline]([[Translational Computing Education Research Model]])
 	- is a digital culture and community center
 		- transformational progress comes from [[Radical Novelty]]
-		- which comes from perspectives you do not already hold -> [[Trading Zones]],
+		- which comes from perspectives you do not already hold -> [[Trading Zone]],
 		- so meet, share, learn. all humans, all cultures, all values. especially the challenging ones
 	- professionalize & connect CE researchers to ensure identity, recognition & longevity as a field
 		- by providing networking & connections for researchers
@@ -36,5 +36,6 @@ alias:: CERC
 -
 - possible inspirations
 	- https://computingeducationresearch.org/
+	  id:: 64416d53-fb8d-40d4-8295-6cb300162d74
 	- https://mitili.mit.edu/
 	- https://santafe.edu/ ?

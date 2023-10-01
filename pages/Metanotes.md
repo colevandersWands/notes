@@ -1,6 +1,7 @@
 tags:: meta
 
 - Metatags: tags applied to notes or blocks that describe their role in the graph, not their content
+	- #home -> things to appear on the home page
 	- #bibliography
 	- #narrative
 	- #question
@@ -14,12 +15,20 @@ tags:: meta
 	- [Beyond iTunes for Papers]([[Beyond iTunes for Papers: Redefining the Unit of Interaction in Literature Review Tools]])
 	- [[Metanotes/Discourse Graphs]]
 	- existing tools: https://elicit.org/ (https://ought.org/), https://www.researchrabbit.ai/
+	- simpler, Zotero integration?
+		- https://blog.logseq.com/citation-needed-how-to-use-logseqs-zotero-integration/
+		- https://discuss.logseq.com/t/comprehensive-zotero-plugin/8571
+		- https://medium.com/@pkmbeth/how-to-use-the-zotero-logseq-integration-57f1fe07df1e
 -
 - using tags
 	- authors, topics, ... ?
 	- in templates? (eg. for bibliography)
 	- ? status
 	- [with PDFs](https://www.youtube.com/watch?v=vIDyXyEj_FI)
+-
+- how to deal with globally ambiguous terms like "identity", not the same in math as in CER
+	- name spaces and aliases? eg. `identity/math`, `identity/human`
+	- for now, just going with globals. can find a solution after more experience and several nuisances
 -
 - targeting audience
 	- https://maggieappleton.com/assumed-audience

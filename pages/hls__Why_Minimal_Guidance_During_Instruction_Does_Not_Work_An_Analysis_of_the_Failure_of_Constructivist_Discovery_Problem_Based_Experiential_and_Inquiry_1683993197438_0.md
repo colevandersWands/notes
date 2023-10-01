@@ -1,0 +1,8 @@
+file:: [Why_Minimal_Guidance_During_Instruction_Does_Not_Work_An_Analysis_of_the_Failure_of_Constructivist_Discovery_Problem_Based_Experiential_and_Inquiry_1683993197438_0.pdf](../assets/Why_Minimal_Guidance_During_Instruction_Does_Not_Work_An_Analysis_of_the_Failure_of_Constructivist_Discovery_Problem_Based_Experiential_and_Inquiry_1683993197438_0.pdf)
+file-path:: ../assets/Why_Minimal_Guidance_During_Instruction_Does_Not_Work_An_Analysis_of_the_Failure_of_Constructivist_Discovery_Problem_Based_Experiential_and_Inquiry_1683993197438_0.pdf
+
+- Evidence for the superiority of guided instruction is explained in the context of our knowledge of human cognitive architecture, expert–novice differences, and cognitive load. Although unguided or minimally guided instructional approaches are very popular and intuitively appealing, the point is made that these approaches ignore both the structures that constitute human cognitive architecture and evidence from empirical studies over the past half-century that consistently indicate that minimally guided instruction is less effective and less efficient than instructional approaches that place a strong emphasis on guidance of the student learning process. The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide “internal” guidance. Recent developments in instructional research and instructional design models that support guidance during instruction are briefly described.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 645fb2bc-3add-43da-a1a0-3d731d6b6d23

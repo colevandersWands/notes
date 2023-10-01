@@ -1,4 +1,4 @@
-tags:: narrative
+tags:: home,  narrative
 
 - (_This page is adapted from [Welcome to JS/What is Programming](https://github.com/DeNepo/welcome-to-js/tree/master/1-what-is-programming)_)
 - ## What is Programming

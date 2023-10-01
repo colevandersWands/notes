@@ -1,0 +1,2 @@
+- https://electronicbookreview.com/essay/critical-code-studies/
+- [[Rhetorical Code Studies]] [[Rhetorics of Programming]]

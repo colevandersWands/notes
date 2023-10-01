@@ -1,0 +1,8 @@
+file:: [IntroCSTheoryOfInstruction_1676979416173_0.pdf](../assets/IntroCSTheoryOfInstruction_1676979416173_0.pdf)
+file-path:: ../assets/IntroCSTheoryOfInstruction_1676979416173_0.pdf
+
+- Background and Context: Current introductory instruction fails to identify, structure, and sequence the many skills involved in programming. Objective: We proposed a theory which identifies four distinct skills that novices learn incrementally. These skills are tracing, writing syntax, comprehending templates (reusable abstractions of programming knowledge), and writing code with templates. We theorized that explicit instruction of these skills decreases cognitive demand. Method: We conducted an exploratory mixed-methods study and compared students’ exercise completion rates, error rates, ability to explain code, and engagement when learning to program. We compared material that reflects this theory to more traditional material that does not distinguish between skills. Findings: Teaching skills incrementally resulted in improved completion rate on practice exercises, and decreased error rate and improved understanding of the post-test. Implications: By structuring programming skills such that they can be taught explicitly and incrementally, we can inform instructional design and improve future research on understanding how novice programmers develop understanding.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 64774c95-26e1-4394-adf0-fa37eca7d899

@@ -11,6 +11,7 @@ alias:: CER as a TT
 	- ((63fb2da1-a029-4ede-b63d-1f80d4674be4))
 	- ((63fb69db-5e9f-45c8-962a-888acbb07b4e))
 	- ((6401cecd-93cf-4790-a11e-b4af3af67eb4))
+	- ((641c9d9b-7184-43f1-8d95-bb0d7d9d118c))
 	- future work: ((6404ccf8-1c6f-4663-a648-a1c117436d19)) -> meet CER where it is to shift it's assumptions
 - COLE, Evan; MALAISE, Yoshi; SIGNER, Beat. Computing Education Research as a Translational Transdiscipline. In: *54th ACM Technical Symposium on Computer Science Education*. 2023.
 - ```

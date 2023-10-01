@@ -2,7 +2,7 @@
 	- **P**_redict_ what the program will do, be as precise as possible
 	- **R**_un_ the program to check your prediction, carefully describe how your prediction was correct and incorrect
 	- **I**_nvestigate_ the program (static & dynamic) to understand how and why it works
-	- **S**_ituate_ the program in a broader context ([rhetorical]([[Rhetorics-First Introductory Sequence]]), technical, professional, ...) to understand who made it, why they made it, who it impacts, and how.
+	- **S**_ituate_ the program in a broader context ([rhetorical]([[Rhetorics of Programming]]), technical, professional, ...) to understand who made it, why they made it, who it impacts, and how. -> [[Rhetorics-First Introductory Sequence]]
 	- **M**_odify_ the program to make small but intentional changes in it's behavior, modify the situation to explore/discuss different roles the program could play in it's context
 	- **M**_ake_ a new program with a specific rhetorical goal in mind inspired by S & M, using technical approaches you learned in I & M.
 - i wonder about [[PRISMM]]

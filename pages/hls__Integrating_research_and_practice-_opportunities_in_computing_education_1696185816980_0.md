@@ -1,0 +1,8 @@
+file:: [Integrating_research_and_practice-_opportunities_in_computing_education_1696185816980_0.pdf](../assets/Integrating_research_and_practice-_opportunities_in_computing_education_1696185816980_0.pdf)
+file-path:: ../assets/Integrating_research_and_practice-_opportunities_in_computing_education_1696185816980_0.pdf
+
+- A significant curriculum shift has taken place over the last decade, with computer science increasingly becoming included as a subject in countries around the world. Without an established literature relating to how and what to teach within K-12 computing education, there is a need for academic research that investigates how we can best support all learners of computing and facilitate positive learning outcomes. In response to this, the number of research papers and projects focusing on K-12 computing education has grown substantially in recent years. But does that research involve practitioners and is it actually impacting on classroom practice? If not, what are the mechanisms that we can use to ensure that it does? In this short discussion paper accompanying my keynote, I discuss some of the debates around the area of ‘research-to-practice’ and how the framework of knowledge mobilisation can provide insights into approaches that we might consider when working with practitioners in our research
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 6519be27-41b9-4cbc-9a7a-c225b25f92a9

@@ -1,4 +1,4 @@
-tags:: narrative
+tags:: home, narrative
 
 - How education, design and computing exist with the world
 	- software is written by someone, for a purpose. be that someone, choose your purpose

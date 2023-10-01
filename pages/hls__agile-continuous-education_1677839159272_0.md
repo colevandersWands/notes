@@ -11,3 +11,8 @@ file-path:: ../assets/agile-continuous-education_1677839159272_0.pdf
   hl-page:: 5
   hl-color:: blue
   id:: 6401d0e1-0904-467e-91ba-abc755ba4589
+- The rapid pace of innovation is challenging industries to train professionals with updated skill-sets in a continuous and rapid manner. Current academic systems enable expertise acquisition primarily through graduate-level programs. While such programs are valuable, they can also be somewhat monolithic for full-time employees balancing personal, professional, and financial obligations.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 6479e72e-4f60-4331-95d8-aca24fb20d55
