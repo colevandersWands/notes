@@ -9,8 +9,10 @@ tags:: bibliography
 		- ((6401f8c1-c7c5-49da-8f56-129d6767bf88))
 			- Theoretical Stance --> [[Conceptualizing the Researcher-Theory Relation]]
 		- *Ontology*: ((6401fcb3-3840-488e-8500-f491cd42d237))
+		  id:: 64309fea-a5d4-48ea-9118-70bf06013ce0
 			- ((64020205-0c06-4a96-bdda-296eea0850db)) - [[Trading Zones]] [TCER]([[Computing Education Research as a Translational Transdiscipline]])
 		- *Epistemology*: ((6401fd58-2dfa-44a4-b6d9-c40ea12a5821))
+		  id:: 64309fea-7d06-46e1-8f00-eaa3e78b79ce
 			- ((6401fd67-0db6-41c5-9261-639639695b90))
 		- *Axiology*: ((6401fe24-9d50-478d-95ee-3af865cafd6c))
 		  id:: 6401fd6e-e888-463b-a852-a71b65738694

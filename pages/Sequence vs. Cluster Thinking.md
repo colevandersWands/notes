@@ -1,0 +1,4 @@
+- https://blog.givewell.org/2014/06/10/sequence-thinking-vs-cluster-thinking
+-
+- Design vs. Implementation, Convergent vs. Divergent, ...
+	- https://news.ycombinator.com/item?id=7925154
