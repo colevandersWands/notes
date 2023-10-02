@@ -16,6 +16,7 @@ file-path:: ../assets/luxton-reilly-learning-iticse-16_1677791196797_0.pdf
   hl-page:: 2
   hl-color:: green
   id:: 6401123a-b77d-4a3c-a814-6d186d27d51f
+  hl-stamp:: 1688477900632
 - Other teachers have compared learning programming to learning to write poetry in a foreign language.
   ls-type:: annotation
   hl-page:: 4

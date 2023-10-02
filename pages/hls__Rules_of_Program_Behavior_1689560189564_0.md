@@ -1,0 +1,8 @@
+file:: [Rules_of_Program_Behavior_1689560189564_0.pdf](../assets/Rules_of_Program_Behavior_1689560189564_0.pdf)
+file-path:: ../assets/Rules_of_Program_Behavior_1689560189564_0.pdf
+
+- We propose a framework for identifying, organizing, and communicating learning objectives that involve program semantics. In this framework, detailed learning objectives are written down as rules of program behavior(RPBs). RPBs are teacher-facing statements that describe what needs to be learned about the behavior of a specific sort of programs. Different programming languages, student cohorts, and contexts call for different RPBs. Instructional designers may define progressions of RPB rulesets for different stages of a programming course or curriculum; we identify evaluation criteria for RPBs and discuss tradeoffs in RPB design. As a proofof-concept example, we present a progression of rulesets designed for teaching beginners how expressions, variables, and functions work in Python. We submit that the RPB framework is valuable to practitioners and researchers as a tool for design and communication. Within computing education research, the framework can inform, among other things, the ongoing exploration of “notional machines” and the design of assessments and visualizations. The theoretical work that we report here lays a foundation for future empirical research that compares the effectiveness of RPB rulesets as well as different methods for teaching a particular ruleset.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 64b4a4c0-9dc8-4d35-970a-3c9767035e37

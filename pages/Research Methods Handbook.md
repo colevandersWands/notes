@@ -1,9 +1,9 @@
-tags:: bibliography
+tags:: reference, bibliography
 
 - **Start of Introduction**: ((6401f7a5-8ed1-4efa-81c3-48b0268f9076))
 - full book: ![local copy](../assets/Research-Methods-Handbook-1649270384_1677850406700_0.pdf), [online](https://open.library.okstate.edu/gognresearchmethods/)
 	- [slides](https://www.slideshare.net/eLearnCenter/research-methods-uoc-2013)
-- **Notes:**
+- ## Notes
 	- i am studying this book to better prepare [[Agile Computing Education Research]]
 	- ((6401fe71-5473-4b77-bd95-9da06ece67d7))
 		- ((6401f8c1-c7c5-49da-8f56-129d6767bf88))
@@ -72,12 +72,13 @@ tags:: bibliography
 		-
 	-
 	- [[Global OER Graduate Network]]
-- FARROW, Robert, et al. *GO-GN research methods handbook*. Global OER Gradate Network, 2020.
-- ```
-  @book{farrow2020go,
-    title={GO-GN research methods handbook},
-    author={Farrow, Robert and Iniesto, Francisco and Weller, Martin and Pitt, Rebecca},
-    year={2020},
-    publisher={Global OER Gradate Network}
-  }
-  ```
+- ## Cite Me
+	- FARROW, Robert, et al. *GO-GN research methods handbook*. Global OER Gradate Network, 2020.
+	- ```
+	  @book{farrow2020go,
+	    title={GO-GN research methods handbook},
+	    author={Farrow, Robert and Iniesto, Francisco and Weller, Martin and Pitt, Rebecca},
+	    year={2020},
+	    publisher={Global OER Gradate Network}
+	  }
+	  ```
