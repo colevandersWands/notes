@@ -1,0 +1,7 @@
+- [[Learner Trust]], [[Spiderweb Curriculum]], [[Explicitly Teach the Implicit]], [[Time is Importance]]
+- references
+	- https://blog.alleninteractions.com/instructional-design-designing-the-learners-journey-part-1
+	- https://elearningindustry.com/how-to-design-learning-journeys
+	- https://elearningindustry.com/steps-mapping-learning-journey-by-putting-skills-gaps-and-employee-needs-first
+	- https://open.byu.edu/id/learner_analysis
+	- https://sci-hub.se/https://www.jstor.org/stable/44430436
