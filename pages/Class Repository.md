@@ -1,0 +1,4 @@
+- [[draws/2023-10-03-10-15-01.excalidraw]]
+- [[as Code/School]]
+-
+- [[Open Educational Resource]]
