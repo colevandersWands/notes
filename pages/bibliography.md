@@ -8,5 +8,5 @@ tags:: meta
 		- https://github.com/codeandcognition/archive-2023icer-xie
 	- https://www.academia.edu/86759023/A_Sociocultural_Perspective_on_Computer_Science_Capital_and_its_Pedagogical_Implications_in_Computer_Science_Education?email_work_card=view-paper
 - {{query (and [[bibliography]])}}
-  query-table:: true
+  query-table:: false
 -

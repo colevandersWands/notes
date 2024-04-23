@@ -1,5 +1,7 @@
 tags:: home, narrative
 
+- this page has been adapted into https://denepo.js.org/design-principles
+-
 - How education, design and computing exist with the world
 	- software is written by someone, for a purpose. be that someone, choose your purpose
 	- All computing is embedded in [[Rhetorical Situation]]s that it in turn helps to define. there is no escape

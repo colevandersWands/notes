@@ -4,7 +4,8 @@ tags:: design
 	- the rings of the web represents a progression of [[Language Level]]s.  The progression of language levels can be defined by [[Task Class]]es, though several language levels may fit within the same task class. Language features covered in each ring (language level) are defined by a minimal subset of features required to build projects in this task class. A separate [[Notional Machine]] can be defined for each language level to help teaching and learning
 	- each spoke of the spiral represents a progression of skills inspired by the [[Block Model]], [[SOLO Taxonomy]], [[PRIMM]], feedback + experience, ...
 	- the curriculum (and so the learner's path) spirals outwards, rehearsing each skill in progressively larger language levels
-	- an example spiral curriculum diagram: ![spiral-curriculum.png](../assets/spiral-curriculum_1677359473318_0.png){:height 632, :width 747}
+	- an example spiral curriculum diagram: ![spiral-curriculum-2.png](../assets/spiral-curriculum-2_1712802020151_0.png)
+	-
 - the role of [[Study Lenses]] in implementing a spiral curriculum
 	- makes content authorship more efficient
 	- supports learners as they explore many learning objectives with a small amount of code

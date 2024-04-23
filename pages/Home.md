@@ -1,4 +1,5 @@
 - These are my notes, old ones and new ones, on all sorts of things. Mostly about teaching programming for now because I've been busy with this lately.  But there are other things mixed in and there will be more as I slowly move more old notes to this site.
+  id:: 64416d54-b51e-47f4-ad2d-82fce90e4e44
 -
 - Don't look for a master plan (just yet at least). For now I'm starting with the first thing that comes to mind then following that train of thought. When that train reaches its terminus, I open a random file (notes, code, PDF, anything) and start from there.
 -
@@ -14,7 +15,6 @@
 - [evancole.be](https://evancole.be)
 - email at evancole dot be
 - [GitHub: @colevandersWands](https://github.com/colevandersWands)
--
 -
 -
 -

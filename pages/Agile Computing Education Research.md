@@ -10,7 +10,7 @@ title:: Agile Computing Education Research
 	- an imagined new research methodology suited to [[Computing Education Research]]
 		- fill out this thought like in [translational sprints](((6401c5cd-5062-4d6a-9bda-41c0af0b1bd7)))
 	- a form of [[Participatory Computing Education Research]]
-	- one way to approach [[Translational Research Programmes]]
+	- one way to approach [[Research Programmes/Translational]]
 		- where the "Practical & Scientific Objectives" include a [[Broader Impact]]
 	- composed in part of [[Translational Sprints]]
 	- underpinned by the [[TCER Model]]
@@ -21,7 +21,7 @@ title:: Agile Computing Education Research
 		- -> resume review of critiques and alternatives to process markers
 	- [[SEED]] can be used to generate research questions, also in [[Translational Sprints]]
 	- find notes - comparing/contrasting ACER to design science
-	- an [[Agile Computing Education Research]] research project could intersect with both [[Translational Research Programmes]] and [[Theoretical Research Programmes]]
+	- an [[Agile Computing Education Research]] research project could intersect with both [[Research Programmes/Translational]] and [[Research Programmes/Theoretical]]
 - defining [[Agile Computing Education Research]], sort of rigorously
 	- ((6401f8c1-c7c5-49da-8f56-129d6767bf88))
 	- **Method** - *techniques used*:

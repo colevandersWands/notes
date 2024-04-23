@@ -1,0 +1,8 @@
+file:: [izu_mirolo_20_preprint_1711365114216_0.pdf](../assets/izu_mirolo_20_preprint_1711365114216_0.pdf)
+file-path:: ../assets/izu_mirolo_20_preprint_1711365114216_0.pdf
+
+- Novice programmers should develop program comprehension skills as they learn to code so that they are able both to read and reason about code created by others, and to reflect on their code when writing, debugging or extending it. This work takes a little-explored perspective on the comprehension of small programs by asking students to decide if two code segments are equivalent or not in terms of carrying out the same computation. A variation of Euclid’s algorithm, that extends the greatest common divisor calculation to more than two numbers, was chosen for this work, as it has an adequate level of complexity and its semantics are not obvious. Four program transformations of the original code were developed: two transformations were equivalent and two were not. 73.5% of students were able to identify correctly the four options and 75.5% provided good insights on the equivalent program flow to justify their choices. The overall task has a SOLO mean of 3.19, which indicates code equivalence is a suitable and approachable task to analyse program execution at novice level. In addition, the data analysis suggests that students’ code-reading abilities beyond basic tracing may be generally underestimated and we should investigate how to bridge the potential gap between reasoning about program execution and extracting its purpose.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 66015c0b-d47e-41c0-b0d8-79c4a8a7895b

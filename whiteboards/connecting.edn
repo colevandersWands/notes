@@ -2,9 +2,9 @@
 {:block/content "# Study Lenses:\n"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/properties 
 {:heading 1}
 :block/uuid #uuid "64625b1e-613e-45b7-9d70-0dcaecc4bd31"} 
@@ -13,7 +13,7 @@
 :block/left 
 {:block/uuid #uuid "64625b43-aa50-4fe9-bbdc-1268abc406fd"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/properties 
 {:heading 1}
 :block/uuid #uuid "64625b41-c1e5-443c-a58a-773a6feeee9e"} 
@@ -22,84 +22,84 @@
 :block/left 
 {:block/uuid #uuid "64625b41-c1e5-443c-a58a-773a6feeee9e"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b41-2657-4874-a1d4-4e939efabbb1"} 
 {:block/content "code is content"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b41-2657-4874-a1d4-4e939efabbb1"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b41-15f5-4f19-80ac-a79ca0b8c117"} 
 {:block/content "a new foundation for computing education"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b41-15f5-4f19-80ac-a79ca0b8c117"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b41-41ab-4e6f-aedf-2a2d65a6d4b2"} 
 {:block/content "..."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b41-41ab-4e6f-aedf-2a2d65a6d4b2"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b41-2036-44a9-b7bb-4b8a93c4e69f"} 
 {:block/content "study code, not explanations"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b50-5b77-462c-bbd0-da71c6fee850"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b43-1897-493b-b8bc-6a1c2ead1c08"} 
 {:block/content "code is content"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b43-1897-493b-b8bc-6a1c2ead1c08"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b43-8f31-4997-b130-c84894ad51fd"} 
 {:block/content "a new foundation for computing education"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b43-8f31-4997-b130-c84894ad51fd"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b43-d026-4a50-ae62-96d0bd000e38"} 
 {:block/content "..."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b43-d026-4a50-ae62-96d0bd000e38"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b43-aa50-4fe9-bbdc-1268abc406fd"} 
 {:block/content "study code, not explanations"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b1e-613e-45b7-9d70-0dcaecc4bd31"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b50-f4cd-4a66-90c5-be6cd20da6fb"} 
 {:block/content "code is content"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b50-f4cd-4a66-90c5-be6cd20da6fb"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b50-dca8-4f1a-b7f1-afa3a3faf3ff"} 
 {:block/content "a new foundation for computing education"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b50-dca8-4f1a-b7f1-afa3a3faf3ff"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b50-9ecf-4300-bcb4-d88b11a97727"} 
 {:block/content "..."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64625b50-9ecf-4300-bcb4-d88b11a97727"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625b50-5b77-462c-bbd0-da71c6fee850"} 
 {:block/created-at 1684341612903
 :block/properties 
@@ -426,7 +426,7 @@
 :collapsedHeight 7286.232548923879
 :nonce 1684167745531}}
 :block/updated-at 1684342250416} 
-{:block/created-at 1684342250418
+{:block/created-at 1711794638683
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -443,7 +443,7 @@
 :compact false
 :isAutoResizing false
 :type "logseq-portal"
-:size [94.07825874446485 40]
+:size [94.07825874446485 2923.1259830870104]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -452,9 +452,9 @@
 :point [1605.4935371953982 1615.8152924650487]
 :parentId "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"
 :collapsedHeight 2923.1259830870104
-:nonce 1684167858476}}
-:block/updated-at 1684342250418} 
-{:block/created-at 1684342250416
+:nonce 1684167858477}}
+:block/updated-at 1711794638683} 
+{:block/created-at 1700044219522
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -471,13 +471,13 @@
 :id "2cf742b0-f33d-11ed-9b2c-4d36003089c8"
 :fontWeight 400
 :noFill true
-:point [1011 1678.19]
+:point [1008.02 1678.19]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [16.78 0]
+:point [19.61 0]
 :bindingId "3e8a7791-f33d-11ed-9b2c-4d36003089c8"}
 :end 
 {:id "end"
@@ -487,10 +487,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"
-:nonce 1684167959385
+:nonce 1684167959386
 :italic false}}
-:block/updated-at 1684342250416} 
-{:block/created-at 1684342250419
+:block/updated-at 1700044219522} 
+{:block/created-at 1700044219523
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -518,14 +518,14 @@
 :end 
 {:id "end"
 :canBind true
-:point [311.4 139.22]
+:point [311.4 139.92]
 :bindingId "38d79301-f33d-11ed-9b2c-4d36003089c8"}}
 :decorations 
 {:end "arrow"}
 :parentId "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"
-:nonce 1684167966125
+:nonce 1684167966126
 :italic false}}
-:block/updated-at 1684342250419} 
+:block/updated-at 1700044219523} 
 {:block/created-at 1684342282520
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -969,7 +969,7 @@
 :italic false
 :text "instructional design\n(design principles)"}}
 :block/updated-at 1684342250416} 
-{:block/created-at 1684342250418
+{:block/created-at 1700044219523
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -987,25 +987,25 @@
 :fontWeight 400
 :noFill true
 :isLocked false
-:point [835.04 2167.03]
+:point [829.18 2167.03]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [141.05 0]
+:point [146.91 0]
 :bindingId nil}
 :end 
 {:id "end"
 :canBind true
-:point [0 163.52]
+:point [0 167.63]
 :bindingId "60ff4f21-f33e-11ed-9b2c-4d36003089c8"}}
 :decorations 
 {:end "arrow"}
 :parentId "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"
-:nonce 1684167959494
+:nonce 1684167959495
 :italic false}}
-:block/updated-at 1684342250418} 
+:block/updated-at 1700044219523} 
 {:block/created-at 1684342250419
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1151,7 +1151,7 @@
 :block/left 
 {:block/uuid #uuid "64625b41-2036-44a9-b7bb-4b8a93c4e69f"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "64625f89-c0b4-40f1-aeed-1e18623f736d"} 
 {:block/created-at 1684342250418
 :block/properties 
@@ -2551,7 +2551,7 @@
 :block/left 
 {:block/uuid #uuid "64625f89-c0b4-40f1-aeed-1e18623f736d"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/uuid #uuid "646505c3-dc82-43b3-a715-630449ba14de"} 
 {:block/created-at 1684342301296
 :block/properties 
@@ -2660,7 +2660,7 @@
 :block/left 
 {:block/uuid #uuid "646505c3-dc82-43b3-a715-630449ba14de"}
 :block/parent 
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"}
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"}
 :block/properties 
 {}
 :block/uuid #uuid "646505fb-8303-4bb4-92e9-7f6d0a9d877f"} 
@@ -2822,11 +2822,11 @@
 :italic false}}
 :block/updated-at 1684342734128})
 :pages (
-{:block/uuid #uuid "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"
+{:block/uuid #uuid "65ce6ace-8293-45ec-9739-5c04a635cabf"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
-{:id "64416e7a-3561-4b46-ad3b-149a1ba2f4d5"
+{:id "65ce6ace-8293-45ec-9739-5c04a635cabf"
 :name "connecting"
 :bindings 
 {:3e8a7791-f33d-11ed-9b2c-4d36003089c8 
@@ -3545,7 +3545,7 @@
 :assets []
 :shapes-index ("40255850-f33c-11ed-9b2c-4d36003089c8" "43620cc0-f33c-11ed-9b2c-4d36003089c8" "4c501f20-f33c-11ed-9b2c-4d36003089c8" "5c466ce0-f33c-11ed-9b2c-4d36003089c8" "5c8857e0-f33c-11ed-9b2c-4d36003089c8" "5ca778a0-f33c-11ed-9b2c-4d36003089c8" "5cbf4660-f33c-11ed-9b2c-4d36003089c8" "5d122150-f33c-11ed-9b2c-4d36003089c8" "7601f320-f33c-11ed-9b2c-4d36003089c8" "99614730-f33c-11ed-9b2c-4d36003089c8" "ad5fd6c0-f33c-11ed-9b2c-4d36003089c8" "f0cf05c0-f33c-11ed-9b2c-4d36003089c8" "2cf742b0-f33d-11ed-9b2c-4d36003089c8" "30edaa32-f33d-11ed-9b2c-4d36003089c8" "33f62f42-f33d-11ed-9b2c-4d36003089c8" "499b9102-f33d-11ed-9b2c-4d36003089c8" "4c341630-f33d-11ed-9b2c-4d36003089c8" "4f11bab0-f33d-11ed-9b2c-4d36003089c8" "540287c0-f33d-11ed-9b2c-4d36003089c8" "628f8180-f33d-11ed-9b2c-4d36003089c8" "6b95d6d0-f33d-11ed-9b2c-4d36003089c8" "6f8fc0c0-f33d-11ed-9b2c-4d36003089c8" "0a583bf0-f33e-11ed-9b2c-4d36003089c8" "12394b20-f33e-11ed-9b2c-4d36003089c8" "125621f0-f33e-11ed-9b2c-4d36003089c8" "127a4bc0-f33e-11ed-9b2c-4d36003089c8" "129267a0-f33e-11ed-9b2c-4d36003089c8" "5ed0fd70-f33e-11ed-9b2c-4d36003089c8" "626ce8e0-f33e-11ed-9b2c-4d36003089c8" "7175a250-f33e-11ed-9b2c-4d36003089c8" "7793f2e0-f33e-11ed-9b2c-4d36003089c8" "94c258c0-f33e-11ed-9b2c-4d36003089c8" "ae83ab60-f33e-11ed-9b2c-4d36003089c8" "b27aaf20-f33e-11ed-9b2c-4d36003089c8" "c89a22e0-f33e-11ed-9b2c-4d36003089c8" "34bfaee0-f33f-11ed-9b2c-4d36003089c8" "34f67650-f33f-11ed-9b2c-4d36003089c8" "481f8d70-f33f-11ed-9b2c-4d36003089c8" "4e0d7f30-f33f-11ed-9b2c-4d36003089c8" "656dfe70-f33f-11ed-9b2c-4d36003089c8" "87b775b0-f33f-11ed-9b2c-4d36003089c8" "a9acd980-f33f-11ed-9b2c-4d36003089c8" "b39d40b0-f33f-11ed-9b2c-4d36003089c8" "e8570660-f33f-11ed-9b2c-4d36003089c8" "f29c1d40-f33f-11ed-9b2c-4d36003089c8" "01191170-f340-11ed-9b2c-4d36003089c8" "0ae7bfd0-f340-11ed-9b2c-4d36003089c8" "165fd870-f340-11ed-9b2c-4d36003089c8" "2b21df10-f340-11ed-9b2c-4d36003089c8" "339c2100-f340-11ed-9b2c-4d36003089c8" "663e9f70-f340-11ed-9b2c-4d36003089c8" "768cf840-f340-11ed-9b2c-4d36003089c8" "e72c4c90-f340-11ed-9b2c-4d36003089c8" "f4fa1500-f340-11ed-9b2c-4d36003089c8" "fa23f370-f340-11ed-9b2c-4d36003089c8" "fef68a20-f340-11ed-9b2c-4d36003089c8" "08cf71b0-f341-11ed-9b2c-4d36003089c8" "174d7750-f341-11ed-9b2c-4d36003089c8" "1a810400-f341-11ed-9b2c-4d36003089c8" "93bd4290-f3f3-11ed-ab41-0dcbb8390803" "07728970-f3f4-11ed-ab41-0dcbb8390803" "145a1090-f3f4-11ed-ab41-0dcbb8390803" "1d7a5680-f3f4-11ed-ab41-0dcbb8390803" "20937d60-f3f4-11ed-ab41-0dcbb8390803" "2ad62340-f3f4-11ed-ab41-0dcbb8390803" "45390d10-f3f4-11ed-ab41-0dcbb8390803" "49560f60-f3f4-11ed-ab41-0dcbb8390803" "5a2d2150-f4d2-11ed-ab41-0dcbb8390803" "a16984f0-f4d2-11ed-ab41-0dcbb8390803" "a84dbd90-f4d2-11ed-ab41-0dcbb8390803" "b84a4ce0-f4d2-11ed-ab41-0dcbb8390803" "b8bcbdc0-f4d2-11ed-ab41-0dcbb8390803" "c5b9efc0-f4d2-11ed-ab41-0dcbb8390803" "e0777cb0-f4d2-11ed-ab41-0dcbb8390803" "ebdf41a0-f4d2-11ed-ab41-0dcbb8390803" "f1b05c90-f4d2-11ed-ab41-0dcbb8390803" "01ac4fa0-f4d3-11ed-ab41-0dcbb8390803" "584272e0-f4d3-11ed-ab41-0dcbb8390803" "7f9bff00-f4d3-11ed-ab41-0dcbb8390803" "fc472070-f4d3-11ed-ab41-0dcbb8390803" "181a1500-f4d4-11ed-ab41-0dcbb8390803")}}
 :block/journal? false
-:block/updated-at 1684342734167
+:block/updated-at 1711794638682
 :block/created-at 1682009722622
 :block/type "whiteboard"
 :block/name "connecting"

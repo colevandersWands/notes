@@ -23,7 +23,7 @@ alias:: CERC
 		- defined/measure by principles from CRCE & other such theories
 		- with outreach to & [participation]([[Participatory Computing Education Research]]) with  practitioners, learners, industry, policy, et al.
 	- Coordinate trans-disciplinary research efforts to develop, improve, promote, and disseminate best practices in CE.
-		- by overseeing [[Translational Research Programmes]] defined by targeted Broader Impacts
+		- by overseeing [[Research Programmes/Translational]] defined by targeted Broader Impacts
 			- possibly executed with as [[Agile Computing Education Research]]
 		- in partnership with diverse researchers & practitioners
 		- by operating and/or supporting [[Model Course]]s

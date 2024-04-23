@@ -1,0 +1,2 @@
+- http://paulgraham.com/marginal.html
+-

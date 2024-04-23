@@ -1,0 +1,11 @@
+- /
+- tags:: bibliography
+- ## Abstract
+	- ((66044d4d-3679-400a-88ba-db93aa469a16))
+- ## Full Paper
+	- ![local copy](../assets/spandrels_1711557932371_0.pdf), [online](https://ecoevo.wdfiles.com/local--files/start/GouldLewontin1979.pdf)
+- ## Notes
+-
+- ## Citations
+- ## Cite Me
+-

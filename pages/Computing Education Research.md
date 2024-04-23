@@ -12,7 +12,7 @@ alias:: CER
 		- > I want timelines optimized for changing human civilization.
 		- id:: 6418f99b-22b1-46ff-80a2-7a0c53c49eea
 		  > Experiment with funding models that are less about concrete projects and more about long term trajectories that are contingent on the making the structural changes above. For example, I could imagine writing a proposal that says *“My university and research community have restructured incentives and our community would like to move in this direction; ten years of funding please.”*
-		- --> [[Translational Research Programmes]]?
+		- --> [[Research Programmes/Translational]]?
 - Is CER a [Translational Transdiscipline]([[Computing Education Research as a Translational Transdiscipline]])? #question
 	- **Translational:** CER exists to make CE more effective and inclusive. To do this, Theory & Practice must inform each other.
 	- **[Transdiscipline]([[Multidisciplinarity, Interdisciplinarity, and Transdisciplinarity in Health Research, Services, Education and Policy: 1. Definitions, Objectives and Evidence of Effectiveness]]):** CER must holistically consider educational systems. This means CER must engage with all stakeholders.

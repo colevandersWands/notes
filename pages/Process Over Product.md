@@ -1,6 +1,7 @@
 tags:: design
 
 - the skills learned struggling to learn professional tasks or use professional tooling are almost always **__not__** the skills needed to complete the tasks fluidly and ... professionally.   There are far too many implicit skills and far too much implicit knowledge that developers take for granted.
+	- the skills learned struggling to learn professional tasks or use professional tooling are almost always **__not__** the skills needed to complete the tasks fluidly and ... professionally.   There are far too many implicit skills and far too much implicit knowledge that developers take for granted.
 - The difference between a competent programmer and an impressive programmer isn't so much what they build as how effortlessly they can build it. The competent programmer may need to spend days of hard study to arrive at the same finished code that the impressive developer could write in a couple hours.  This is because the impressive developer has impressive *_first instincts_*.  They intuitively ask and answer the right questions at the right time, moving them efficiently along to a good solution.
 - Fortunately this can be learned!  By creating exercises that explicitly ask your students to complete a series of well-defined sub-tasks instead of simply providing open-ended challenges, you can help them to build reliable thought habits that will give them two whole legs up.
 - "Practice makes permanent. Perfect practice makes perfect."

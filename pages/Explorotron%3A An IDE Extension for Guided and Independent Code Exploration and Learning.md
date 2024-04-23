@@ -1,0 +1,18 @@
+-
+- tags:: bibliography
+- ## Abstract
+	-
+- ## Full Paper
+	- ![local copy](../assets/explorotron-paper_1709468279334_0.pdf), [online](https://wise.vub.ac.be/sites/default/files/publications/Malaise_KoliCalling2023.pdf)
+	- [video](https://speakerdeck.com/yoshimalaise/explorotron-an-ide-extension-for-guided-and-independent-code-exploration-and-learning)
+- ## Notes
+	- https://github.com/yoshimalaise/Explorotron
+	  title:: Explorotron: An IDE Extension for Guided and Independent Code Exploration and Learning
+	- https://github.com/yoshimalaise/explorotron-example-repo
+	- https://marketplace.visualstudio.com/items?itemName=YoshiMalaise.explorotron
+-
+- ## Citations
+	- [[Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula]]
+	- [[Computing Education Research as a Translational Transdiscipline]]
+- ## Cite Me
+	- Malaise, Y. and Signer, B.: "Explorotron: An IDE Extension for Guided and Independent Code Exploration and Learning", Proceedings of Koli Calling 2023, 23rd International Conference on Computing Education Research, Koli, Finland, November 2023

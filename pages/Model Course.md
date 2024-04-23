@@ -13,7 +13,7 @@ alias:: Representative Course
 - MC's are designed to be [[Trading Zone]].  They should be welcoming of any unexpected source of collaboration that stands to benefit learners.
 - MC's can be hosted many ways:
 	- a [[Computing Education Research Center]] may host them as outreach and to help build community within CER
-	- [[Translational Research Programmes]] may host them for longitudinal studies, especially helpful for #phase/2 #phase/4
+	- [[Research Programmes/Translational]] may host them for longitudinal studies, especially helpful for #phase/2 #phase/4
 	- they may be hosted elsewhere, perhaps by a school, with additional support from researchers
 - the research coordinator(s) should handle the infrastructure for data collection and analysis.  contributing should be minimal extra effort for educators
 	- a "permanent" MC run by a [[Computing Education Research Center]] or other organization could even have experimental support integrated in it's physical and digital infrastructure

@@ -1,5 +1,7 @@
 tags:: bibliography
+alias:: Abstraction Transition Taxonomy
 
+-
 - ## Abstract
 	- We report on a post-hoc analysis of introductory programming lecture materials. The purpose of this analysis is to identify what knowledge and skills we are asking students to acquire, as situated in the activity, tools, and culture of what programmers do and how they think. The specific materials analyzed are the 133 Peer Instruction questions used in lecture to support cognitive apprenticeship – honoring the situated nature of knowledge. We propose an Abstraction Transition Taxonomy for classifying the kinds of knowing and practices we engage students in as we seek to apprentice them into the programming world. We find students are asked to answer questions expressed using three levels of abstraction: English, CS Speak, and Code. Moreover, many questions involve asking students to transition between levels of abstraction within the context of a computational problem. Finally, by applying our taxonomy in classifying a range of introductory programming exams, we find that summative assessments (including our own) tend to emphasize a small range of the skills fostered in students during the formative/apprenticeship phase.
 - ## Full Paper

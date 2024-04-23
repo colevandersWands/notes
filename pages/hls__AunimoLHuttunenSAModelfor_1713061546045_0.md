@@ -1,0 +1,8 @@
+file:: [AunimoLHuttunenSAModelfor_1713061546045_0.pdf](../assets/AunimoLHuttunenSAModelfor_1713061546045_0.pdf)
+file-path:: ../assets/AunimoLHuttunenSAModelfor_1713061546045_0.pdf
+
+- Finnish IT companies are facing a shortage of software engineers in several fields of software development. The field evolves quickly as new technologies emerge, as processing power of computers grows and as data available for processing becomes abundant. How can a university of applied sciences keep its teaching relevant from the point of view of companies that need personnel with new skills and knowledge? How do the teachers keep their own professional knowledge and skills up to date to be able to pass the knowledge and skills on to their students? How do the educational institutions know what kind of skills and knowledge the employers need in the first place? This paper presents a model for tackling the above-mentioned challenges in the context of university level education of future and current IT-professionals. The model has been tested in the teaching of artificial intelligence to undergraduate students of business information technology. Experiences from the implementations of the model have been gathered and analysed. The results show that the model clearly is a success among all stakeholders. The main novelty of the model is that it allows the dynamic and timely adjustment of curricula when new skill and knowledge requirements arise from the industry.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 661b3ecc-5321-4342-b376-f65a7767a89f

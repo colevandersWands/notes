@@ -242,7 +242,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Home"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -340,12 +340,12 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "dd-MM-yyyy"
- :feature/enable-journals? false
+ :feature/enable-journals? true
  :editor/preferred-pasting-file? false
  :default-home {:page "home"}
  :publishing/all-pages-public? true
  :editor/logical-outdenting? false
- :feature/enable-flashcards? false
+ :feature/enable-flashcards? true
  :graph/settings {:orphan-pages? false, :builtin-pages? false}
 
  ;; specify the format of the filename for journal files

@@ -10,7 +10,8 @@ tags:: reference, bibliography
 			- Theoretical Stance --> [[Conceptualizing the Researcher-Theory Relation]]
 		- _Ontology_: ((6401fcb3-3840-488e-8500-f491cd42d237))
 		  id:: 64309fea-a5d4-48ea-9118-70bf06013ce0
-			- ((64020205-0c06-4a96-bdda-296eea0850db)) - [[Trading Zones]] [TCER]([[Computing Education Research as a Translational Transdiscipline]])
+			- ((64020205-0c06-4a96-bdda-296eea0850db)) - [[Trading Zone]] [TCER]([[Computing Education Research as a Translational Transdiscipline]])
+id:: 64416d56-91fd-4e38-8cc7-a6d37dd798bf
 		- _Epistemology_: ((6401fd58-2dfa-44a4-b6d9-c40ea12a5821))
 		  id:: 64309fea-7d06-46e1-8f00-eaa3e78b79ce
 			- ((6401fd67-0db6-41c5-9261-639639695b90))
@@ -43,8 +44,8 @@ tags:: reference, bibliography
 			- **Interdisciplinary** research synthesizes approaches from different disciplines into a new and coherent whole
 			- **Transdisciplinary** research integrates and transcends disciplinary boundaries, bridging humanities and sciences
 			- ((64020b2d-73cd-405f-ba67-c20e6bf8272f))
-				- [[Translational Research Programmes]]
-			- ((64023114-53f3-4bd0-9806-a09114aada9d)) - could also help with [[Research-Practice Partnership]] and [[Translational Research Programmes]]
+				- [[Research Programmes/Translational]]
+			- ((64023114-53f3-4bd0-9806-a09114aada9d)) - could also help with [[Research-Practice Partnership]] and [[Research Programmes/Translational]]
 				- 1. creation of collective glossaries
 				  2. definition of [[Boundary Objects]] - [[Trading Zone]]
 				  3. use of combined problem- and solution- oriented approaches
